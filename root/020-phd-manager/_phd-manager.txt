@@ -6,3 +6,10 @@ use_long_title_for_toc: yes
 *Haplo PhD Manager* manages the administration and reporting of Doctoral Research programmes at Higher Education institutions. As each institution's rules, regulations and processes are different, it is delivered as a service to perform extensive customisations and provide long term support and hosting.
 
 *We are in the process of reformatting our PDF documentation. If the documentation you need is not available here, please get in touch with your support contact.*
+
+h2. Administrator's manual
+
+This manual supports IT professionals who are working with Haplo PhD Manager applications.
+
+[node:phd-manager/setup:Setting up and configuring] a Haplo PhD Manager application
+

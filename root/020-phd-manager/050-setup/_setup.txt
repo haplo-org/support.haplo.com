@@ -1,0 +1,18 @@
+title: Setup
+long_title: PhD Manager setup
+--
+
+The Haplo team with work with you and your colleagues to specify the requirements for your PhD Manager application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
+
+
+h2. Data sync and import
+
+The most important task for IT at the institution is to provide good quality data:
+
+* Set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
+
+* Set up [node:phd-manager/setup/user-sync:user sync] for the PhD Manager module
+
+* Import any legacy data
+
+* Resolve any data quality issues
