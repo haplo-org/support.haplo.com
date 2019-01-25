@@ -1,0 +1,17 @@
+
+This documentation is copyright Haplo Services Ltd.
+
+------------------------------------------------------------------------------------
+
+This distribution contains software by other authors, licensed to you as follows:
+
+SyntaxHighlighter
+web/static/presentation/syntaxhighlighter/*
+  http://alexgorbatchev.com/SyntaxHighlighter
+  Dual licensed under the MIT and GPL licenses.
+  It is included in this distribution under the MIT license.
+
+Ubuntu Font Family
+web/static/presentation/font/ubuntu-*
+  http://font.ubuntu.com/
+  Ubuntu Font Licence: http://font.ubuntu.com/licence/

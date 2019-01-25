@@ -1,0 +1,8 @@
+title: Home
+long_title: Haplo Support Library
+--
+
+
+h2. Getting help
+
+If you have any questions, please get in touch with your support contact.
