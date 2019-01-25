@@ -1,0 +1,8 @@
+title: Ethics Monitor
+long_title: Haplo Ethics Monitor
+use_long_title_for_toc: yes
+--
+
+*Haplo Ethics Monitor* manages the administration and reporting of the ethical governance process at research institutions.
+
+*We are in the process of reformatting our PDF documentation. If the documentation you need is not available here, please get in touch with your support contact.*

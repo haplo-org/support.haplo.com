@@ -1,8 +1,19 @@
 title: Home
 long_title: Haplo Support Library
+class: DocNodeTextileWithTOC
 --
+
+This site provides technical setup and ongoing support documentation for "Haplo's commercial products":https://www.haplo.com/products.
+
+Much of our work is open source, so in many cases this documentation refers to the open source documentation at "docs.haplo.org":https://docs.haplo.org.
+
+*We are in the process of reformatting our PDF documentation. If the documentation you need is not available here, please get in touch with your support contact.*
 
 
 h2. Getting help
 
 If you have any questions, please get in touch with your support contact.
+
+
+h2. Haplo's products
+
