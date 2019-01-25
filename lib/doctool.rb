@@ -19,7 +19,7 @@ require './lib/doc_server'
 if ARGV[0] == 'publish'
   git_revision = `git rev-parse --verify --short HEAD`.strip
   git_timestamp = `git log -1 --format=%ct`.strip.to_i
-  commit_time = Time.at(git_timestamp).strftime("%Y-%m-%d")
+  commit_time = Time.at(git_timestamp).strftime("%Y%m%d-%H%M")
   SOURCE_CONTROL_DATE = Time.at(git_timestamp).strftime("%d %b %Y")
   PACKAGING_VERSION = "#{commit_time}-#{git_revision}"
   UPDATED_MESSAGE = "Revision: #{git_revision} | Last Updated: #{SOURCE_CONTROL_DATE}"
@@ -97,11 +97,12 @@ when 'publish'
   end
   puts; puts "#{counter} files compressed"
   puts "Queue archive..."
-  queued_result = `onedeploy --archive-root=#{PUBLISH_DIR} --archive-name=webroot-docs --archive-comment="docs.haplo.org #{PACKAGING_VERSION}" queue-archive .`
+  queued_result = `onedeploy --archive-root=#{PUBLISH_DIR} --archive-name=support-haplo-com --archive-comment="support.haplo.com #{PACKAGING_VERSION}" queue-archive .`
+
   queued_archive = JSON.parse(queued_result)
   puts "Queue manifest..."
   manifest = {
-    "name" => "website-docs",
+    "name" => "support-haplo-com",
     "version" => PACKAGING_VERSION,
     "description" => "Products support documentation web site",
     "install_path" => "/oneis/sites/support.haplo.com",
