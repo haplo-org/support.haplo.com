@@ -1,0 +1,19 @@
+title: Shibboleth
+long_title: Shibboleth (UK Federation)
+--
+
+Haplo is a member of the "UK Access Management Federation
+for Education and Research":https://www.ukfederation.org.uk/, and authentication via Shibboleth is our preferred method of authentication.
+
+To allow us to authenticate your users, you must configure your IdP to release appropriate claims to the Haplo SP. The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
+
+The ID of our SP is @uk003431@, and the entityId is:
+
+   @http://shib1.haplo-services.net/shibboleth@
+
+Note that the UK Federation uses @http:@ URLs for entityIds, but the service is only available over @https:@.
+
+Once you have set up your SP, please send us an email to let us know, and confirm your IdP's entityId.
+
+Provision of a test account will speed up testing and deployment. Please provide details using the secure messaging system provided.
+

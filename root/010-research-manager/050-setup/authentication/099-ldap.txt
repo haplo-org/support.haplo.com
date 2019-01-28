@@ -1,0 +1,25 @@
+title: LDAP (legacy)
+long_title: LDAP authentication (legacy)
+--
+
+We prefer not to use LDAP, because passwords pass through the Haplo hosted service.
+
+Haplo only supports LDAPS (LDAP with SSL encryption). Unencrypted LDAP cannot be used.
+
+Please send the following information to your technical contact using the secure messaging system provided:
+
+* LDAP server hostname (must be accessible from the internet)
+
+* LDAP server port number
+
+* Service account details (a username and password for an account which can search the LDAP server for a given user)
+
+* The root SSL certificate (may be self-signed or a public CA)
+
+* The common names on a valid SSL certificates. (If you load balance, there may be more than one name. The names do not have to match the hostname.)
+
+* The search paths to use when looking for a user, eg @OU=Unit1,DC=example,DC=com@ (multiple search paths can be provided)
+
+* The search query to use, eg @(&(sAMAccountName={0})(objectClass=user))@
+
+* A username and password for a test account.
