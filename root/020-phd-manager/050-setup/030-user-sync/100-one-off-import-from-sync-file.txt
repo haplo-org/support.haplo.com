@@ -1,0 +1,16 @@
+title: One-off import
+long_title: One-off import from user sync data files
+use_long_title_for_toc: yes
+--
+
+In some cases, you will want to import some data from the student records system as a one-off import. Typically this is data like the project end date, where you want to keep the current values when you move to PhD Manager, but going forward it will be calculated by PhD Manager.
+
+A useful strategy is to:
+
+* Include this data in the export from the student records system.
+
+* Don't use the data in the user sync control file.
+
+* Write a separate control file for the one-off import, which shares any custom data readers with the user sync.
+
+* After running the first user sync, perform a "batch import":https://docs.haplo.org/import/batch using the second control file.
