@@ -12,11 +12,19 @@ As it's used to perform regulatory reports, typically the student record system 
 * Programme of study
 * Mode (full time or part time)
 * Status (active, suspended, etc)
+* REF Unit of Assessment
+* Nationality: Home, EU, international
+* Visa type (especially for Tier 4 monitoring)
+* "ATAS":https://www.gov.uk/guidance/academic-technology-approval-scheme status
+* Disability information
 
 Finally, institutions will make decisions about whether other data is maintained in PhD Manager or other institutional systems. While the data is perhaps best managed in PhD Manager, some institutions also send:
 
 * Project supervisors
 * Project title
-* Key dates
+* Key dates, for example, annual reviews and project end date
+* Scholarship/studentship information
 
 The Haplo team will provide advice during requirements gathering about the best approach for your institution's individual circumstances.
+
+In particular, it is best to avoid syncing dates other than the start date, and use PhD Manager's date rules engine to calculate all project dates.
