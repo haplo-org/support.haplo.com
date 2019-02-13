@@ -3,26 +3,29 @@ title: Required data
 
 Data will typically be sourced from your student records system and HR system. At the very minimum, you need to provide:
 
-* Core user details: Name, Username, Email, Organisational unit
-* Category of user: Admin, Researcher (supervisor), PhD Researcher (student)
-* Project start date
+* Core user details: Name, Username/ID, Email, Organisational unit
+* Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student)
+* Registration/enrolment start date
 
-As it's used to perform regulatory reports, typically the student record system will be the system of record for some key information about the student. You'll probably need to provide:
+As it's used to perform regulatory reports, typically the student record system will continue to be the system of record for some key information about the student. Depending on the requirements of your graduate school, you'll probably need to provide:
+
 
 * Programme of study
 * Mode (full time or part time)
 * Status (active, suspended, etc)
+* Visa type (especially for Tier 4 monitoring)
+
+Your institution may also want to provide:
+
 * REF Unit of Assessment
 * Nationality: Home, EU, international
-* Visa type (especially for Tier 4 monitoring)
 * "ATAS":https://www.gov.uk/guidance/academic-technology-approval-scheme status
 * Disability information
 
-Finally, institutions will make decisions about whether other data is maintained in PhD Manager or other institutional systems. While the data is perhaps best managed in PhD Manager, some institutions also send:
+The following data is best managed directly in PhD Manager, and we would recommend a one-off import from the current source upon deployment:
 
 * Project supervisors
 * Project title
-* Key dates, for example, annual reviews and project end date
 * Scholarship/studentship information
 
 The Haplo team will provide advice during requirements gathering about the best approach for your institution's individual circumstances.
