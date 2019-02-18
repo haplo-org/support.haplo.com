@@ -54,13 +54,15 @@ You need to "map the codes":https://docs.haplo.org/import/control/mapping to PhD
 
 h2. Supervisors
 
-In the @phd:project:supervisors@ Destination, there are fields for the various people supervising the PhD researcher.
+In the @phd:project:supervisors@, @phd:project:advisors@ and @phd:project:chairs@ Destinations, there are fields for the various people supervising the PhD researcher.
 
 @supervisor0@ to @supervisor3@ are the supervisory roles who are directly involved in the supervision of the PhD researcher, and will participate in approval workflows. @supervisor0@ is a traditional primary supervisor or "director of studies", and the other supervisors are secondary supervisors.
 
 @advisor@ is an additional supervisory role that doesn't participate in workflows.
 
-Supervisors are set with the _username_ of the advisor, which the user sync will turn into a link to the supervisor's profile.
+@chair@ typically oversees the examination process.
+
+Supervisors are set with the _username_ of the supervisor, which the user sync will turn into a link to the supervisor's profile.
 
 Each of these *Names* is multi-value. If multiple supervisors are set in a Name, they will be sorted by username so each run is consistent. Remember to use @"multivalue":true@ in the instruction when using multi-value supervisors.
 
