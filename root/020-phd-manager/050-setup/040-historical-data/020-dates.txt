@@ -19,6 +19,8 @@ The following information is needed in a single file:
 * username of PhD researcher (to match the username in the [node:phd-manager/setup/user-sync])
 * end date of project
 
+End dates may be provided in any consistent, machine-readable format.
+
 
 h2. Historical milestone
 
@@ -29,3 +31,5 @@ If milestones, such as previous annual progress reviews, are available and relev
 * date of milestone
 
 The milestone 'kind' can be any reasonable description of the milestone, either a code or a human readable name.
+
+Milestone dates may be provided in any consistent, machine-readable format.

@@ -25,3 +25,4 @@ Please provide a file with records containing the following fields:
 This file may be in any reasonable structure in JSON, XML or TSV.
 
 
+Date fields may be provided in any consistent, machine-readable format.

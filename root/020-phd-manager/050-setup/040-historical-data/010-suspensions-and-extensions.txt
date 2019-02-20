@@ -11,3 +11,5 @@ Please provide a file with records containing the following fields:
 * end date of period
 
 This file may be in any reasonable structure in JSON, XML or TSV.
+
+Date fields may be provided in any consistent, machine-readable format.
