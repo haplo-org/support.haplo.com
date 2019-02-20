@@ -1,0 +1,31 @@
+title: Other dates
+--
+
+You may wish to provide information about key dates for current PhD researchers. This is optional, except in cases where date calculations use previous milestones as an input.
+
+Note that information on [node:phd-manager/setup/historical-data/suspensions-and-extensions] is required for all current PhD Researchers.
+
+Files may be in any reasonable structure in JSON, XML or TSV.
+
+It may be easier to [node:phd-manager/setup/user-sync/one-off-import-from-sync-file:re-use the information gathered for the user sync].
+
+
+h2. End dates
+
+If your end dates have been calculated in a legacy system, they can be used to verify the new calculated dates. Depending on the requirements, they may be used to make adjustments to the new calculations.
+
+The following information is needed in a single file:
+
+* username of PhD researcher (to match the username in the [node:phd-manager/setup/user-sync])
+* end date of project
+
+
+h2. Historical milestone
+
+If milestones, such as previous annual progress reviews, are available and relevant, they can be provided in a single file with the following fields:
+
+* username of PhD researcher (to match the username in the [node:phd-manager/setup/user-sync])
+* kind of milestone
+* date of milestone
+
+The milestone 'kind' can be any reasonable description of the milestone, either a code or a human readable name.

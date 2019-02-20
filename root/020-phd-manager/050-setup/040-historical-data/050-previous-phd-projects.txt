@@ -1,0 +1,26 @@
+title: Previous PhD projects
+--
+
+While not essential, you may wish to import details of previous PhD researchers for historical reporting and to complete the supervision experience of supervisors.
+
+You must make sure that this data does not include any details of current PhD researchers that appear in the [node:phd-manager/setup/user-sync].
+
+It may be easier to provide this information as [node:phd-manager/setup/historical-data/supervisory-experience:your supervisor's supervisory experience].
+
+The following information is required:
+
+* Name of PhD researcher, split into fields: title, first name, last name.
+* Thesis title
+* Project type (PhD, MRes, etc)
+* Outcome (completed, withdrawn)
+* Organisational unit
+* Supervisor information
+
+For each of the supervisors, provide:
+
+* username of the supervisor
+* Name, split into fields: title, first name, last name.
+* Organisational unit
+* Email address
+
+This information needs to be provided in a structured format in a single file. Please discuss formats with your Haplo contact before preparing a data extract.
