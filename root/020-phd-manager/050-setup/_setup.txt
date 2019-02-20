@@ -13,6 +13,6 @@ The most important task for IT at the institution is to provide good quality dat
 
 * Set up [node:phd-manager/setup/user-sync:user sync] for the PhD Manager module
 
-* Import any legacy data
+* Import any [node:phd-manager/setup/historical-data:historical data], of which only the [node:phd-manager/setup/historical-data/suspensions-and-extensions:suspensions and extensions] is required.
 
 * Resolve any data quality issues
