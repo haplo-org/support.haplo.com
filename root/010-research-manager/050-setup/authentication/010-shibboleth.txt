@@ -1,19 +1,34 @@
 title: Shibboleth
-long_title: Shibboleth (UK Federation)
+long_title: Shibboleth
 --
 
-Haplo is a member of the "UK Access Management Federation
-for Education and Research":https://www.ukfederation.org.uk/, and authentication via Shibboleth is our preferred method of authentication.
+Haplo is a member of a number of Shibboleth federations, and authentication via Shibboleth is our preferred method of authentication. The details of our Service Provider in each federation are listed below.
 
-To allow us to authenticate your users, you must configure your IdP to release appropriate claims to the Haplo SP. The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
+To allow us to authenticate your users, you must configure your Identity Provider (IdP) to release appropriate claims to the Haplo SP. The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
 
-The ID of our SP is @uk003431@, and the entityId is:
+After you have set up your IdP, please send an email to your Haplo contact with:
 
-   @http://shib1.haplo-services.net/shibboleth@
+* Which federation you are using.
+* Your IdP's entityId.
+* The claims you have released.
+
+Provision of a test account will speed up testing and deployment. Please provide details using the secure messaging system provided.
+
+
+h2. UK Federation
+
+The "UK Federation":https://www.ukfederation.org.uk/ authenticates users at UK education and research institutions.
+
+|*ID*|@uk003431@|
+|*entityId*|@http://shib1.haplo-services.net/shibboleth@|
 
 Note that the UK Federation uses @http:@ URLs for entityIds, but the service is only available over @https:@.
 
-Once you have set up your SP, please send us an email to let us know, and confirm your IdP's entityId.
 
-Provision of a test account will speed up testing and deployment. Please provide details using the secure messaging system provided.
+h2. Tuakiri (New Zealand)
+
+"Tuakiri":https://reannz.co.nz/services/network-cloud-services/tuakiri/ is New Zealand's federated identity management service.
+
+|*ID*|@363@|
+|*entityId*|@https://shib11.haplo-services.net/shibboleth@|
 
