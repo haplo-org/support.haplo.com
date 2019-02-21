@@ -5,8 +5,7 @@ class: DocNodeTextileWithTOC
 
 As part of the setup process, some historical data will need to be imported.
 
-It is *vital* that information about [node:phd-manager/setup/historical-data/suspensions-and-extensions:historical suspensions and extensions] for current PhD researchers are provided, as without this information, the project date calculations will be incorrect.
-
+It is *vital* that information about [node:phd-manager/setup/historical-data/suspensions-and-extensions:historical suspensions and extensions] and [node:phd-manager/setup/historical-data/dates:project end dates] for current PhD researchers are provided, as without this information, the project date calculations will be incorrect.
 
 h2. Data for import
 

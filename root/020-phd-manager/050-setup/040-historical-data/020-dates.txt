@@ -1,7 +1,7 @@
 title: Other dates
 --
 
-You may wish to provide information about key dates for current PhD researchers. This is optional, except in cases where date calculations use previous milestones as an input.
+You will need to provide information about key dates for current PhD researchers. The only required date, which is vital for correct calculations, is the project end. Other dates are optional, except in cases where date calculations use previous milestones as an input.
 
 Note that information on [node:phd-manager/setup/historical-data/suspensions-and-extensions] is required for all current PhD Researchers.
 
@@ -12,7 +12,7 @@ It may be easier to [node:phd-manager/setup/user-sync/one-off-import-from-sync-f
 
 h2. End dates
 
-If your end dates have been calculated in a legacy system, they can be used to verify the new calculated dates. Depending on the requirements, they may be used to make adjustments to the new calculations.
+It is essential to provide end dates as calculated in a legacy system. They will be used to verify newly calculated dates, and to make adjustments to the new calculations where relevant.
 
 The following information is needed in a single file:
 
