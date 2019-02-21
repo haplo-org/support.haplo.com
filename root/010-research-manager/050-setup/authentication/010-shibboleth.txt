@@ -2,9 +2,11 @@ title: Shibboleth
 long_title: Shibboleth
 --
 
-Haplo is a member of a number of Shibboleth federations, and authentication via Shibboleth is our preferred method of authentication. The details of our Service Provider in each federation are listed below.
+Haplo is a member of a number of Shibboleth federations, and authentication via Shibboleth is our preferred method of authentication. The details of our Service Provider (SP) in each federation are listed below.
 
-To allow us to authenticate your users, you must configure your Identity Provider (IdP) to release appropriate claims to the Haplo SP. The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
+To allow us to authenticate your users, you may need to configure your Identity Provider (IdP) to release appropriate claims to the Haplo SP. See the instructions for your federation below.
+
+The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
 
 After you have set up your IdP, please send an email to your Haplo contact with:
 
@@ -12,7 +14,7 @@ After you have set up your IdP, please send an email to your Haplo contact with:
 * Your IdP's entityId.
 * The claims you have released.
 
-Provision of a test account will speed up testing and deployment. Please provide details using the secure messaging system provided.
+Provision of a test account will speed up testing and deployment. Please provide details using the secure messaging system.
 
 
 h2. UK Federation
@@ -21,6 +23,8 @@ The "UK Federation":https://www.ukfederation.org.uk/ authenticates users at UK e
 
 |*ID*|@uk003431@|
 |*entityId*|@http://shib1.haplo-services.net/shibboleth@|
+
+By default, the UK Federation does not send any identifying claims to Service Providers. You must configure your IdP to release the appropriate identifier.
 
 Note that the UK Federation uses @http:@ URLs for entityIds, but the service is only available over @https:@.
 
@@ -32,3 +36,6 @@ h2. Tuakiri (New Zealand)
 |*ID*|@363@|
 |*entityId*|@https://shib11.haplo-services.net/shibboleth@|
 
+Tuakiri provides a default attribute list to IdPs. If you use this list, then your IdP will identify the username and email address of your users, which is likely to be sufficient.
+
+If you do not use the default attribute list, or you use a different identifier within the user feed, then you will need to manually configure your IdP.
