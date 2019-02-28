@@ -23,8 +23,6 @@ CLICK_PATH TOOLS > Data import > Models > haplo:user-sync
 
 After you have selected the fields, click _Generate control file_ to produce the initial version. Then, referring to the "user sync documentation":https://docs.haplo.org/import/user-sync, set up the input files and adjust the instructions and mappings.
 
-It is recommended to have error logging to ensure good data received from the feed. For example, it is common for ethics applications to have to go to the head of department for review, so it would be a good idea to use the "log-error":https://docs.haplo.org/import/control/instruction/log-error instruction if department information isn't present in order to catch potential issues early.
-
 h2. Managed groups
 
 The user sync uses "Managed groups":https://docs.haplo.org/import/user-sync/user-groups to categorise the users in the sync. The control file will need to include a mapping from the category provided in the input files to the appropriate group code in Haplo. The following groups are available by default:
