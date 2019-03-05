@@ -1,0 +1,24 @@
+title: Upload script
+long_title: User sync upload script
+--
+
+Once you have your control file, you should write an "upload script":https://docs.haplo.org/import/user-sync/upload-script to upload the control file and data. This will make it much easier for you to test.
+
+Every time you make a change to your control file or data, run the script to upload the new data to a test application and run the user sync.
+
+To manage the user sync, including:
+
+* viewing the current status of the sync and logs;
+* running the user sync manually if prompted by the response from the server after running the upload script;
+* creating API keys;
+* viewing the current control file;
+
+navigate to the user sync administration page in Ethics Monitor.
+
+CLICK_PATH TOOLS > User sync administration
+
+h2. Checking data quality
+
+Once the user sync has completed, a log of activity will be available to view in the "Sync runs" table, along with information about when the sync was applied, the number of errors encountered, and the files uploaded for that run. Review any errors from the sync to check for data quality or control file issues.
+
+You will find that there are some errors that are logged by default, such as a missing name or an unknown mapping. You may wish log additional errors that are specific to your institution's data or requirements from your system configuration. If that is the case, see documentation on the "log-error instruction":https://docs.haplo.org/import/control/instruction/log-error.
