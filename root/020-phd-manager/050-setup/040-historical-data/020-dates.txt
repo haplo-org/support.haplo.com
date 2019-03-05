@@ -5,7 +5,7 @@ You will need to provide information about key dates for current PhD researchers
 
 Note that information on [node:phd-manager/setup/historical-data/suspensions-and-extensions] is required for all current PhD Researchers.
 
-Files may be in any reasonable structure in JSON, XML or TSV.
+Files may be in any reasonable structure in "JSON, XML or TSV":https://docs.haplo.org/import/control/files#File_formats.
 
 It may be easier to [node:phd-manager/setup/user-sync/one-off-import-from-sync-file:re-use the information gathered for the user sync].
 

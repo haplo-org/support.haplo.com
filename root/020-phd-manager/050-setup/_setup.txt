@@ -4,15 +4,46 @@ long_title: PhD Manager setup
 
 The Haplo team with work with you and your colleagues to specify the requirements for your PhD Manager application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
 
+During the setup process, Haplo will provide you with a project room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the project room.
 
-h2. Data sync and import
+h2. User sync and data import
 
-The most important task for IT at the institution is to provide good quality data:
+The most important task for IT at the institution is to provide good quality data.
 
-* Set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
+*Preparing data*
 
-* Set up [node:phd-manager/setup/user-sync:user sync] for the PhD Manager module
+* Before compiling the data, the Haplo team will discuss with you what information you require imported into the system.
+
+* The data should be provided in one of the "supported file formats":https://docs.haplo.org/import/control/files. Spreadsheets should be converted to a structured format.
+
+* If any data is provided as a code (for example, organisational unit or visa status) the institution should provide a mapping for interpreting the codes.
+
+*Setup* - depending on your contract, the Haplo team may provide you with the initial setup
+
+* Set up [node:phd-manager/setup/user-sync:user sync] for the PhD Manager module.
 
 * Import any [node:phd-manager/setup/historical-data:historical data], of which [node:phd-manager/setup/historical-data/suspensions-and-extensions:suspensions and extensions] and [node:phd-manager/setup/historical-data/dates:project end dates] are required.
 
-* Resolve any data quality issues
+*Completion*
+
+* Resolve any data quality issues.
+
+* Adjust mappings, if necessary.
+
+Storing data in a test system is compliant under GDPR.
+
+h2. Authentication
+
+Once the [node:phd-manager/setup/user-sync:user sync] has been set up, the Haplo team will contact the institution to request the required information for [node:research-manager/setup/authentication:setting up authentication] to the application.
+
+h2. Integrations
+
+Data can be pushed in or retrieved on an ad-hoc basis. The available options fall into three categories:
+
+* Push data into the system using our "REST API":https://docs.haplo.org/import/rest-api. This is self service and we will guide you in setting it up.
+
+* Poll the application for changes.
+
+* Have the Haplo application output a queue of changes for an administrator to apply manually in the institution's system.
+
+Any such integrations will need to be discussed with the Haplo team in advance in order to determine the feasibility of the integration and determine what work is required.
