@@ -23,4 +23,4 @@ For each of the supervisors, provide:
 * Organisational unit
 * Email address
 
-This information needs to be provided in a structured format in a single file. Please discuss formats with your Haplo contact before preparing a data extract.
+This information needs to be provided in a "structured format":https://docs.haplo.org/import/control/files#File_formats in a single file. Please discuss formats with your Haplo contact before preparing a data extract.
