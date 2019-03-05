@@ -9,6 +9,27 @@ Much of our work is open source, so in many cases this documentation refers to t
 
 *We are in the process of reformatting our PDF documentation. If the documentation you need is not available here, please get in touch with your support contact.*
 
+h2. Documents
+
+<p><a href="https://www.haplo-services.com/docs/Haplo_Implementation_Plan.pdf">Project plan</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_Standard_Terms_Website.pdf">Terms and conditions including Service Level Agreement</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Testing_Guide.pdf">Testing Guide</a></p>
+<h3>User Manuals</h3>
+<p><a href="https://www.haplo-services.com/docs/Haplo_IT_Support_manual.pdf">IT Support manual</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Administrators_manual.pdf">Haplo Administrators manual</a><br />
+<a href="https://www.haplo-services.com/docs/Configuring_roles_in_Haplo_applications.pdf">Configuring roles in Haplo applications</a></p>
+<h3>Product Specifications</h3>
+<p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
+<a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a><br />
+<a href="https://www.haplo-services.com/docs/Ethics_Monitor_screenshots.pdf">Ethics Monitor screenshots</a><br />
+<a href="https://www.haplo-services.com/docs/Ethics_Monitor_Product_Specification.pdf">Ethics Monitor Product Specification</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_screenshots.pdf">Haplo Research Manager screenshots</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_Technical_Specification.pdf">Haplo Research Manager Technical Specification</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Repository_illustrated_guide.pdf">Haplo Repository illustrated guide</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Repository_Brochure.pdf">Haplo Repository Specification</a></p>
+<h3>Certification</h3>
+<p><a href="https://www.haplo-services.com/docs/Haplo_Services_ISO27001_2018.pdf">ISO27001 certificate</a></p>
+
 
 h2. Getting help
 
