@@ -1,0 +1,85 @@
+title: Professional services staff
+long_title: Common roles for professional services staff
+--
+
+The roles used in Haplo vary between institutions and the permissions applied to those roles can also vary between institutions. The descriptions below are the common roles and common permissions used by most institutions. 
+
+Access to PhD Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
+
+
+h2. Professional services staff
+
+Can view basic information (name, email, department) on student profiles and staff profiles.
+Receives notifications when required to take an action.
+Receives a weekly reminder of outstanding tasks.
+
+*Special permissions* normally applied to all professional services staff who would require this:
+
+Can add users to University/School/Department roles.
+
+
+h3. PhD Manager
+
+*Graduate School Manager and Graduate School Office staff*
+
+Can access information about all Postgraduate Research projects.
+Can access Postgraduate Research dashboards.
+
+*School/Department Postgraduate Research Administrator*
+
+Can access information about Postgraduate Research projects within their school or department.
+Can access Graduate School dashboards but only view information about postgraduate researchers in their school/department.
+
+*Training facilitator*
+
+Can create and edit training events. 
+Can invite Postgraduate Researchers to events.
+Can monitor sign-up responses to events and view waiting lists. 
+Can confirm the attendance of attendees after an event. 
+Can access dashboards related to event management.
+Can view the training needs analysis, training plans, and training logs of Postgraduate Researchers. 
+
+h3. Ethics Monitor
+
+*Committee representative (secretary)*
+
+Receives notification when applications have been assigned to the committee (first committee represented listed on the committee record where there are more than one.)
+Can view all applications being considered or that have been considered by the committee. 
+Can delegate tasks to co-representatives.
+Can take over tasks from a co-representative. 
+Can assign applications to reviewers.
+Is alerted when reviewers decline to review or submit their review.
+Can assign applications for in person meetings or online decisions.
+Can select which committee members are invited to participate in an online decision.
+Can view recommendation count and comments submitted by committee members during an online decision process.
+Is alerted when all committee members have submitted a recommendation during an online decision process.
+Can close an online decision process.
+Can schedule in person committee meetings.
+Can return applications to the applicant for further changes.
+Can forward applications to another committee.
+Can enter the final decision of the committee.
+Can edit the outcome notification and send to applicant.
+Can view past and upcoming committee meeting information.
+Can update and edit committee information, including which users are committee representatives, committee chairs, and committee members.
+Can view dashboards relating to the committee.
+
+h3. Repository
+
+*Repository Manager*
+
+Receives notification when research outputs have been submitted to the repository.
+Can review outputs submitted.
+Can return the output to the submitter where more informaiton is required. 
+Can edit the output.
+Can submit an output on behalf of a researcher.
+Can apply an embargo.
+Can view dashboards related to outputs. 
+
+h3. Funding
+
+*Research Funding Officers*
+
+Can create a record of a proposed funding application.
+Receives notification when a researcher creates a record of a funding application.
+Can view draft funding applications.
+Can record if an application is lost or won.

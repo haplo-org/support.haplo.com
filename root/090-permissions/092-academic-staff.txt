@@ -1,0 +1,161 @@
+title: Academic staff
+long_title: Common roles for academic staff
+--
+
+The roles used in Haplo vary between institutions and the permissions applied to those roles can also vary between institutions. The descriptions below are the common roles and common permissions used by most institutions. 
+
+Access to PhD Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
+
+
+h2. Academic staff
+
+Can access data directly related to their own project.
+Can view basic information (name, email, department) on student profiles and staff profiles.
+Receives notifications when required to take an action.
+Receives a weekly reminder of outstanding tasks.
+
+
+h3. PhD Manager
+
+*Supervisor*
+
+Can access information on the project records of the postgraduate, undergraduate, or taught postgraduate researchers they supervise.
+
+Can view and use:
+
+* Supervision meetings
+* Annual progress reviews, Application to transfer
+* Change requests (requests to change mode, suspend etc)
+* Examinations
+
+Some parts of each process will be restricted, for instance the student only will be able to submit certain forms and initiate certain processes. The supervisor will be prompted to reivew the student's submission and normally asked to add comments. 
+
+Some parts of each process may be restricted from view at specific times during the process normally matching any visibility restrictions applying to the student they supervise, for instance examiner reports may not be visible until after confirmation by a committee or Director of Graduate School. 
+
+*PGR Coordinator*
+
+Can access information about all Postgraduate Research projects in their school/department. Can access Graduate School dashboards, displaying only postgraduate researchers in their school/department.
+
+*Director of Graduate School*
+
+Can access information about all Postgraduate Research projects and supervisors within the University. Can access Graduate School dashboards.
+
+*Examiner, Assessor*
+
+Can access relevant information to projects they are examining or assessing.
+
+*Committee Chair*
+
+Can view all submissions being considered or that have been considered by the committee. 
+Can delegate tasks to Deputy Chairs.
+Receives notification when submissions have been sent for Chair's review (Chair's action.)
+Can comment on, progress or return submissions assigned to them for Chair's review (Chair's action.)
+Can view past and upcoming committee meeting information.
+Can view dashboards relating to the committee.
+
+*Committee member*
+
+Can view all submissions that are being or have been considered by the committee.
+Receives notifications of upcoming in person meetings including an automatic agenda email with links to view all submissions scheduled for discussion.
+Can be appointed to contribute with other committee members to an online review of a submission. 
+Can discuss a submission online and submit a recommendation during an online decision process.
+Can see information about past committee meetings.
+Can view all dashboards relating to the committee.
+
+h3. Ethics Monitor
+
+Can submit an application for ethical approval. 
+Can view the progress of the application through the approval process. 
+Cannot edit the application after submission unless it is returned to them for changes. 
+Receives and email and task if application is returned to them for changes. 
+
+*Supervisors*
+
+Can view all applications and application records for PGR, undergraduate and taught graduate students they are supervising.
+Can return the application to the applicant with comments requesting further information.
+Can progress the application to next level of review.
+Can sign off application as not requiring further review if Class 1.
+
+*Committee representative*
+
+This role is normally conducted by professional services support staff acting as committee secretary but may be undertaken by an academic performing the role of committee secretary.
+
+Receives notification when applications have been assigned to the committee (first committee represented listed on the committee record where there are more than one.)
+Can view all applications being considered or that have been considered by the committee. 
+Can delegate tasks to co-representatives.
+Can take over tasks from a co-representative. 
+Can assign applications to reviewers.
+Is alerted when reviewers decline to review or submit their review.
+Can assign applications for in person meetings or online decisions.
+Can select which committee members are invited to participate in an online decision.
+Can view recommendation count and comments submitted by committee members during an online decision process.
+Is alerted when all committee members have submitted a recommendation during an online decision process.
+Can close an online decision process.
+Can schedule in person committee meetings.
+Can return applications to the applicant for further changes.
+Can forward applications to another committee.
+Can enter the final decision of the committee.
+Can edit the outcome notification and send to applicant.
+Can view past and upcoming committee meeting information.
+Can update and edit committee information, including which users are committee representatives, committee chairs, and committee members.
+Can view dashboards relating to the committee.
+
+*Committee chair*
+
+Committee chairs can be assigned as a co-committee representative which grants them all of the permissions of the committee representative (listed above) in addition to the permissions of committee chair.
+
+Can view all applications being considered or that have been considered by the committee. 
+Can delegate tasks to Deputy Chairs.
+Receives notification when applications have been sent for Chair's review (Chair's action.)
+Can comment on, progress or return applications assigned to them for Chair's review (Chair's action.)
+Can view past and upcoming committee meeting information.
+Can view dashboards relating to the committee.
+
+*Committee member*
+
+Can view all applications that are being or have been considered by the committee.
+Receives notifications of upcoming in person meetings including an automatic agenda email with links to view all applications scheduled for discussion.
+Can be appointed to contribute with other committee members to an online review of an application. 
+Can discuss the application online and submit a recommendation during an online decision process.
+Can see information about past committee meetings.
+Can view all dashboards relating to the committee.
+
+*Reviewers*
+
+Any academic staff may be nominated as a reviewer (commmonly used to review an ethics or funding appliation.)
+Receives notification when nominated to review an application.
+Can view the application and associated files.
+Can decline to review.
+Can submit a review.
+
+h3. Repository
+
+Can view their research outputs
+Can submit a research output to the repository
+Can view the progress of the output during the ingest process
+Receives notification if the output is returned for more information, can edit and resubmit the output
+
+*Head of Department/Faculty Dean and similar*
+
+Can view all dashboards relating to research outputs from researchers within their department/faculty. 
+
+h3. Profile
+
+Can edit their public profile. Commonly this includes uploading a photo to their profile, adding and editing social media links and biographical text. 
+
+*Head of Department/Faculty Dean and similar*
+
+Can view all dashboards relating to research profiles of researchers within their department/faculty. 
+
+
+h3. Funding
+
+Can create a record of a funding application.
+Can view records of funding applications created by other users where they are listed as a researcher.
+Can attach relevant files to the record of the funding application.
+Can mark if the funding application was lost of won.
+
+*Head of Department/Faculty Dean and similar*
+
+Receives notification when they are required to review and endorse a funding application.
+Can view all dashboards relating to funding applications within their department/faculty. 

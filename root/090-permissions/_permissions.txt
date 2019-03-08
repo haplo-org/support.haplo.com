@@ -1,0 +1,9 @@
+title: Access & Permissions
+--
+
+Permissions in Haplo are flexible and fine-grained. 
+
+
+User permissions are based on the roles a user has in an organisation. Authorised users can add and remove other users from roles. 
+
+The permissions granted to a role are configured by Haplo. Please contact Haplo Support to make changes to the permissions allowed for a role. 
