@@ -34,15 +34,69 @@ Some parts of each process may be restricted from view at specific times during 
 
 *PGR Coordinator*
 
-Can access information about all Postgraduate Research projects in their school/department. Can access Graduate School dashboards, displaying only postgraduate researchers in their school/department.
+Can view records about all postgraduate research projects in their school/department/faculty viewing: their supervisory team; the current status, mode and stage of the PGR and their intended award; whether they hold a visa, whether ATAS is required, their ATAS statement, and their fee status. On an individual PGR record they can: 
+
+* view the full project history for each PGR, including the dates of any key submissions, supervisory meetings, and attendance at training and development events. 
+
+* view the project dates for each PGR which shows the project start date and anticipated end date (current submission deadline), and the deadlines for all key APR submissions.  
+
+* search and read the notes of all supervisory meetings. 
+
+* read the full documentation for each APR submission (PGR report, supervisor's report, Doctoral Coordinator and Graduate School reports) and the outcome for each APR. 
+
+* view if a PGR has submitted an ethics application, read the application, and view the current status and outcome of an application. 
+
+* view the submission deadline for each PGR, the status of examination arrangements, and the status of the submission and examination of the thesis (or equivalent.) (PGR coordinators cannot read the examiner preliminary reports or post-viva reports until these are shared with the PGR.)
+
+* view the PGR's training and development needs analysis, training plan, log of development undertaken. 
+
+PGR Coordinators receive email and task alerts when they are required to review and take action on any forms submitted by a PGR within their school/department. 
+
+PGR coordinators can view dashboards showing the status of various functions across all PGRs for whom they have responsibility:
+
+* Current Postgraduate Researchers: a listing of all current PGRs in their school with supervisor, start/end dates, stage, status and intended degree. The export from this dashboard includes all information from the PGRs project record. 
+
+* Postgraduate Researchers by College: summary totals of all Postgraduate Researchers for different awards in each College for the current and next year. 
+
+* Progression overview: the next progression review deadline for each PGR, and the current status flagging whether the PGR is required to undertake remediation or subject to mitigating circumstances or reasonable adjustments. 
+
+* Progression assessors: the Chair and Assessor assigned to each PGR, showing where assessors have not yet been appointed and the PGR;s next progression review deadline. 
+
+* Supervision meetings: dashboards showing number of supervision meetings per PGR per year, number per month and longest gap between meetings. 
+
+* Supervision experience and capacity: dashboards to aid in putting together supervisory teams. 
+
+* Visa monitoring: the last engagement date for all PGRs with visas in their school/department. 
+
+* DRDP: number of workshops attended by each PGR, number of no response/no show/late cancellations by each PGR. 
+
+* Training needs overview: shows the number of PGRs rating themselves under each level and priority for each of the terms in the RDF skills vocabulary. 
+
+* Change requests: the status and full text of any applications to change registration status (change of mode, extension, suspension, change of supervisors, etc. from PGRs int heir school/department.)
+
+* Days from submission to completion and examination outcome for all PGRs in their school/department. 
+
+* Submission dashboard shows the submission deadline for all PGRs in their school/department due to submit in the current academic year, and highlights in red where they are overdue. 
+
+All dashboards can be sorted and exported into excel. 
 
 *Director of Graduate School*
 
-Can access information about all Postgraduate Research projects and supervisors within the University. Can access Graduate School dashboards.
+Can access information about all Postgraduate Research projects and supervisors within the University. Can access Graduate School dashboards (see details of dashboards under PGR Coordinator above.)
+
+Receives a task and email if they are required to take aciton on a submission or request from a PGR. 
+
 
 *Examiner, Assessor*
 
-Can access relevant information to projects they are examining or assessing.
+Can access relevant information on projects they are examining or assessing.
+
+Can view the submitted thesis online (examiner) or the form and accompanying files submitted for assessment (assessor).
+
+Receives a task and email if they are required to take action. 
+
+Can submit assessment responses via an online form.
+
 
 *Committee Chair*
 

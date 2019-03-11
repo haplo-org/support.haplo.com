@@ -24,11 +24,15 @@ h3. PhD Manager
 
 Can access information about all Postgraduate Research projects.
 Can access Postgraduate Research dashboards.
+Receives task (but normally not an email due to the volume of emails which would be received) when required to take an action.
+Can return submitted forms to the submitter where changes are required. 
 
 *School/Department Postgraduate Research Administrator*
 
 Can access information about Postgraduate Research projects within their school or department.
 Can access Graduate School dashboards but only view information about postgraduate researchers in their school/department.
+Receives task and email when required to take an action.
+Can return submitted forms to the submitter where changes are required. 
 
 *Training facilitator*
 
@@ -81,5 +85,7 @@ h3. Funding
 
 Can create a record of a proposed funding application.
 Receives notification when a researcher creates a record of a funding application.
-Can view draft funding applications.
+Can view and edit draft funding applications.
+Can attach files to records of draft funding application. 
 Can record if an application is lost or won.
+Can view dashboards related to funding. 
