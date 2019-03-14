@@ -36,6 +36,8 @@ In both cases, you will need to:
 
 * send us the *App Federation Metadata Url* so we can complete our configuration.
 
+When we've set up the first service provider in a test environment, we'll give you a testing URL so we can [node:research-manager/setup/authentication/ad-fs/testing:test the configuration] is providing the right information to our service provider.
+
 
 h2. Claims
 

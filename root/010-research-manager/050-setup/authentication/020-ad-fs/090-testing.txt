@@ -1,0 +1,11 @@
+title: Testing
+long_title: Testing an AD FS configuration
+--
+
+The first service provider we set up will be in a test environment. We need to make sure the configuration is correct, and that the correct information is being passed to the service provider to identify the user.
+
+After we have finalised the configuration with your IdP metadata URL, we'll provide you with a test URL.
+
+Visiting this URL in a browser will perform a test authentication, and then show you the data received back from your IdP.
+
+Ensure that the data includes the right identifier to match the user information in your [node:research-manager/setup/user-sync:user feed]. This may be a username, email address, or other person identifier, and will depend on how the integrations are set up.
