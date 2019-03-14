@@ -16,3 +16,8 @@ Please follow "Microsoft's documentation for Azure AD":https://docs.microsoft.co
 The metadata URL will look like:
 
 @https://login.microsoftonline.com/3dade632-f084-4d36-91fa-a8d5e53c5bbe/federationmetadata/2007-06/federationmetadata.xml?appid=c0c9b282-5da6-4d57-8402-5d569a87d4f6@
+
+
+h2. Testing the configuration
+
+After we have set up the first service provider in a test environment, we'll need to [node:research-manager/setup/authentication/ad-fs/testing:test the configuration].
