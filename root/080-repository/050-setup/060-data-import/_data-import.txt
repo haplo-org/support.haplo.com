@@ -1,0 +1,22 @@
+title: Data import
+long_title: Haplo Repository data import
+class: DocNodeTextileWithTOC
+--
+
+
+h2. Required data
+
+The key requirement for imported data is that we are able to uniquely match each author at the institution in the imported data to their record in the [node:repository/setup/user-sync]. For this there must be a common identifier for each author between the imported data and user sync data.
+
+Examples of suitable identifiers that may be present in both systems are:
+
+* ORCID iD
+
+* Organisational ID
+
+* Institutional email address
+
+
+h2. Providing the data
+
+The Haplo team will work with your repository supplier to arrange the best method of data transfer. This is usually in the form of a full data export which can then be uploaded to the Haplo Repository for import.

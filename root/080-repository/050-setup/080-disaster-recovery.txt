@@ -1,0 +1,16 @@
+title: Disaster recovery
+--
+
+h2. Data integrity
+
+A full export of the data from your legacy repository system will be held on Haplo's servers, alongside your live application, for the duration of your contract with Haplo. This ensures that we are always able to review, interrogate, or return to the raw data at the point at which your system was migrated to Haplo. 
+
+h2. Rollback
+
+At the point of deployment of your Haplo Repository Haplo will take control of the URLs for records in the legacy system, and redirect them to the new locations in Haplo.
+
+We recommend there be a short period of overlap in the hosting contracts of your legacy system suppler and Haplo. This allows Haplo and institution adminstrators to correct any minor issues that may be uncovered in the days after deployment with the legacy system for reference.
+
+It also allows for rollback to the legacy system for the purposes of disaster recovery. This would result in the loss of any changes made in Haplo since deployment. To do this Haplo would release control of the legacy system URLs back to the original system, and disable the public interface of the Haplo Repository.
+
+This option would also be available after the hosting contract with your legacy system supplier has been discontinued by restoring from the data-dump backup stored on Haplo's servers. However this would take longer, as a new repository would need to be set up, and again all data changes made within Haplo would be lost.

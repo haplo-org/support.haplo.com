@@ -1,0 +1,22 @@
+title: User sync
+long_title: Haplo Repository user sync
+class: DocNodeTextileWithTOC
+--
+
+The user sync provides daily updates of the details of students, supervisors and administrative staff.
+
+
+h2. Reference
+
+Haplo Repository builds on other Haplo modules. The following documents will be useful reference material.
+
+"Haplo generic user sync documentation":https://docs.haplo.org/import/user-sync
+
+"Haplo Research Manager user sync":https://docs.haplo.org/app/research/setup/user-sync
+
+"Writing a control file":https://docs.haplo.org/import/control
+
+If your contract includes importing more information around PhD projects, including supervisor information, then follow instructions for [node:phd-manager/setup/user-sync:PhD Manager user sync setup].
+
+
+h2. Steps to set up user sync

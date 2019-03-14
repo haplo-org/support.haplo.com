@@ -1,0 +1,29 @@
+title: DOI Minting
+--
+
+If your institution has DataCite membership, Haplo Repository is able to offer DOI minting from within the repository.
+
+DOIs can be minted for items without an existing DOI, either:
+
+* At the point of deposit of a new item to the public repository
+
+* After deposit, for historical records
+
+in both cases, repository adminstrators are asked to confirm before a DOI minting request is sent to DataCite. 
+
+After the request is sent to DataCite, Haplo Repository will wait for a response that the DOI has been minted successfully, and automatically append the DOI to the record when that response is received.
+
+
+h3. Required data
+
+In order to be able to mint a DOI certain minimum metadata fields are required to be present on the record. If any of these are missing Haplo Repository will inform users that a DOI cannot be minted until it is added.
+
+* Title
+
+* Type
+
+* Author
+
+* Publisher
+
+* Year

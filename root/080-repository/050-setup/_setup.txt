@@ -1,0 +1,28 @@
+title: Setup
+long_title: Haplo Repository setup
+--
+
+The Haplo team with work with you and your colleagues to specify the requirements for your Haplo Repository application. Then they'll customise and deploy the application, and work with your team to support the application once it goes live.
+
+
+h2. Data sync and import
+
+The most important task for IT at the institution is to provide good quality data:
+
+* Set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
+
+* Set up [node:repository/setup/user-sync:user sync] for the Haplo Repository module
+
+* Provide data and data cleaning assistance for [node:repository/setup/data-import:data import] from your legacy repository system
+
+* Resolve any data quality issues
+
+h2. Authentication
+
+Refer to the Haplo Research Manager documentation on [node:research-manager/setup/authentication] for instructions on how to set up authentication.
+
+h2. Migration
+
+The switch over from your existing repository will require a change of hostname, to allow Haplo to redirect successfully from the URL addresses of items in your legacy system to their new location in Haplo.
+
+We recommend the system be hosted on a subdomain of your institutional address.
