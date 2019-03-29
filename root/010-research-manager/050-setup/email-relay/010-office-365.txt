@@ -1,0 +1,63 @@
+title: Office 365 relaying
+--
+
+Many institutions use Office 365 for their email, and it is convenient to use it for email relay.
+
+
+h3. 1) Choose an email address and 'from' sender name
+
+Choose a suitable generic email address, perhaps named after your Haplo application. As many of our clients use multiple Haplo products, avoid being too specific.
+
+The display name of this user will appear as the 'from' address of every email relayed through Office 365, so it's important that it makes it clear who the email is from.
+
+Because emails will also be sent to users outside your institution, we strongly recommend it includes your institution name so these external users will know who sent it.
+
+
+h3. 2) Create mailbox
+
+Create a new Office 365 user with your chosen email address and display name.
+
+By default, this will keep a copy of all email notifications set, until the mailbox becomes full. At this point, emails will be rejected. Consider adding retention policies.
+
+
+h3. 3) Set a secure password
+
+Change the default password to something secure and unguessable, preferably randomly generated.
+
+
+h3. 4) Set automatic reply
+
+Log into Outlook in your web browser, and set a suitable automatic response to any emails. This ensures that if anyone replies to the email, they will receive a reply telling them who they should contact.
+
+
+h3. 5) Configure Haplo application
+
+If you have a live application, log in as a user with IT support privileges to configure email relay.
+
+CLICK_PATH TOOLS > System management > Keychain > Add new credential ...
+
+Select *SMTP / Email Relay Configuration* from the list, and fill in the details:
+
+|Server|@smtp.office365.com@|
+|Username|The email address of the mailbox|
+|Mechanisms|@LOGIN@|
+|Password|The password for the mailbox|
+
+Then click *Save* to apply the email relay.
+
+If you don't have a live application yet, please send the details of the mailbox by clicking *Send secrets* in your Project Room.
+
+
+h3. 6) Configure 'from' addresses of email templates
+
+It's essential that all emails set by Haplo have a sender address that exactly matches the email address of the Office 365 mailbox, otherwise email won't be delivered.
+
+CLICK_PATH TOOLS > System management > Email templates
+
+Edit each template, and set the *From address* to the email address of the mailbox.
+
+
+h3. 7) Ask Haplo to check configuration
+
+After you've set this up, please ask your Haplo contact to confirm the configuration is working.
+
