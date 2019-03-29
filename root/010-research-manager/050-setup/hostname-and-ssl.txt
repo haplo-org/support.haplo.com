@@ -13,7 +13,7 @@ For example, if your domain is @example.ac.uk@, most of our customers would choo
 
 h3. 2) Delegate hostname in DNS
 
-After you have chosen your hostname, your Haplo contact will provide you with an address on Haplo infrastructure. You should create a @CNAME@ record in your DNS which aliases your chosen hostname to the Haplo address.
+After you have chosen your hostname, your Haplo contact will provide you with a target hostname on the Haplo infrastructure. You should add a @CNAME@ record to your DNS which aliases your chosen hostname to the Haplo target hostname.
 
 
 h3. 3) Provide SSL certificate
