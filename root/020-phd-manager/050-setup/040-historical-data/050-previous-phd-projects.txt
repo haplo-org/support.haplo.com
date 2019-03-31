@@ -1,15 +1,15 @@
-title: Previous PhD projects
+title: Previous Postgraduate Research projects
 --
 
-While not essential, you may wish to import details of previous PhD researchers for historical reporting and to complete the supervision experience of supervisors.
+While not essential, you may wish to import details of previous Postgraduate Researcher projects for historical reporting and to complete the supervision experience of supervisors.
 
-You must make sure that this data does not include any details of current PhD researchers that appear in the [node:phd-manager/setup/user-sync].
+You must make sure that this data does not include any details of current Postgraduate Researchers that appear in the [node:phd-manager/setup/user-sync].
 
 It may be easier to provide this information as [node:phd-manager/setup/historical-data/supervisory-experience:your supervisor's supervisory experience].
 
 The following information is required:
 
-* Name of PhD researcher, split into fields: title, first name, last name.
+* Name of Postgraduate Researcher, split into fields: title, first name, last name.
 * Thesis title
 * Project type (PhD, MRes, etc)
 * Outcome (completed, withdrawn)

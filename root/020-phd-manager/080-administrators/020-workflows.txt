@@ -1,0 +1,68 @@
+title: Workflows
+long_title: PhD Manager Workflows
+--
+
+h2. Understanding workflows
+
+Workflows streamline the approval process for online forms. Within PhD Manager, workflows are often used for progression reviews, applications to transfer from MPhil to PhD registration, requests to change registration status (change of mode, suspension, extension), and for the various forms and approvals required during an examination process. 
+
+h3. Designing workflows
+
+The Haplo team will work with you to design the forms, workflows and outcome notifications you need built during your implementation phase. 
+
+h3. Starting a workflow
+
+Usually the Postgraduate Researcher starts a workflow by submitting an online form. For some workflows, such as change of supervisory team, the supervisor initiaties the workflow. The relevant user can be reminded before deadlines to start a workflow via PhD Manager's Project dates and alerts engine. 
+
+h3. Viewing the status of workflows
+
+Once the first form in the workflow has been submitted, the status of the workflow shows in the STATUS box on the right of the workflow record. The status will normally show the user or role which is currently tasked with actioning the workflow. 
+
+View the relevant dashboards, such as 'Progression overview' to see the progress of all Postgraduate Researcher workflows.  
+
+h3. Frequently asked questions
+
+*A user has accidentally progressed a workflow or has changed their mind about a decision, can I return it to a previous user?*
+Normally tasks can be sent back and forth in a workflow by returning the task to a previous user. Use the STATUS box on the right of the record to see which user currently has the task and ask them to return it to the previous user. Where you require a workflow to be returned to a previous state which is not possible by returning the form, please contact client.support@haplo.com
+
+
+h2. Understanding forms
+
+Online forms can be created with an institution's choice of questions. Forms can require answers to be input by selecting radio buttons, check boxes, drop down lists, lookup lists, entering text into date fields, single line or paragraph-sized free text boxes, or by uploading one or more files. 
+
+Answering questions can be mandatory or optional. 
+
+Further questions can be displayed as a result of the answers provided to previous questions. 
+
+
+h3. Guidance
+
+Guidance can be provided at the start of a form or alongside questions within the form. 
+
+h4. Guidance at the start of forms
+
+Guidance notes display on the confirmation page at the start of each workflow. Guidance notes can be edited by an Administrator via the Graduate School dashboards page, by selecting 'Edit Graduate School guidance notes.' 
+
+h4. Guidance notes within forms
+
+Guidance notes can display alongside a question indicated by an 'i' in a circle next to the question. Contact client.support@haplo.com to add or edit the text in guidance notes within forms. 
+
+
+h2. Understanding tasks
+
+As workflows in Haplo progress, they require actions from users. Users are alerted to take action via an email notificaiton and a task appearing in their Tasks list within Haplo. 
+
+h3. Tasks to the Doctoral College Office
+
+Usually emails are not sent to members of the Doctoral College Office to notify them of tasks due to the high level of emails this would create, these users would still see the task in their task list. Normally tasks are sent to one user at a time. However, where users work as part of a team, such as the Doctoral College Office, every member of the team can view and action the same list of tasks. 
+
+h3. Frequently asked questions
+
+*The task is stuck with a user who is absent, can I move it to another user?*
+Tasks can be redirected by changing the user associated with the role which is currently responsible for completing the task for the workflow. For example, in PhD Manager, if an Assessor can no longer perform the role, Edit the Assessment record to remove the current Assessor and Add a new Assessor. Upon saving, any tasks that were assigned to the previous Assessor will automatically move to the new Assessor.  
+
+*A new colleague is taking over in a role, will they automatically inherit all tasks sent to the user previously responsible for the role?*
+Yes, when a user performing a role is replaced by another user, any outstanding tasks automatically move to the new user. For instance, if a lead supervisor is replaced on a supervisory team, the new lead supervisor will automatically see all outstanding tasks in their task list and can action them as normal. 
+
+*Can I delegate a task to a colleague?*
+Where a role is undertaken by several users, such as more than one Secretary to a Committee or members of a Supervisory team, tasks are sent to the first user listed in the role but the other users listed can take over the task. Either the user who has the task can 'delegate' the task to other users in the role or the other users can 'take over' the task.  

@@ -1,7 +1,7 @@
 title: Suspensions and extensions
 --
 
-Information about suspensions and extensions for *current* PhD researchers is essential for the correct functioning of the date calculations. This information is not required for PhD researchers who have completed or withdrawn.
+Information about suspensions and extensions for *current* Postgraduate Researchers is essential for the correct functioning of the date calculations. This information is not required for Postgraduate Researchers who have completed or withdrawn.
 
 Please provide a file with records containing the following fields:
 

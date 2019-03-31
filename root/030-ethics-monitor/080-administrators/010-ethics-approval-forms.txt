@@ -1,0 +1,28 @@
+title: Ethics approval forms
+long_title: Forms for ethical approval
+--
+
+h2. Understanding forms
+
+An institution's ethics approval forms are implemented within Ethics Monitor as online forms. Forms can require answers to be input by selecting radio buttons, check boxes, drop down lists, lookup lists, entering text into date fields, single line or paragraph-sized free text boxes, or by uploading one or more files. 
+
+Answering questions can be mandatory or optional. 
+
+Further questions can be displayed as a result of the answers provided to previous questions. 
+
+h3. Designing online forms
+
+The Haplo team will work with you to help you design your online forms during your implementation phase. 
+
+
+h3. Guidance
+
+Guidance can be provided at the start of a form or alongside questions within the form. 
+
+h4. Guidance at the start of forms
+
+Guidance notes display on the confirmation page at the start of each workflow. Guidance notes can be edited by an Administrator via the Ethics dashboards page, by selecting 'Edit Ethics guidance notes.' 
+
+h4. Guidance notes within forms
+
+Guidance notes can display alongside a question indicated by an 'i' in a circle next to the question. Contact client.support@haplo.com to add or edit the text in guidance notes within forms. 

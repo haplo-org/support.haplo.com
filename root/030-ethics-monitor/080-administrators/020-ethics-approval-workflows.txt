@@ -1,0 +1,23 @@
+title: Ethics approval workflows
+long_title: Workflows for ethical approval
+--
+
+h2. Understanding workflows
+
+Workflows streamline the approval process for ethics approval online forms. 
+
+h3. Designing workflows
+
+The Haplo team will work with you to design the forms, workflows and outcome notifications you need built during your implementation phase. 
+
+h3. Starting a workflow
+
+The applicant starts a workflow by submitting an application for ethics approval. The form is sent to the next reviewer or approver who is alerted by email and task to review the form. 
+
+The approval routing rules vary for different types of application to reflect the institution's policies. For instance, applications from different categories of applicant (academic staff, Postgraduate Researcher, Postgraduate Taught, Undergraduate), different faculties, or reflecting different risk levels, can be routed to different reviewers and approvers. 
+
+h3. Viewing the status of workflows
+
+Once the application form has been submitted, the status of the workflow shows in the STATUS box on the right of the workflow record. The status will normally show the user or role which is currently tasked with actioning the workflow. 
+
+View the dashboards for current ethics applications to see the progress of all ethics applicaitons.  

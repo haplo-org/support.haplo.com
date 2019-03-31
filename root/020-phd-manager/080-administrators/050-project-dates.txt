@@ -1,0 +1,19 @@
+title: Project dates
+long_title: Postgraduate Researcher project dates and alerts
+--
+
+PhD Manager calculates submission deadlines and all key milestones for Postgraudate Researchers. Project dates for each Postgraduate Researcher can be seen under the 'Project dates' option on the right of the Postgraduate Researcher project record. 
+
+h2. Project dates calculation engine
+
+The Project dates calculation engine uses the Postgraduate Researcher's start date, mode, and intended award to calcuate dates. The engine takes into account any suspensions, extensions, or changes to mode which affect the submission deadline and any milestones not yet completed. 
+
+Historical suspensions, extensions and changes of mode (those that were approved prior to deploying PhD Manager) can be taken into account if the data is provided during the implementation of PhD Manager.  
+
+Project date rules are implemented for each institution by Haplo. 
+
+Administrators can override upcoming project dates for individual Postgraduate Researchers by selecting the set/edit buttons next to each date on a Postgraduate Researcher's Project dates table. 
+
+h3. Alerts
+
+PhD Manager sends an automatic reminder email to the Postgraduate Researcher (or where relevant the supervisor) an agreed number of days or weeks prior to each deadline. The date of the alert is recorded on the Postgraduate Researcher's project dates table. 

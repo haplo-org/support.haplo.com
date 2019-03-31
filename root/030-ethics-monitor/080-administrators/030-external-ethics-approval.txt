@@ -1,0 +1,18 @@
+title: External ethics approval 
+long_title: Managing ethics approvals involving external bodies
+--
+
+Some ethics applications may require approval from ethics committees or boards, most commonly the NHS, external to the institution. 
+
+How external approval is handled depends on the preferred process for each institution. 
+
+h3. Noting external approval received externally
+
+Where the instituion requires external approval to be achieved prior submission of the application to the instituiton, the researcher normally submits a brief application, attaching confirmation of the external approval. The application is routed to the appropriate reviewer or committee based on the instituiton's preferred process. 
+
+h3. Reviewing applications for external approval prior to their external approval
+
+Where the institution prefers to review applications for external approval prior to their submission to the external body, the researcher submits a brief internal ethics application and copy of their external submission to the appropriate institutional reviewer who provides feedback via Ethics Monitor. 
+
+The researcher applies for external approval directly with the external body. Once external approval is received, the applicant uploads confirmation of approval and any supporting document to Ethics Monitor. The appropriate reviewer or committee is notified. The applicant is sent confirmation of the institution's acknowledgement of the external approval. 
+

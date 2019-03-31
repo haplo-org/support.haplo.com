@@ -1,0 +1,45 @@
+title: Events
+long_title: Managing training and development events
+--
+
+PhD Manager supports training and development for Postgraduate Researchers by streamlining *organising training and development events* and providing Postgraduate Researchers with a *training needs analysis* and *training plan* tool. 
+
+h2. Managing training and development events
+
+h3. Training facilitators
+
+Training facilitators can add and manage Events within Haplo. To be added to the training facilitators group within System Management contact your institution's IT Support team or contact client.support@haplo.com
+
+h3. Managing events
+
+Training facilitators add events via Add in the top toolbar. Add the title, date, time, location and any other relevant details to the event record. 
+
+In most institutions, you can select the School and Project stage for which the event is relevant. Selecting these will limit the invitations sent for the event to PGRs who are registered with the relevant School or at the relevant project stage.
+
+Where the institution uses a skills vocabulary, events can be marked as relevant for developing a particular skill. 
+
+Events will be highlighted on the PGR Training Needs Analysis tab next to the relevant skill. All upcoming events display on the Calendar listed in the left hand navigation. Where the institution prefers, attendees can reserve a place on any event listed in the calendar, or only those to which they have been invited. 
+
+h3. Managing attendees
+
+Training facilitators can send email invitations to Postgraduate Researchers for whom an event is relevant, by selecting 'Invite all eligible' on the right of the event record. This automatically selects all Postgraduate Researchers who are registered in the Faculties/Schools/Departments listed on the event, and are registered as being at the project stage for which the event is relevant. Invited Postgraduate Researchers receive an email and task inviting them to the event. They can respond by selecting the response link on the right of the event record. They can change their response at any time. Invited Postgraduate Researchers can see the events to which they've been invited on their individual Development and training events page on the right of their project record.
+
+h3. Updating attendance on behalf of an attendee 
+
+Training facilitators can update attendance responses on behalf of attendees via the 'Manage attendees' option on the right of project records. 
+
+h3. Contacting attendees 
+
+Training facilitators can email all participants by selecting 'Send email to participants' on the right of the event record.  They can select whether the message is sent to all participants who have not yet responded, who are attending, who are not attending, or are on the waitlist, or after the event those who have been confirmed as having attended. 
+
+h3. Waiting lists 
+
+Where capacity is limited, training facilitators can mark the maximum number of places available at an event on the event record. Once the maximum number of places has been reserved, Postgraduate Researchers can add themselves to the wait list. Training facilitators can view the Postgraduate Researchers on the wait list. If any places become available, the Training facilitator will be notified to offer the places to the next Postgraduate Researcher on the wait list. 
+
+h3. Event notifications
+
+Automatic notifications are sent out prior to the event to invited attendees who have not yet responded and attendees registered as attending. 
+
+h3. External events
+
+Postgraduate Researchers can add details of external events they have attended via the Training log tab on the right of their project record. 

@@ -1,0 +1,52 @@
+title: Reports
+long_title: Dashboards and reports
+--
+
+Management information dashboards are available to all authorised users. 
+
+For users with responsibility specific to a faculty or school, only details of Postgraduate Researchers within the relevant faculty or school will be shown on the dashboards. 
+
+Information can be downloaded from each dashboard in excel format.
+
+In addition to PhD Manager standard dashboards (detailed below), instituitons can request custom dashboards and reports by contacting client.support@haplo.com 
+
+h3. Directories
+
+*Current Postgraduate Researchers*
+Postgraduate Researcher | College:Department | Lead supervisor | Start | End | Stage | Status
+
+*Past and Current Postgraduate Researchers*
+Postgraduate Researcher | College:Department | Lead supervisor | Start | End | Stage | Status
+
+h3. Statistics
+
+Postgraduate Researchers by College
+
+Dashboard will display Colleges, and show the number of Postgraduate Researchers on each programme by current and future academic year
+
+h3. Change requests
+
+Change requests
+Postgraduate Researcher | Change request | Date | Status
+
+h3. Data monitoring
+
+Supervisors without access
+
+Projects missing supervisors
+Postgraduate Researcher | College:Department | Number of supervisors | Type | Registration start
+
+Projects without titles
+Postgraduate Researcher  | College:Department | Project title | Lead supervisor | Registration start
+
+Researchers without a College
+
+Postgraduate Researcher  without a Faculty
+
+h3. Deadlines
+
+Upcoming deadlines
+Postgraduate Researcher | College:Department | Project | Deadline | Deadline date
+
+Missed deadlines
+Postgraduate Researcher | College:Department | Project | Deadline | Deadline date

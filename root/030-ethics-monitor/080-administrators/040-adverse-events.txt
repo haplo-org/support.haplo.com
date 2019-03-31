@@ -1,0 +1,13 @@
+title: Adverse events 
+long_title: Adverse events
+--
+
+Following approval of an application for ethics approval, applicants can report an adverse event that impacts on their research. 
+
+This is reported by the lead applicant via the application record within Ethics Monitor by selecting ‘Report adverse event’ on the right hand side of the record. 
+
+A notification will be sent to a nominated user such as the Research Governance Manager (RGM) or Committee Representative. Notifications can also be sent to supervisors where the applicant is an undergraduate, taught graduate student, or Postgraduate Researcher  if required. 
+
+A highlighted note recording the adverse event is added to the application timeline. Adverse events do not automatically lead to suspension or cancellation of approval.
+
+A dashboard shows authorised users a list of all reported adverse events. 

@@ -1,0 +1,12 @@
+title: Suspensions
+long_title: Suspension, cancellation and reinstatement of ethical approval
+--
+
+Following receipt of an adverse event notification or other notification outside the system the Research Governance Manager or other authorised user can suspend ethical approval on a previously approved ethics application. 
+
+The researcher will receive notification informing them that all research must stop until appropriate review of the issue has taken place.
+
+Following review by the committee chair or full committee the Research Governance Manager or nominated user can choose to cancel or reinstate ethical approval. The researcher (and any supervisors) will be notified of the decision via an editable notification letter.
+
+If approval is cancelled, research can not resume. The applicant will need to apply for new ethical approval if they wish to continue their research.
+If approval is reinstated, research can resume.

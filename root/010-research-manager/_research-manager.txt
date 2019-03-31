@@ -5,8 +5,6 @@ use_long_title_for_toc: yes
 
 *Haplo Research Manager* is a suite of integrated products for managing research in Higher Education and Research Institutes.
 
-*We are in the process of reformatting our PDF documentation. If the documentation you need is not available here, please get in touch with your support contact.*
-
 h2. Administrator's manual
 
 This manual supports IT professionals who are working with applications built on top of the Haplo Research Manager platform.

@@ -1,0 +1,11 @@
+title: Reporting
+long_title: Research ethics reporting
+--
+
+Management information dashboards are available to all authorised users. 
+
+For users with responsibility specific to a faculty or school, only details of ethics applications within the relevant faculty or school will be shown on the dashboards. 
+
+Information can be downloaded from each dashboard in excel format.
+
+In addition to standard dashboards, instituitons can request custom dashboards and reports by contacting client.support@haplo.com 

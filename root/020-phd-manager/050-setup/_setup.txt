@@ -2,13 +2,13 @@ title: Setup
 long_title: PhD Manager setup
 --
 
-The Haplo team with work with you and your colleagues to specify the requirements for your PhD Manager application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
+The Haplo team work with you and your colleagues to specify the requirements for your PhD Manager application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
 
 During the setup process, Haplo will provide you with a project room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the project room.
 
 h2. User sync and data import
 
-The most important task for IT at the institution is to provide good quality data.
+PhD Manager commonly integrates with your institutional identity management system and Student Record System. The most important task for IT at the institution is to provide good quality data during initial imports and through the ongoing data feed.
 
 *Preparing data*
 

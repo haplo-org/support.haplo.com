@@ -1,0 +1,5 @@
+title: Administrators
+long_title: PhD Manager Administrators
+--
+
+PhD Manager provides administrative and professional support staff with an overview of progress of all Postgraduate Researchers at their institution. 
