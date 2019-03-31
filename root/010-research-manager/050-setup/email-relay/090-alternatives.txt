@@ -1,0 +1,13 @@
+title: Alternatives to email relay
+--
+
+While not recommended, we can deliver directly email on your behalf.
+
+This does not generally result in good deliverability, particularly when emailing users outside your institution.
+
+In this case, you should:
+
+* white list our IP address ranges, so any email we send to you bypasses your spam filters. Ask your Haplo contact for the current IP addresses.
+* add @include:hosted-spf.haplo-services.com@ to your "SPF records":https://en.wikipedia.org/wiki/Sender_Policy_Framework
+
+However, even with these measures, your plan for supporting the service should take into account that email notifications may be unreliable.
