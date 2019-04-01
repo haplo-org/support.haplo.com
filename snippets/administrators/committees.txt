@@ -1,0 +1,72 @@
+
+Haplo provides comprehensive support for committees to streamline the review and approval of applications. 
+
+h2. Understanding committees
+
+h3. Committee Representative role
+
+The Committee Representative performs a key role in administering committees  within Haplo. The Committee Representative receives automatic notifications of any items to be reviewed by the committee. They can return the item to the applicant for changes, schedule the item for discussion in an in-person committee meeting or for discussion via an online discussion, send the item for review to individual committee members and other reviewers, forward the item to the Chair to action, and send notifications of the outcome to the applicant. The role is often performed by the Committee Secretary, but can be undertaken by the Chair or other committee member.
+
+To assign the Committee Representative, select 'Edit' in the top right of the Committee record. Add a new Committee Representative by selecting '+' to the left of the Committee representative field. Enter the name of the user and select their name from the list of users which appears. To remove Committee Representatives, select '-' on the right of the Committee Representative field. 
+
+h3. Managing committee membership
+
+The Committee Representative manages committee membership via the committee record. Select 'Edit' in the top right. Add a new committee member by selecting '+' to the left of the committee member field. Enter the name of the user and select their name from the list of users which appears. To remove committee members, select '-' on the right of the committee member field. 
+
+Similarly Chairs and Deputy Chairs can be added or removed by adding or removing users from the Chair and Deputy Chair fields on the committee record. 
+
+Committee membership can also be managed by a privileged user with appropriate permissions such as a Research Governance Manager or other nominated user.
+
+h3. Setting up a new committee
+
+Committees will normally be set up by Haplo during your implementation. Authorised users can also setup committees at any time. 
+
+Go to Add in the top toolbar, and select 'Committee.' Enter details about the committee. There are often different Types of Committees within Haplo, such as 'Research Degrees Committee' or 'Ethics Committee.' These are selected on the committee record and are critical for routing items to the correct committee.
+
+Where a committee is aligned to a particular Faculty/Department/School or the whole university, this is indicated in the Research Institute field. This is a critical field to enable the routing of items to the correct committee. 
+
+h3. Returning applications prior to committee review
+
+The Committee Representative receives an automatic notification email and task alerting them to any applications to be reviewed by the committee. They can return applications to the applicant or a previous reviewer for changes by selecting 'Return to submitter' on the right of the application record. 
+
+h3. Scheduling in-person committee meetings
+
+The Committee Representative can add applications to the agenda of the next committee meeting.
+
+On the right of the application record, select 'Schedule meeting.' If records of the committee's upcoming meetings have previously been added they will be listed on this page. Select the relevant meeting at which this application will be discussed. If no upcoming meetings have been added, select 'Schedule a meeting for this committee.'  Add the details of the upcoming meeting by entering the date, time, and location and selecting 'Save' in the top right of the meeting record.
+
+Confirmation of the meeting at which the application is due to be discussed displays on the right of the application record. The Committee Representative can select 'Reschedule meeting' on the right to change the meeting at which the application will be discussed.
+
+One week before the meeting, an agenda will be automatically compiled and circulated to all committee members by email. The agenda email lists all applications listed for discussion at the upcoming meeting. 
+
+h3. Online decision process
+
+The Committee Representative can arrange for the application to be considered by the committee via an Online decision in preference to an in-person committee meeting. The Committee Representative selects 'Online decision' on the right of the application.
+
+The Committee Representative selects which committee members should be invited to review the application and contribute to the online decision. The default deadline for responses is automatically two weeks but this can be amended. Add an optional note which is included in the email notification to the committee members, then select 'Send invitation to Selected Committee Members.'
+
+All selected committee members receive an email notification requesting they review the application. They 'Review application' by selecting this option on the right of the application record. Following review they choose 'Online decision' on the right of the application to submit their recommendation. Any comments added form part of the online discussion. 
+
+The other selected committee members receive notification whenever a recommendation or comment is submitted. The selected committee members can change their recommendation and respond to comments left by other selected committee members. 
+
+Selected committee members can 'Decline invitation' to participate in the online decision. This sends an automatic notification email to the Committee Representative who can add additional committee members to the online decision at any time.
+
+The Committee Representative can view the online discussion by selecting 'Participate in online decision' on right of project record. The Committee Representative can 'Edit participants' to add or remove selected committee members from this discussion, or 'Close the online decision.'
+
+The Committee Representative is notified when all selected committee members have submitted their recommendation. The Committee Representative can then 'Close the online decision' and if a decision has been made, 'Edit the committee recommendation' and notify the applicant of the outcome. 
+
+h3. Sending for review
+
+The Committee Representative can request one or more committee members review the application, selecting 'Reviews' on the right of the application. Selected members receive an email and task requesting they provide feedback via a short form. The Committee Representative is notified when feedback is submitted, and can view which reviewers have submitted feedback. 
+
+The Committee Representative can also send the application for review outside of the committee. The name of a reviewer who is not a member of the committee can be entered into the field below the list of committee members. The nominated reviewer will receive an email and task requesting they submit a review of the application. They will have permission to view the application and can submit their review online. 
+
+A default deadline of two weeks is automatically set for all requested reviews, however the Committee Representative can change this if needed. Reviewers can decline the request. The Committee Representative is notified if a nominated reviewer declines the request. 
+
+h3. Role of the Committee Chair
+
+The Committee Representative can forward the application to the Chair or Deputy Chair to action on behalf of the committee. 
+
+h3. Notifying the applicant
+
+Once the committee has reached a decision, the Committee Representative can 'Edit committee decision' to record the decision and notify the applicant with the outcome. A template notification email is displayed which can be edited for this individual response before sending.
