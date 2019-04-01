@@ -16,8 +16,7 @@ h2. Documents
 <a href="https://www.haplo-services.com/docs/Haplo_Testing_Guide.pdf">Testing Guide</a></p>
 <h3>User Manuals</h3>
 <p><a href="https://www.haplo-services.com/docs/Haplo_IT_Support_manual.pdf">IT Support manual</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Administrators_manual.pdf">Haplo Administrators manual</a><br />
-<a href="https://www.haplo-services.com/docs/Configuring_roles_in_Haplo_applications.pdf">Configuring roles in Haplo applications</a></p>
+<a href="https://www.haplo-services.com/docs/Haplo_Administrators_manual.pdf">Haplo Administrators manual</a></p>
 <h3>Product Specifications</h3>
 <p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
 <a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a><br />
