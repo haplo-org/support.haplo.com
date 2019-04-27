@@ -1,8 +1,0 @@
-title: SAML2
-long_title: Generic SAML2
-use_long_title_for_toc: yes
---
-
-As well as [node:research-manager/setup/authentication/shibboleth:Shibboleth] and [node:research-manager/setup/authentication/ad-fs:AD FS], Haplo can support generic SAML2 Identity Providers.
-
-Please contact us to discuss configuration.

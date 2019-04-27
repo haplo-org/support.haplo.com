@@ -20,33 +20,32 @@ Postgraduate Researcher | College:Department | Lead supervisor | Start | End | S
 
 h3. Statistics
 
-Postgraduate Researchers by College
-
+*Postgraduate Researchers by College*
 Dashboard will display Colleges, and show the number of Postgraduate Researchers on each programme by current and future academic year
 
 h3. Change requests
 
-Change requests
+*Change requests*
 Postgraduate Researcher | Change request | Date | Status
 
 h3. Data monitoring
 
-Supervisors without access
+*Supervisors without access*
 
-Projects missing supervisors
+*Projects missing supervisors*
 Postgraduate Researcher | College:Department | Number of supervisors | Type | Registration start
 
-Projects without titles
+*Projects without titles*
 Postgraduate Researcher  | College:Department | Project title | Lead supervisor | Registration start
 
-Researchers without a College
+*Researchers without a College*
 
-Postgraduate Researcher  without a Faculty
+*Postgraduate Researcher  without a Faculty*
 
 h3. Deadlines
 
-Upcoming deadlines
+*Upcoming deadlines*
 Postgraduate Researcher | College:Department | Project | Deadline | Deadline date
 
-Missed deadlines
+*Missed deadlines*
 Postgraduate Researcher | College:Department | Project | Deadline | Deadline date

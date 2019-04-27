@@ -1,0 +1,23 @@
+title: Azure AD
+--
+
+This document describes how to set up Azure AD for use with Haplo Research Manager. Please read the [node:platform-setup/authentication/ad-fs:overview documentation] first.
+
+In your Azure control panel, you need to _configure single sign-on for a non-gallery application_.
+
+Please follow "Microsoft's documentation for Azure AD":https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-single-sign-on-non-gallery-applications.
+
+* In the _Enter basic SAML configuration_ section, enter the _Identifier_ and _Reply URL_ provided by your Haplo contact.
+
+* In the _Review or customize the claims issued in the SAML token_ section, enter the *claims* matching the user information you're providing in the user feed.
+
+* When you get to _Review certificate expiration data, status, and email notification_, copy the *App Federation Metadata Url* and send it to your Haplo contact.
+
+The metadata URL will look like:
+
+@https://login.microsoftonline.com/3dade632-f084-4d36-91fa-a8d5e53c5bbe/federationmetadata/2007-06/federationmetadata.xml?appid=c0c9b282-5da6-4d57-8402-5d569a87d4f6@
+
+
+h2. Testing the configuration
+
+After we have set up the first service provider in a test environment, we'll need to [node:platform-setup/authentication/ad-fs/testing:test the configuration].

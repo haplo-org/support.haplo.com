@@ -3,5 +3,7 @@ long_title: Administrators manual
 class: DocNodeTextileWithTOC
 --
 
-h2. Contents
+Haplo Research Manager provides administrative and professional support staff with a set of comprehensive tools for managing research at their institution.
+
+h2. Manual
 

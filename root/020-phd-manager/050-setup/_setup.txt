@@ -2,7 +2,7 @@ title: Setup
 long_title: PhD Manager setup
 --
 
-The Haplo team work with you and your colleagues to specify the requirements for your PhD Manager application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
+The Haplo team work with you to specify the requirements for your PhD Manager application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
 
 During the setup process, Haplo will provide you with a project room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the project room.
 
@@ -20,7 +20,7 @@ PhD Manager commonly integrates with your institutional identity management syst
 
 *Setup* - depending on your contract, the Haplo team may provide you with the initial setup
 
-* Set up [node:phd-manager/setup/user-sync:user sync] for the PhD Manager module.
+* Set up [node:platform-setup/user-sync/phdm-user-sync:user sync] for the PhD Manager module.
 
 * Import any [node:phd-manager/setup/historical-data:historical data], of which [node:phd-manager/setup/historical-data/suspensions-and-extensions:suspensions and extensions] and [node:phd-manager/setup/historical-data/dates:project end dates] are required.
 
@@ -34,7 +34,7 @@ Storing data in a test system is compliant under GDPR.
 
 h2. Authentication
 
-Once the [node:phd-manager/setup/user-sync:user sync] has been set up, the Haplo team will contact the institution to request the required information for [node:research-manager/setup/authentication:setting up authentication] to the application.
+Once the [node:platform-setup/user-sync/phdm-user-sync:user sync] has been set up, the Haplo team will contact the institution to request the required information for [node:platform-setup/authentication:setting up authentication] to the application.
 
 h2. Integrations
 

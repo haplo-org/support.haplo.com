@@ -1,0 +1,8 @@
+title: Platform setup
+long_title: Platform setup
+--
+
+The Haplo team will work with your institutional IT teams to setup and integrate the Haplo platform prior to implementing PhD Manager, Haplo Research Manager, Ethics Monitor or any other Haplo product. 
+
+During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the project room.
+

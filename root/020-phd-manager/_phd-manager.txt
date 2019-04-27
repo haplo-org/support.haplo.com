@@ -9,5 +9,11 @@ h2. Manual
 
 [node:phd-manager/setup:Setting up and configuring] a Haplo PhD Manager application
 
-[node:phd-manager/administrators:Administrators] guidance on using Haplo PhD Manager.
+[node:phd-manager/administrators:Administrators] guidance on using Haplo PhD Manager
 
+[node:phd-manager/testing:Testing] guidance on testing new implementations and changes to PhD Manager.
+
+h2. Product specification
+
+<p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
+<a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a><br />

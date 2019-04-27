@@ -5,6 +5,10 @@ use_long_title_for_toc: yes
 
 *Haplo Repository* publishes research outputs on the web, and provides administrative workflows and reporting.
 
-Haplo Repository is fully open source, and this section documents Haplo's services to assist in migrating from legacy repositories, configuration, provision of hosting, and long term support.
+Haplo Repository is open source and supporting documentation is published on Haplo's open source documentation web site at "docs.haplo.org/app/repository":https://docs.haplo.org/app/repository.
 
-Technical documentation for the Repository is published on the open source documentation web site at "docs.haplo.org/app/repository":https://docs.haplo.org/app/repository.
+
+h2. Product specification
+
+<a href="https://www.haplo-services.com/docs/Haplo_Repository_illustrated_guide.pdf">Haplo Repository illustrated guide</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Repository_Brochure.pdf">Haplo Repository Specification</a></p>

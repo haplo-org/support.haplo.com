@@ -1,0 +1,30 @@
+title: Control file
+long_title: User sync control file
+--
+
+PhD Manager builds on Haplo Research Manager, so you should read the "notes on setting up user sync":https://docs.haplo.org/app/research/setup/user-sync.
+
+PhD Manager adds a @phd:group:doctoral-researchers@ _Managed group_ to set the category of PhD researchers.
+
+
+h2. Creating a control file
+
+To set up the user sync, you need to write a "control file":https://docs.haplo.org/import/control to map the data you're providing into the right parts of the PhD Manager database.
+
+Depending on your contract, the Haplo team may provide you with an initial version of this control file for you to refine.
+
+To create a new control file, it's best to start with the control file generator.
+
+CLICK_PATH TOOLS > Data import > Models > haplo:user-sync > Generate control file...
+
+Select all the fields for the _User account_ destination (@username@, etc), then select the other fields you're going to sync.
+
+This must include <tt>project-start@actual</tt> in the dates section, which is the project start date, and @hres:attribute:research-institute@, the user's organisational unit.
+
+Refer to the model information page for the meaning of these fields.
+
+CLICK_PATH TOOLS > Data import > Models > haplo:user-sync
+
+After you have selected the fields, click _Generate control file_ to produce the initial version. Then, referring to the "user sync documentation":https://docs.haplo.org/import/user-sync, set up the input files and adjust the instructions and mappings.
+
+Refer to the [node:platform-setup/user-sync/phdm-user-sync/data-model] documentation for how to use the import data model for PhD Manager.
