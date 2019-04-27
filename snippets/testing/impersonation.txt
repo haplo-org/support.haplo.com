@@ -2,11 +2,11 @@ During testing you will need to impersonate other users. This enables you to che
 
 To impersonate:
 
-* Select your name in the top right
-* Search for the user you wish to impersonate
-* Select their name from the list
-* A red banner will appear at the top of the screen when you are impersonating a user
-* Select Finish on the red banner to stop impersonating
+* select your name in the top right
+* search for the user you wish to impersonate
+* select their name from the list
+* a red banner will appear at the top of the screen when you are impersonating a user
+* select Finish on the red banner to stop impersonating
 
 After impersonating, the initials of the users you've impersonated appear in circles on the left hand side of the page. Use these to quickly move back and forth between different users during a testing session. 
 

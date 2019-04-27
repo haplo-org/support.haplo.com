@@ -1,5 +1,0 @@
-title: Hostname and SSL
-long_title: Hostname and SSL certificates
---
-
-[SNIPPET setup/hostname]

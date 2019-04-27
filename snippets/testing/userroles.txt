@@ -2,8 +2,8 @@
 Where a workflow being tested requires approval by a role such as the Dean, Research Degree Leader or Research Administrators, users should be assigned to these roles before initiating the workflow. 
 
 * Select the School/Faculty/College from the list on the left of your system. 
-* From the School/Faculty/College record click 'Edit' in the top right. 
-* Add the relevant users to the correct roles. For each role, enter the name of the user for this role and select their name from the lookup list of names which appears. 
+* On the School/Faculty/College record click 'Edit' in the top right. 
+* Add the relevant users to the correct roles. For each role, start entering the name of the user for this role and select their name from the lookup list of names which appears. 
 * Save your changes. 
 
 You can add more than one user to each role by selecting + to the left of the field, or remove a user from the role by selecting - on the right of the field.
@@ -11,9 +11,10 @@ You can add more than one user to each role by selecting + to the left of the fi
 Where an application being tested will be routed to a committee, the Committee Representative (Secretary), Chair, and some committee members should be added to the committee record before initiating the workflow.
 
 * Find the relevant Committee by selecting 'Committees' on the left of your system or by selecting the related School/Faculty/College from the list on the left, and selecting the Committee icon at the top of the School/Faculty/College page.
-* Click 'Edit' in the top right of the committee record. Select the Committee Representative, Committee Chair and Deputy Chair (where relevant) and committee members, as above. 
+* Click 'Edit' in the top right of the committee record. 
+* Select the Committee Representative, Committee Chair and Deputy Chair (where relevant) and committee members. For each role, start entering the name of the user for this role and select their name from the lookup list of names which appears.  
 * Save your changes. 
 
 h4. Delegation
 
-Where more than one user performs a similar role and you would like the ability to delegate tasks between the users, ensure that you have set up more than one user in each of the roles and committee roles above. (Delegation between members of a supervisory team happens automatically.)
+Where more than one user performs a similar role and you would like the ability to delegate tasks between the users, ensure that you have set up more than one user in each of the roles and committee roles described above. (Delegation between members of a supervisory team is automatically implemented.)

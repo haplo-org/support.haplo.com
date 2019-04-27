@@ -1,6 +1,6 @@
 Haplo sends email notifications to users at various points during a workflow process. These emails are not sent in the test system, enabling you to test without risking emails being sent.
 
-You can view the text of the emails being sent using the Test email viewer. 
+You can view the text of the emails which would be sent using the Test email viewer. 
 
 * If you're impersonating another user, click 'Finish' on the red banner. 
 * Click on your name in the top right. 

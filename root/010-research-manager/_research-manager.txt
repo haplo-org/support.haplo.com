@@ -9,7 +9,7 @@ h2. Manual
 
 [node:research-manager/setup:Setting up and configuring] Haplo Research Manager
 
-[node:research-manager/administrators:Administrators] guidance on using Haplo Research Manager.
+[node:research-manager/administrators:Administrator] guidance on using Haplo Research Manager.
 
 [node:research-manager/testing:Testing] guidance on testing new implementations and changes to Haplo Research Manager.
 

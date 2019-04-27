@@ -1,4 +1,4 @@
-title: User sync
+title: PhD Manager User sync
 long_title: PhD Manager user sync
 class: DocNodeTextileWithTOC
 --
@@ -6,18 +6,6 @@ class: DocNodeTextileWithTOC
 The user sync provides daily updates of the details of Postgraduate Researchers, supervisors and administrative staff. PhD Manager requires more data than other Haplo Research Manager modules, because it needs details of Postgraduate Research projects as well as people.
 
 Postgraduate Researchers should be included in the feed once they have enrolled. All other users can be included whether or not they are involved in a Postgraduate Research project.
-
-
-h2. Reference
-
-PhD Manager builds on other Haplo modules. The following documents will be useful reference material.
-
-"Haplo generic user sync documentation":https://docs.haplo.org/import/user-sync
-
-"Haplo Research Manager user sync":https://docs.haplo.org/app/research/setup/user-sync
-
-"Writing a control file":https://docs.haplo.org/import/control
-
 
 h2. Steps to set up user sync
 
