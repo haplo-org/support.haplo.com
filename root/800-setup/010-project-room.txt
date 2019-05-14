@@ -1,0 +1,31 @@
+title: Project Room
+--
+
+When the implementation project begins, Haplo will create a Project Room to help us work together with document management, secure file transfers, and access to test environments.
+
+
+h2. Security
+
+This Project Room is hosted on the same infrastructure as the live environment, using the same ISO27001 certified information security management system, making it suitable for transferring any data that will be managed by your live Haplo application.
+
+
+h2. Managing access
+
+After the Project Room has been created, Haplo will create a single administrative user account for the institution's project manager. They will receive an email asking them to set a password by clicking a secure link.
+
+Once this account has been set up, the project manager can manage access for all other institutional users by clicking the _Manage users..._ button on the home page.
+
+
+h2. Project room permissions
+
+All institutional users have the same access (although only users authorised by the project manager will be able to invite others to the project room). Only grant access to colleagues who are permitted to view the information managed in the Project Room.
+
+
+h2. Sending secrets
+
+You may need to send us secret information, for example passwords and API keys to other institutional system, and a test user in your identity management system.
+
+On the home page, click the _Send secrets..._ button, and fill in the form. After you have saved the secret, the account details (eg username) will be visible to anyone, but the secret (eg password) will only be visible to technical members of the Haplo team. All access to the secret information is audited.
+
+
+[SNIPPET project-room/user-functions]

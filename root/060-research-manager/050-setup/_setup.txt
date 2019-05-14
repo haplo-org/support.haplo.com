@@ -5,4 +5,4 @@ class: DocNodeTextileWithTOC
 
 The Haplo team work with you to specify the requirements for your Haplo Research Manager application. Then, they'll configure and deploy the application, and work with your IT team to support the application once it goes live.
 
-During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the project room.
+During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:research-manager/project-room].
