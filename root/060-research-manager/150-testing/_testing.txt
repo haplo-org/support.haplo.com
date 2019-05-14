@@ -3,8 +3,3 @@ long_title: Research Manager Testing
 --
 
 Haplo Research Manager is highly configured for each institution. This guidance is provided to assist institutions testing their configuration prior to deployment of their new system or new functionality within their existing system. 
-
-h2. Documentation
-
-Testing plan
-Testing checklist
