@@ -8,4 +8,4 @@ After we have finalised the configuration with your IdP metadata URL, we'll prov
 
 Visiting this URL in a browser will perform a test authentication, and then show you the data received back from your IdP.
 
-Ensure that the data includes the right identifier to match the user information in your [node:platform-setup/user-sync:user feed]. This may be a username, email address, or other person identifier, and will depend on how the integrations are set up.
+Ensure that the data includes the right identifier to match the user information in your [node:setup/user-sync:user feed]. This may be a username, email address, or other person identifier, and will depend on how the integrations are set up.

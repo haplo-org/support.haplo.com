@@ -1,7 +1,7 @@
 title: Azure AD
 --
 
-This document describes how to set up Azure AD for use with Haplo Research Manager. Please read the [node:platform-setup/authentication/ad-fs:overview documentation] first.
+This document describes how to set up Azure AD for use with Haplo Research Manager. Please read the [node:setup/authentication/ad-fs:overview documentation] first.
 
 In your Azure control panel, you need to _configure single sign-on for a non-gallery application_.
 
@@ -20,4 +20,4 @@ The metadata URL will look like:
 
 h2. Testing the configuration
 
-After we have set up the first service provider in a test environment, we'll need to [node:platform-setup/authentication/ad-fs/testing:test the configuration].
+After we have set up the first service provider in a test environment, we'll need to [node:setup/authentication/ad-fs/testing:test the configuration].

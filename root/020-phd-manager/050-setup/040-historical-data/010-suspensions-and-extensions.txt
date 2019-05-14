@@ -5,7 +5,7 @@ Information about suspensions and extensions for *current* Postgraduate Research
 
 Please provide a file with records containing the following fields:
 
-* username of PhD researcher (to match the username in the [node:platform-setup/user-sync/phdm-user-sync])
+* username of PhD researcher (to match the username in the [node:setup/user-sync/phdm-user-sync])
 * type of record, either @suspension@ or @extension@
 * start date of period
 * end date of period

@@ -27,4 +27,4 @@ CLICK_PATH TOOLS > Data import > Models > haplo:user-sync
 
 After you have selected the fields, click _Generate control file_ to produce the initial version. Then, referring to the "user sync documentation":https://docs.haplo.org/import/user-sync, set up the input files and adjust the instructions and mappings.
 
-Refer to the [node:platform-setup/user-sync/phdm-user-sync/data-model] documentation for how to use the import data model for PhD Manager.
+Refer to the [node:setup/user-sync/phdm-user-sync/data-model] documentation for how to use the import data model for PhD Manager.

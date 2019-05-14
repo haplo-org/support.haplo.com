@@ -12,7 +12,7 @@ We need to configure email relaying towards the end of the setup project, when y
 
 h2. Office 356
 
-If you use Office 365, please follow the [node:platform-setup/email-relay/office-365:separate instructions].
+If you use Office 365, please follow the [node:setup/email-relay/office-365:separate instructions].
 
 
 h2. Other email servers

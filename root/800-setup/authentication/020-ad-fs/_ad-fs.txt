@@ -26,9 +26,9 @@ We will provide you with an _identifier_ and a _reply URL_. These will look like
 
 Please follow the instructions for the flavour of AD FS you are using:
 
-* [node:platform-setup/authentication/ad-fs/windows-server:Windows Server] (on-premises AD FS)
+* [node:setup/authentication/ad-fs/windows-server:Windows Server] (on-premises AD FS)
 
-* [node:platform-setup/authentication/ad-fs/azure-ad:Azure AD] (hosted AD FS)
+* [node:setup/authentication/ad-fs/azure-ad:Azure AD] (hosted AD FS)
 
 In both cases, you will need to:
 
@@ -36,7 +36,7 @@ In both cases, you will need to:
 
 * send us the *App Federation Metadata Url* so we can complete our configuration.
 
-When we've set up the first service provider in a test environment, we'll give you a testing URL so we can [node:platform-setup/authentication/ad-fs/testing:test the configuration] is providing the right information to our service provider.
+When we've set up the first service provider in a test environment, we'll give you a testing URL so we can [node:setup/authentication/ad-fs/testing:test the configuration] is providing the right information to our service provider.
 
 
 h2. Claims
