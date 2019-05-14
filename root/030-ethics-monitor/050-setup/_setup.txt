@@ -4,4 +4,4 @@ long_title: Ethics Monitor setup
 
 The Haplo team with work with you and your colleagues to specify the requirements for your Ethics Monitor application. Then, they'll configure and deploy the application, and work with you to support the application once it goes live.
 
-During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:ethics-monitor/project-room].
+During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:ethics-monitor/setup/project-room].
