@@ -8,9 +8,9 @@ Your IT team will be provided with tools to setup and maintain the user sync and
 
 * set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
 
-* set up the [node:setup/user-sync/phd-manager:user sync] for the PhD Manager module
+* set up the [node:setup/user-sync:user sync]
 
-* import any [node:phd-manager/setup/historical-data:historical data], of which [node:phd-manager/setup/historical-data/suspensions-and-extensions:suspensions and extensions] and [node:phd-manager/setup/historical-data/dates:project end dates] are required
+* import any historical data that you have available
 
 * resolve any data quality issues
 

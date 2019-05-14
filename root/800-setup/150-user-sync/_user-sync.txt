@@ -3,7 +3,12 @@ title: User sync
 
 The user sync provides daily updates of the details of researchers and administrative staff. Some applications will also need details of PhD researchers, and possibly taught students.
 
-Please refer to the specific documentation for the modules you are using. 
+Please refer to the specific documentation for the modules you are using:
+
+[node:setup/user-sync/phd-manager]
+[node:setup/user-sync/ethics-monitor]
+
+When you use multiple modules, you will implement a single user feed containing the combined requirements for the modules.
 
 
 h2. Reference

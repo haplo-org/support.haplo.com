@@ -1,5 +1,4 @@
-title: Platform setup
-long_title: Platform setup
+title: Platform & Integration
 --
 
 The Haplo team will work with your institutional IT team to setup and integrate the Haplo platform prior to implementing Haplo Research Manager, PhD Manager, or Ethics Monitor. 
