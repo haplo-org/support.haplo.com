@@ -7,11 +7,11 @@ This should include experience outside your institution. If you don't have infor
 
 You can also use this as an alternative to importing [node:phd-manager/setup/historical-data/previous-phd-projects:previous Postgraduate Research projects].
 
-You must make sure this data does not include current PhD researchers appearing in the [node:setup/user-sync/phdm-user-sync] or [node:phd-manager/setup/historical-data/previous-phd-projects:previous Postgraduate Research projects] import.
+You must make sure this data does not include current PhD researchers appearing in the [node:setup/user-sync/phd-manager] or [node:phd-manager/setup/historical-data/previous-phd-projects:previous Postgraduate Research projects] import.
 
 Please provide a file with records containing the following fields:
 
-* username of supervisor (to match the username in the [node:setup/user-sync/phdm-user-sync])
+* username of supervisor (to match the username in the [node:setup/user-sync/phd-manager])
 * Postgraduate Researcher name
 * Kind of supervision: @supervisor@, @examiner@, @advisor@, @panel@
 * Institution (optional)

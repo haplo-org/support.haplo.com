@@ -1,4 +1,4 @@
-title: PhD Manager User sync
+title: PhD Manager
 long_title: PhD Manager user sync
 class: DocNodeTextileWithTOC
 --

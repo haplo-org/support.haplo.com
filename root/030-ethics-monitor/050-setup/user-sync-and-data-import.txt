@@ -8,7 +8,7 @@ Your IT team will be provided with tools to setup and maintain the user sync and
 
 * set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
 
-* set up the [node:setup/user-sync/em-user-sync:user sync] for the Ethics Monitor module
+* set up the [node:setup/user-sync/ethics-monitor:user sync] for the Ethics Monitor module
 
 * resolve any data quality issues
 

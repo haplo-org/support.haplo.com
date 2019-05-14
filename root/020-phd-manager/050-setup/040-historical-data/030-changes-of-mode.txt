@@ -5,7 +5,7 @@ While it is not essential, it is recommended that you provide data on the previo
 
 Please provide a file with records containing the following fields:
 
-* username of Postgraduate Researcher (to match the username in the [node:setup/user-sync/phdm-user-sync])
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-sync/phd-manager])
 * date of change
 * mode before change (optional)
 * mode after change (optional)

@@ -1,4 +1,4 @@
-title: Ethics Monitor User sync
+title: Ethics Monitor
 long_title: Ethics Monitor user sync
 class: DocNodeTextileWithTOC
 --
