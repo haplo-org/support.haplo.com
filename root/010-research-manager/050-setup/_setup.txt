@@ -1,9 +1,0 @@
-title: Setup
-long_title: Haplo Research Manager setup
-class: DocNodeTextileWithTOC
---
-
-This documentation contains generic documentation for how to work with Haplo on setting up an application based on Haplo Research Manager, such as [node:phd-manager] and [node:ethics-monitor].
-
-h2. Setup tasks
-

@@ -1,0 +1,6 @@
+title: Testing
+long_title: PhD Manager Testing
+--
+
+PhD Manager is highly configured for each institution. This guidance is provided to assist institutions testing their configuration prior to deployment of their new system or new functionality within their existing system. 
+

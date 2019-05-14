@@ -1,0 +1,23 @@
+Record your feedback on the spreadsheet provided in your Haplo Project Room. Avoid sending separate emails to Haplo as it's easier to track the resolution of all feedback if all issues and any correspondence is listed in the spreadsheet. (If you encounter an error which prevents you testing effectively, contact Haplo Client Support directly otherwise record all feedback in the spreadsheet.)
+
+You shouldn't need to take screenshots if you provide clear descriptions of the issue. However, where it is easier to send a screenshot, put all screenshots into a single file and email them to Haplo at the end of your testing period, cross referencing to any related issue in the feedback spreadsheet.
+
+Clear, comprehensive feedback will help us make your requested changes faster. When describing an issue include:
+
+* what stage the process was at
+* what you did
+* what happened
+* how that differed from what you expect to happen
+* any error messages displayed on screen
+
+At the end of each testing period, review and collate your feedback in the spreadsheet and:
+
+* remove any duplicate feedback
+* check that each line of the spreadsheet relates only to one issue
+* check that you have included a priority rating and the current status of all issues
+
+Haplo will treat all entries in the spreadsheet as your instructions to us for changes you require. Please ensure any internal discussions about what changes are required have taken place before the end of your testing phase.
+
+h4. Feedback spreadsheet
+
+The feedback spreadsheet is used to capture your feedback and track the progress in resolving and accepting issues raised. Issues should be prioritised to enable the most critical issues to be resolved first.

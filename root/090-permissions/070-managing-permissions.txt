@@ -1,0 +1,20 @@
+title: Managing user permissions
+--
+
+h2. Managing user permissions
+
+[node:permissions/configuring-roles:Configuring roles in Haplo]
+
+Permissions in Haplo are flexible and fine-grained. User permissions are based on the roles a user has in an organisation. This makes it possible to consistently manage permissions between users in similar positions, and to easily update permissions if a user role changes within an organisation.
+
+Users are often assigned multiple roles and their permissions will be reflected to support all the roles they perform. For example, the same user may be a Supervisor for one project, and an Examiner for a different project.
+
+Permissions are administered in two different ways within Haplo. 
+
+h3. 1. Assigning users to roles in the user interface
+
+Users can be added or removed from roles such as 'Dean', 'Head of Department', 'Committee Secretary' by editing the Faculty, Department, or Committee record within the standard user interface. A restricted number of users will have permission to edit these records. Commonly a Faculty Administrator or Committee Secretary will have permission to add or remove users on the record of their faculty or committee. 
+
+h3. 2. Assigning users to groups in system management
+
+More complex permissions are administered in system management. Access to system management is normally restricted to the IT team administering the system. Users can be added to groups such as 'Graduate School Office' or 'Funding team' which applies a wide range of permissions to the user appropriate for the role.

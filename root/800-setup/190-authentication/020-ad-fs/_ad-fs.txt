@@ -1,0 +1,50 @@
+title: AD FS (Windows or Azure)
+long_title: AD FS authentication
+--
+
+AD FS comes in two flavours, the service built into Windows Server and hosted Azure AD. The overall principles are the same, but there are different setup instructions.
+
+
+h2. Multiple environments
+
+During development and testing of your Haplo Research Manager application, we will need to run several environments. Because each environment has its own hostname and separate Service Provider, you will need to set up multiple SPs.
+
+The production environment can only be configured towards the end of the development process, once the hostname under the institution's domain is delegated to the Haplo hosted service and an application is created.
+
+We will ask for SPs to be set up at appropriate times. While it is safe to use production service providers with test environments, you may have separate test servers you wish to use during testing.
+
+
+h2. Creating an SP
+
+When setting up AD FS, both sides need to include configuration information from the other before it'll work. We will set up our side first, then ask you to configure your identity provider.
+
+We will provide you with an _identifier_ and a _reply URL_. These will look like:
+
+|Identifier|@https://example.ac.uk/do/saml2-sp/idp-name/metadata@|
+||(the _identifier_ is also the _Federation metadata address_)|
+|Reply URL|@https://example.ac.uk/do/saml2-sp/idp-name/assertion-consumer-service@|
+
+Please follow the instructions for the flavour of AD FS you are using:
+
+* [node:setup/authentication/ad-fs/windows-server:Windows Server] (on-premises AD FS)
+
+* [node:setup/authentication/ad-fs/azure-ad:Azure AD] (hosted AD FS)
+
+In both cases, you will need to:
+
+* set up *claims*, so your IdP will send an identifier for your user. The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
+
+* send us the *App Federation Metadata Url* so we can complete our configuration.
+
+When we've set up the first service provider in a test environment, we'll give you a testing URL so we can [node:setup/authentication/ad-fs/testing:test the configuration] is providing the right information to our service provider.
+
+
+h2. Claims
+
+The most likely claims to be used for identifying users are:
+
+* @user.userprincipalname@
+
+* @user.mail@
+
+Only one claim needs to be provided.

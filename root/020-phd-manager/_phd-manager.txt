@@ -3,11 +3,17 @@ long_title: Haplo PhD Manager
 use_long_title_for_toc: yes
 --
 
-*Haplo PhD Manager* manages the administration and reporting of Postgraduate Research programmes at Higher Education institutions. As each institution's rules, regulations and processes are different, the Haplo team work closely with institutions to perform extensive configurations during the implementation and ongoing support of PhD Manager. 
+*Haplo PhD Manager* manages the administration and reporting of Postgraduate Research programmes at Higher Education institutions. As each institution's regulations, processes and organisational structure are different, PhD Manager is highly configured for each institution. The Haplo team work closely with institutions to understand their requirements and perform extensive configurations during the implementation and provide ongoing support for PhD Manager. 
 
 h2. Manual
 
 [node:phd-manager/setup:Setting up and configuring] a Haplo PhD Manager application
 
-[node:phd-manager/administrators:Administrators] guidance on using Haplo PhD Manager.
+[node:phd-manager/administrators:Administrator] guidance on using Haplo PhD Manager
 
+[node:phd-manager/testing:Testing] guidance on testing new implementations and changes to PhD Manager.
+
+h2. Product specification
+
+<p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
+<a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a><br />

@@ -7,7 +7,7 @@ Note that information on [node:phd-manager/setup/historical-data/suspensions-and
 
 Files may be in any reasonable structure in "JSON, XML or TSV":https://docs.haplo.org/import/control/files#File_formats.
 
-It may be easier to [node:phd-manager/setup/user-sync/one-off-import-from-sync-file:re-use the information gathered for the user sync].
+It may be easier to [node:setup/user-sync/phd-manager/one-off-import-from-sync-file:re-use the information gathered for the user sync].
 
 
 h2. End dates
@@ -16,7 +16,7 @@ It is essential to provide end dates as calculated in a legacy system. They will
 
 The following information is needed in a single file:
 
-* username of Postgraduate Researcher (to match the username in the [node:phd-manager/setup/user-sync])
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-sync/phd-manager])
 * end date of project
 
 End dates may be provided in any consistent, machine-readable format.
@@ -26,7 +26,7 @@ h2. Historical milestone
 
 If milestones, such as previous annual progress reviews, are available and relevant, they can be provided in a single file with the following fields:
 
-* username of Postgraduate Researcher (to match the username in the [node:phd-manager/setup/user-sync])
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-sync/phd-manager])
 * kind of milestone
 * date of milestone
 

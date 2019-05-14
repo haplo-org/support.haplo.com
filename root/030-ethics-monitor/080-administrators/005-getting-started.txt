@@ -1,0 +1,43 @@
+title: Getting started
+long_title: Ethics Monitor Administrators Getting started
+--
+
+h2. Finding your way around Ethics Monitor
+
+h3. Along the top
+
+*Search* 
+Use the search box in the top left to find any record within Haplo. The search option next to the quick search box provides access to a longer search box and search by field options. The search function searches the full text of files uploaded to Haplo. 
+
+*Browse* 
+Use browse in the top toolbar to browse all items in different categories, for instance all applications or users of a certain type. Browse is most useful when researchers, research projects, and research outputs are tagged by research subjects. 
+
+*Recent*
+Use recent to view all recently added or edited items. 
+
+*Add*
+Only Administrative users with relevant permissions can view the Add option in the top toolbar. On the Add page, users can select a type of item to add. Normally, items which can be added via the Add page are restricted to Events, News, and Committees. 
+
+*Tasks*
+When you need to complete a task in Haplo, this will show in the Tasks indicator on the right of the top toolbar. Select Tasks to view your full task list. 
+
+*Help*
+The help pop-up can be configured to display custom messages for your institution and a help form for users to send help requests to your support teams. 
+
+h3. Down the left side
+
+*Directories of Faculties/Departments/Schools* are automatically created based on the Faculties/Departments/Schools which are sent to Haplo via your data feed.
+
+*Calendar* lists upcoming events for Postgraduate Researchers (if your institution subscribes to PhD Manager.) 
+
+*Committees* lists all committees. 
+
+*Guides* provides user guides.
+
+h3. How to access dashboards
+
+Ethics Monitor's dashboards will be your primary way to access information on ethics applications in your instituiton. Access the dashboards via the 'Research governance' link on the right or centre of your home page (depending on your institution's configuration of the homepage.)
+
+
+
+

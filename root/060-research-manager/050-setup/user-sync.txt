@@ -1,0 +1,28 @@
+title: User sync and data import
+long_title: User sync and data import
+--
+
+Haplo commonly integrates with your institutional identity management system and (for PhD Manager) your Student Record System. 
+
+Your IT team will be provided with tools to setup and maintain the user sync and data feed integration. They will:
+
+* set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
+
+* set up the [node:setup/user-sync:user sync]
+
+* import any historical data that you have available
+
+* resolve any data quality issues
+
+* adjust mappings, if necessary.
+
+h3. Preparing data
+
+The successful deployment of your Haplo solution relies on the provision of good quality data from institutional IT systems during initial imports and through the ongoing data feed.
+
+* Before compiling the data, the Haplo team will discuss with you what information you require imported into the system.
+
+* The data should be provided in one of the "supported file formats":https://docs.haplo.org/import/control/files. Spreadsheets should be converted to a structured format.
+
+* If any data is provided as a code (for example, organisational unit or visa status) the institution should provide a mapping for interpreting the codes.
+

@@ -3,37 +3,21 @@ long_title: Haplo Support Library
 class: DocNodeTextileWithTOC
 --
 
-This site provides technical setup and ongoing support documentation for "Haplo's commercial products":https://www.haplo.com/products.
+Welcome to the Haplo Support Library providing information on setting up and using Haplo's "research management products":https://www.haplo.com/products.
 
-Much of our work is open source, so in many cases this documentation refers to the open source documentation at "docs.haplo.org":https://docs.haplo.org.
-
-*We are in the process of reformatting our PDF documentation. If the documentation you need is not available here, please get in touch with your support contact.*
-
-h2. Documents
-
-<p><a href="https://www.haplo-services.com/docs/Haplo_Implementation_Plan.pdf">Project plan</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_Standard_Terms_Website.pdf">Terms and conditions including Service Level Agreement</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Testing_Guide.pdf">Testing Guide</a></p>
-<h3>User Manuals</h3>
-<p><a href="https://www.haplo-services.com/docs/Haplo_IT_Support_manual.pdf">IT Support manual</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Administrators_manual.pdf">Haplo Administrators manual</a></p>
-<h3>Product Specifications</h3>
-<p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
-<a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a><br />
-<a href="https://www.haplo-services.com/docs/Ethics_Monitor_screenshots.pdf">Ethics Monitor screenshots</a><br />
-<a href="https://www.haplo-services.com/docs/Ethics_Monitor_Product_Specification.pdf">Ethics Monitor Product Specification</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_screenshots.pdf">Haplo Research Manager screenshots</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_Technical_Specification.pdf">Haplo Research Manager Technical Specification</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Repository_illustrated_guide.pdf">Haplo Repository illustrated guide</a><br />
-<a href="https://www.haplo-services.com/docs/Haplo_Repository_Brochure.pdf">Haplo Repository Specification</a></p>
-<h3>Certification</h3>
-<p><a href="https://www.haplo-services.com/docs/Haplo_Services_ISO27001_2018.pdf">ISO27001 certificate</a></p>
-
-
-h2. Getting help
+Support for our open source platform, and the open source Haplo Repository, can be found at "docs.haplo.org":https://docs.haplo.org.
 
 If you have any questions, please get in touch with your support contact.
 
+h2. Documents
 
-h2. Haplo's products
+<a href="https://www.haplo-services.com/docs/Haplo_Research_Manager_Standard_Terms_Website.pdf">Terms and conditions including Service Level Agreement</a><br />
+<a href="https://www.haplo-services.com/docs/Haplo_Services_ISO27001_2018.pdf">ISO27001 certificate</a>
+<a href="https://www.haplo-services.com/docs/Haplo_IT_Support_manual.pdf">IT Support manual</a><br />
+
+h2. Products and platform
+
+This documentation has sections for each of the products. These are designed for colleagues who are specifying and implementing the module.
+
+The Platform & Integrations section is for the IT team who will be integrating the Haplo application into the institution's infrastructure.
 

@@ -1,0 +1,15 @@
+During testing you will need to impersonate other users. This enables you to check that user permissions have been applied correctly, and to check and progress workflows by impersonating each person in the process. 
+
+To impersonate:
+
+* select your name in the top right
+* search for the user you wish to impersonate
+* select their name from the list
+* a red banner will appear at the top of the screen when you are impersonating a user
+* select Finish on the red banner to stop impersonating
+
+After impersonating, the initials of the users you've impersonated appear in circles on the left hand side of the page. Use these to quickly move back and forth between different users during a testing session. 
+
+h4. Technical notes
+
+Testers will need to have been added to the ‘Trusted impersonators’ group in System Management to be able to impersonate other users.

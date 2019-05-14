@@ -2,19 +2,6 @@ title: Setup
 long_title: Ethics Monitor setup
 --
 
-The Haplo team with work with you and your colleagues to specify the requirements for your Ethics Monitor application. Then, they'll customise and deploy the application, and work with your team to support the application once it goes live.
+The Haplo team with work with you and your colleagues to specify the requirements for your Ethics Monitor application. Then, they'll configure and deploy the application, and work with you to support the application once it goes live.
 
-
-h2. Data sync and import
-
-The most important task for IT at the institution is to provide good quality data:
-
-* Set up the "institution structure":https://docs.haplo.org/app/research/setup/institution-structure
-
-* Set up [node:ethics-monitor/setup/user-sync:user sync] for the Ethics Monitor module
-
-* Resolve any data quality issues
-
-h2. Authentication
-
-Refer to the Haplo Research Manager documentation on [node:research-manager/setup/authentication] for instructions on how to set up authentication.
+During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:ethics-monitor/project-room].

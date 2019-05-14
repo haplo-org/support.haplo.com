@@ -1,0 +1,14 @@
+title: Integrations
+long_title: Integrations
+--
+
+Data can be pushed in or retrieved on an ad-hoc basis. The available options fall into three categories:
+
+* Push data into the system using our "REST API":https://docs.haplo.org/import/rest-api. This is self service and we will guide you in setting it up.
+
+* Poll the application for changes.
+
+* Have the Haplo application output a queue of changes for an administrator to apply manually in the institution's system.
+
+Any such integrations will need to be discussed with the Haplo team in advance in order to determine the feasibility of the integration and determine what work is required.
+

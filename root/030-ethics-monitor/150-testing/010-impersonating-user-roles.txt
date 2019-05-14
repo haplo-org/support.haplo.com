@@ -1,0 +1,5 @@
+title: Impersonating user roles
+long_title: Impersonating user roles
+--
+
+[SNIPPET testing/impersonation]
