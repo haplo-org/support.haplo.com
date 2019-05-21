@@ -16,4 +16,4 @@ h2. Manual
 h2. Product specification
 
 <p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
-<a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a><br />
+<a href="https://www.haplo-services.com/docs/PhD_Manager_Product_Specification.pdf">PhD Manager Product Specification</a></p>
