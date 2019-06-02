@@ -1,0 +1,20 @@
+title: Supported browsers
+long_title: Supported web browsers
+--
+
+Haplo supports the current and previous versions of the following web browsers:
+
+* Firefox
+* Safari
+* Google Chrome
+* Microsoft Edge
+
+In addition, there is support for:
+
+* Microsoft Internet Explorer 11
+* Any browser fully supported by Microsoft Office 365
+* Any browser fully supported by Google G Suite for Education
+
+Haplo is a standards compliant web application with fallback support when modern features are not available. Although not formally supported, you should expect any major web browser released in the last 7 years to work.
+
+Where the application has a public interface (for example, Haplo Repository), the browser support is dependent on the branding and styling the institution chooses to apply.
