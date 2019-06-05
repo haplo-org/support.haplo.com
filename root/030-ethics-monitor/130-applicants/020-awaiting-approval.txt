@@ -1,0 +1,13 @@
+title: Awaiting approval
+long_title: Awaiting approval
+--
+
+h2. Viewing the status of approval
+
+Applicants can view the status of their applicaiton at all times via the STATUS panel in the top right of the application. 
+
+They can view who is currently reviewing the application (unless this is confidential, for instance individual committee members.)
+
+h3. Likely approval routing
+
+The likely approval routing for the application shows on the bottom left of an application record based on the category of applicant, department, and risk level of the application. This is an indicative routing and the application can be routed outside of the normal expected routing. 

@@ -1,0 +1,23 @@
+title: Requests for information
+long_title: Requests for more information
+--
+
+h2. Alerts to provide more information
+
+Reviewers and approvers may return an application to an applicant if they require changes or additional information. The applicant is alerted by task and email to the request. 
+
+h3. Viewing comments
+
+The reviewer or approver may have left comments in line against questions on the application form, or in a cover note which is included in the email to the applicant and visibile in the timeline history at the bottom of the application record. 
+
+h3. Editing the application form
+
+Applicants can edit their returned application form and resubmit. 
+
+h3. Version control
+
+Previous versions of the submitted form are kept and available on the right hand side of the ethics application. 
+
+h3. Highlighting changes
+
+After resubmitting an application, the reviewer or approver is automatically alerted and can view and compare the changes made to answers on the form. 

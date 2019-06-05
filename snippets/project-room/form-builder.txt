@@ -1,0 +1,62 @@
+The Haplo Form Builder enables you to design create your online forms for inclusion in PhD Manager, Ethics Monitor and other Haplo products.
+
+The Form Builder is accessed via your Haplo Project Room, select 'Forms' on the right of your Project Room homepage.
+
+Forms can be split into tabs for easier navigation. When designing a form, consider the number of questions suitable for each tab. If the on screen length of the tab is too long the form becomes unwieldy and less user friendly.
+
+h2. Creating a new form
+
+* Choose add
+* Choose form
+* Select the project
+* Fill out the needed information and save. This information can be edited after it has been saved by choosing Edit on the main form page. 
+
+h3. Fields on a new form
+
+* Title 
+* Workflow name - what does this form support? e.g. Ethics approval 
+* Tab - each section of the form. This will auto update when you select Add page on the right hand side of the screen and update the tab information there.
+Where you know the names for tabs you can add them when initially creating the main form page if you wish. These can be changed later.
+* Confirm statements - statements that must be confirmed before the form / application can be submitted
+e.g. I have included all relevant information in your application and uploaded all supporting files.
+* Project - which system should these forms be linked to e.g. Ethics Monitor or PhD Manager Implementation
+* Guidance note - information presented to the user before they start completing the form. This could include links to training materials, regulations to be followed, information to consider while completing the form, etc.
+* Notes - leave notes for the Haplo developer here e.g.  - Only show Tab X when Question Y is answered yes, This form is sent to the supervisor only following a resubmission.
+
+h3. Add page
+
+This option on the right hand side of the screen allows you to add new tabs. Enter the Page title and Short page title (if needed) and Create page. Now you are able to create a new tab. 
+
+h3. Types of questions
+
+* Single line free text - for questions that only require a short answer such as a name, location, project title, etc
+
+* Paragraph text - for questions the require a longer response such a a biography, research summary, etc
+
+* Yes/no question - for questions that can be answered with a yes or no e.g. Do you have funding for this project? Have you completed all required training?
+
+h3. Notes to the developer 
+
+Use this section to indicate the action that follows a specific question, eg should someone be notified when the answer is no? If a specific answer is given does the risk level change? Does an answer of yes mean that a new section must be answered. Notes can also be left on the main form page.
+
+h3. Guidance notes
+
+Guidance for the entire application or a specific section should be left on the main form page. Guidance for specific questions should be left on the question. Consider whether the information needs to be seen, if it does it may be better suited in the Explanation field. Links can be included in guidance notes but not in explanation text. 
+
+h3. Is this question required?
+
+Ensure the correct answer is chosen. The default option is no. If conditionally, provide clear identifying information to explain when the question becomes mandatory. eg. If question about human participants is answered yes.
+
+h2. Advanced options
+
+h3. Question group
+
+When creating a question group first enter the heading and information about the type of questions that will be grouped together. Before entering the first question make sure you have highlighted the question group and chosen 'Add at the end of section' on the bottom right hand side of the screen.
+
+h3. Repeating question group
+
+Same as above but once you have finished the option to Add another will appear below the question group. This will allow the applicant to easily add multiple sections. 
+
+h3. Lookup of data
+
+For use when questions require an answer that can be selected from a list of information such as Faculties or countries. If more than one answer can be selected please choose yes to the question 'Can this question have multiple answers.' This will ensure the Add another button is made available.

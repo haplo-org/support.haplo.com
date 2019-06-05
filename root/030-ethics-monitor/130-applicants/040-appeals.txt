@@ -1,0 +1,11 @@
+title: Appeals
+long_title: Appealing a decision
+--
+
+Where an institution permits appeals, an applicant can appeal the negative outcome of an ethics application. 
+
+The appeals option is available on the right of the application record. Upon submission the appeal is sent to the appropriate user, based on institutional rules. The applicant is informed of the decision. 
+
+h3. Configuration option
+
+This functionality is only implemented if required by the institution. 

@@ -1,6 +1,4 @@
 
 When the implementation project begins, Haplo will create a Project Room to help us work together.
 
-Your project manager will invite everyone involved in the project to the Project Room.
-
-
+Haplo will create a user account for the key contact at your institution. They will be able to invite other members of the institution to access the project room via Manage Users on the right of the homepage. Only selected users have permission to invite and manage other users of the project room. 

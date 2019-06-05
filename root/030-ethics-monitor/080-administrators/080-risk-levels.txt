@@ -1,0 +1,15 @@
+title: Risk levels
+long_title: Risk levels
+--
+
+Applications can be categorised by risk level following the institution's categorisation policy. 
+
+The risk level is normally dispalyed on the right of the ethics application record. 
+
+The risk level categorisation will affect routing rules (depending on the institution's policy). 
+
+Risk levels will display in reporting dashboards. 
+
+h3. Configuration option
+
+This functionality is only implemented if required the institution. 

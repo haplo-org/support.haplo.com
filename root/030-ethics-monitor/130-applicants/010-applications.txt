@@ -1,0 +1,30 @@
+title: Applications
+long_title: Completing an application
+--
+
+h2. Starting an application
+
+The researcher selects to start an application via the option on the homepage or via 'My ethics' on the right of the homepage, depending on the institution's configuration. 
+
+After reading any introductory notes provided by the institution, the applicant confirms they want to 'Start ethics application.'
+
+h3. Navigating the application form
+
+The application is split into tabs. Mandatory questions are highlighted with a red asterix. 
+
+h3. Guidance notes
+
+Guidance notes display to the side of relevant questions. Click the guidance note icon to read the guidance. 
+
+h3. Filtering questions
+
+Additional question or tabs may appear based on the answers provided to earlier questions. 
+
+h3. Uploading files
+
+Supporting documentation can be uploaded within the form wherever there is the option to 'Drag files here or choose file.' Multiple files can be uploaded in this file upload areas. There is no limitation on the file format. 
+
+h2. Saving and returning to drafts
+
+Draft applications can be saved using the 'Save for later' option at the bottom of any tab. The applicant can return to the application via 'My ethics' in the right of their homepage. 
+

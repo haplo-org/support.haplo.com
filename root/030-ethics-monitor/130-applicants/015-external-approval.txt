@@ -1,0 +1,11 @@
+title: External approval 
+long_title: Applications which require approval from external bodies
+--
+
+Where the institution requires external approval to be achieved prior to submission of the application to the institution, the researcher normally submits a brief application via Ethics Monitor, attaching confirmation of the external approval. The application is routed to the appropriate reviewer or committee based on the institution's preferred process.
+
+h3. For institutions who review applications prior to submission to external bodies
+
+Alternatively, your institution may require external ethics applications to be viewed internally prior to submission for external approval. In this case the researcher submits a brief internal ethics application and copy of their external submission to the appropriate institutional reviewer who provides feedback via Ethics Monitor.
+
+The researcher applies for external approval directly with the external body. Once external approval is received, the applicant uploads confirmation of approval and any supporting document to Ethics Monitor. The appropriate reviewer or committee is notified. The applicant is sent confirmation of the institution’s acknowledgement of the external approval.

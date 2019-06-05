@@ -1,0 +1,5 @@
+title: Notifying applicants
+long_title: Notifying applicants 
+--
+
+Once the committee has reached a decision, the Committee Representative can ‘Edit committee decision’ to record the decision and notify the applicant with the outcome. A template notification email is displayed which can be edited for this individual response before sending.

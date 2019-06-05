@@ -1,0 +1,9 @@
+title: Suspension or cancellation
+long_title: Suspension or cancellation of ethical approval
+--
+
+In response to adverse or other events, the institution may suspend or cancel previously approved ethical approval. The applicant is informed by email of this decision. 
+
+h3. Configuration option
+
+This functionality is only implemented if required by the institution. 

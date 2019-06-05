@@ -1,26 +1,26 @@
 
-h2. Sending files
+h3. Sending files
 
 The Project Room is used to send us files securely. From the home page, click the _Send data file..._ button, upload the file, and click _Save_.
 
 Please *do not* send files by email.
 
 
-h2. Documents
+h3. Documents
 
 All documentation, specifications and requirements will be uploaded to the Project room. Click _All documents_ on the left to view the document library.
 
 
-h2. Form editor
+h3. Form builder
 
 Most of your processes will ask users to complete forms.
 
-We'll set up the forms you need in the Project Room, and then you'll use the form editor in the Project Room to create and edit your forms. Click the _Forms..._ button on the home page.
+We'll set up the forms you need in the Project Room, and then you'll use the Form Builder in the Project Room to create and edit your forms. Click the _Forms..._ button on the home page.
 
 After you have edited the forms, Haplo will transfer them to your test or live applications after a quick technical check.
 
 
-h2. Accessing test environments
+h3. Accessing test environments
 
 During the implementation process, we'll provide one or more test environments for your testing. When these are available, you'll be able to log in via the Project Room.
 

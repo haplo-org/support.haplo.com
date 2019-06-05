@@ -1,0 +1,17 @@
+title: Reviewing applications
+long_title: Reviewing ethics applications
+--
+
+Reviewers receive a task and email asking them to review applications. Reviewers may be selected because of their role (eg the Supervisor of the applicant) or because of their expertise.
+
+The Reviewer automatically has permission to view the applications and associated files. 
+
+The Reviewer selects the application form on the right of the application record and reads the answers provided by the applicant. 
+
+The Reviewer can add comments inline against each question provided and normally select whether the comments should be visible to the applicant. 
+
+Where the Reviewer can return the application to the applicant for changes, upon resubmission the Reviewer is prompted by email and task to review the resubmitted application.
+
+Changes made by the applicant are highlighted in green, with deleted text highlighted in red. 
+
+The Reviewer select 'Progress application' to move the application to the next approval stage. 

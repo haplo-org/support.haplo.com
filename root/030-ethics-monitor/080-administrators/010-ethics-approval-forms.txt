@@ -25,4 +25,4 @@ Guidance notes display on the confirmation page at the start of each workflow. G
 
 h4. Guidance notes within forms
 
-Guidance notes can display alongside a question indicated by an 'i' in a circle next to the question. Contact client.support@haplo.com to add or edit the text in guidance notes within forms. 
+Guidance notes can display alongside a question indicated by an 'i' in a circle next to the question. Contact Haplo Client Support via your Haplo Project Room to add or edit the text in guidance notes within forms. 

@@ -1,0 +1,14 @@
+title: Adverse events
+long_title: Reporting adverse events
+--
+
+The researchers named on the ethics application form, can report adverse events related to the approved project.
+
+The Adverse events reporting option is available on the right of the approved ethics application form. 
+
+The appropriate user will be notified of the adverse event report. This may result in the suspension or cancellation of previously approved ethical approval. 
+
+
+h3. Configuration option
+
+This functionality is only implemented if required by the institution. 

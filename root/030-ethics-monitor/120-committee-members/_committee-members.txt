@@ -1,0 +1,44 @@
+title: Committee members
+long_title: Committee members
+--
+
+Haplo provides comprehensive support for committees to streamline the review and approval of applications.
+
+Committee members will be asked to review applications via Ethics Monitor and sometimes leave comments and recommendations. As a committee member you have access to view all applications sent to the committee (except where conflict of interest rules apply.)
+
+Your Committee Representative (normally Secretary or Chair depending on your institution's configuration) will receive notification when an application is submitted to the committee. They can schedule the application for discussion at an upcoming in-person meeting, or submit it for an Online decision by the committee, or send it to the Committee Chair to action.
+
+h2. In-person meetings
+
+The committee will normally be listed in the directory of committees on the left of your system. Upcoming meeting dates are listed on the right of each committee record. Viewing a meeting date will display a list of applications which are scheduled for discussion at the committee meeting. 
+
+In addition, each committee member receives an email one week before the meeting date listing the applications scheduled for discussion. By selecting the application, they can view the full record of the application. 
+
+h3. Viewing an ethics application record
+
+The ethics application record shows key information about the application, a timeline of previous actions, the current status of the application, likely routing, and access to the application form. 
+
+The Applicant's form is accessed under the APPLICATION options on the right of the ethics application record. 
+
+If the application has been revised and resubmitted, previous versions will be listed on the right of the application. 
+
+Comments from reviewers can be viewed inline against each answer.
+
+h2. Online decisions
+
+The Committee Representative may arrange for the application to be considered by the committee via an Online decision in preference to an in-person committee meeting. 
+
+All selected committee members receive an email notification requesting they review the application. They 'Review application' by selecting this option on the right of the application record. Following review they choose 'Online decision' on the right of the application to submit their recommendation. Any comments added form part of the online discussion.
+
+Participants in the Online decision process can change their recommendation and respond to comments left by other selected committee members.
+
+Selected committee members can 'Decline invitation' to participate in the online decision. This sends an automatic notification email to the Committee Representative who can add additional committee members to the online decision at any time.
+
+The Committee Representative is notified when all selected committee members have submitted their recommendation. The Committee Representative can then 'Close the online decision' and if a decision has been made, 'Edit the committee recommendation' and notify the applicant of the outcome.
+
+
+h2. Reviews
+
+The Committee Representative can request one or more committee members review the application.
+
+Selected members receive an email and task requesting they provide feedback via a short form. The Committee Representative is notified when feedback is submitted, and can view which reviewers have submitted feedback.

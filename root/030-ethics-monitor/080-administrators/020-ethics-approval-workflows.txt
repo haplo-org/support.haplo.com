@@ -20,4 +20,6 @@ h3. Viewing the status of workflows
 
 Once the application form has been submitted, the status of the workflow shows in the STATUS box on the right of the workflow record. The status will normally show the user or role which is currently tasked with actioning the workflow. 
 
+h3. Viewing the status of all applications via dashboards
+
 View the dashboards for current ethics applications to see the progress of all ethics applicaitons.  
