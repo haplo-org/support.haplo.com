@@ -6,4 +6,6 @@ The Haplo team will work with your institutional IT team to setup and integrate 
 
 During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:setup/project-room].
 
+The highest priority is always to provide the data for the [node:setup/user-sync], and historical data for import.
+
 h2. Setup information
