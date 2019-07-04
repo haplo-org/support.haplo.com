@@ -6,7 +6,7 @@ We prefer not to use LDAP, because passwords pass through the Haplo hosted servi
 
 Haplo only supports LDAPS (LDAP with SSL encryption). Unencrypted LDAP cannot be used.
 
-Please send the following information to your technical contact using the secure messaging system provided:
+Please send the following information to your technical contact by clicking _Send secret..._ in your [node:setup/project-room:project room].
 
 * LDAP server hostname (must be accessible from the internet)
 

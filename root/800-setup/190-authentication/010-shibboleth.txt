@@ -14,7 +14,7 @@ After you have set up your IdP, please send an email to your Haplo contact with:
 * Your IdP's entityId.
 * The claims you have released.
 
-Provision of a test account will speed up testing and deployment. Please provide details using the secure messaging system.
+Provision of a test account will speed up testing and deployment. Please provide details by clicking _Send secret..._ in your [node:setup/project-room:project room].
 
 
 h2. UK Federation
