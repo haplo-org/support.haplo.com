@@ -56,7 +56,9 @@ h2. Supervisors
 
 In the @phd:project:supervisors@, @phd:project:advisors@ and @phd:project:chairs@ Destinations, there are fields for the various people supervising the PhD researcher.
 
-@supervisor0@ to @supervisor3@ are the supervisory roles who are directly involved in the supervision of the PhD researcher, and will participate in approval workflows. @supervisor0@ is a traditional primary supervisor or "director of studies", and the other supervisors are secondary supervisors.
+@supervisor0@ to @supervisor3@ are the supervisory roles who are directly involved in the supervision of the PhD researcher, and will participate in approval workflows.
+
+@supervisor0@ is a traditional primary supervisor or "director of studies", and the other supervisors are secondary supervisors. It's important that you have a supervisor in the @supervisor0@ role, and rename the supervisor roles in the user interface to match your institution's terminology.
 
 @advisor@ is an additional supervisory role that doesn't participate in workflows.
 
