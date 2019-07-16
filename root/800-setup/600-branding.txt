@@ -1,0 +1,30 @@
+title: Branding and colours
+--
+
+The application will be configured to apply the institution's branding and colours. We can pick the logo and colours from your corporate web site, or you can specify the branding you require.
+
+
+h2. Page header
+
+The header at the top of every page is configured with custom HTML and images to implement the institution's branding. The header should be between 54 and 64 pixels in height, although we recommend minimising the vertical size.
+
+Please provide:
+
+* Branding guidelines from your web team, including any colours and positioning of logos and graphics.
+
+* Image files. To work well on Hi-DPI ("retina") screens, these should be in SVG format, or bitmap images which can be scaled down to half the size in each dimension.
+
+* Any text to include in the header, for example, the institution and application names.
+
+
+h2. Colours
+
+Colours of key user interface components, such as buttons, can be customised to match the institution's branding. There are three key colours:
+
+* Main: The primary colour used in the branding.
+
+* Secondary: A secondary colour which is used alongside the primary colour.
+
+* Highlight: A contrasting colour which is used to highlight user interface components, for example, selected items.
+
+Please provide these colours in RGB 'hex' format. For example, Haplo's blue is @#57AFDC@.
