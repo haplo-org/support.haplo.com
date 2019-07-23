@@ -9,7 +9,7 @@ h2. All users
 
 All users must have:
 
-* Name
+* Name (split into title, first and last name fields)
 * Username/ID
 * Email
 * Organisational unit
