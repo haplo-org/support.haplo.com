@@ -20,9 +20,15 @@ Where the institution uses a skills vocabulary, events can be marked as relevant
 
 Events will be highlighted on the PGR Training Needs Analysis tab next to the relevant skill. All upcoming events display on the Calendar listed in the left hand navigation. Where the institution prefers, attendees can reserve a place on any event listed in the calendar, or only those to which they have been invited. 
 
+Related events can be linked by creating a series in the Series field on an event record, and linking all related events to the same Series record.  Other events in the same series will display at the bottom of the record of each event in the series. 
+
+Upon initially saving a new event record, the event is not yet published or visible to students in the Calendar listing. Select 'Publish now' on the right to publish the event record, or 'Schedule publication' to set a date when it should be published in the future. 
+
 h3. Managing attendees
 
-Training facilitators can send email invitations to Postgraduate Researchers for whom an event is relevant, by selecting 'Invite all eligible' on the right of the event record. This automatically selects all Postgraduate Researchers who are registered in the Faculties/Schools/Departments listed on the event, and are registered as being at the project stage for which the event is relevant. Invited Postgraduate Researchers receive an email and task inviting them to the event. They can respond by selecting the response link on the right of the event record. They can change their response at any time. Invited Postgraduate Researchers can see the events to which they've been invited on their individual Development and training events page on the right of their project record.
+Training facilitators can send email invitations to Postgraduate Researchers for whom an event is relevant, by selecting 'Invite all eligible' on the right of the event record. This automatically selects all Postgraduate Researchers who are registered in the Faculties/Schools/Departments listed on the event, and are registered as being at the project stage for which the event is relevant. 
+
+Invited Postgraduate Researchers receive an email and task inviting them to the event. They can respond by selecting the response link on the right of the event record. They can change their response at any time. Invited Postgraduate Researchers can see the events to which they've been invited on their individual Development and training events page on the right of their project record.
 
 h3. Updating attendance on behalf of an attendee 
 

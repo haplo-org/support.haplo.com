@@ -118,14 +118,17 @@ Can view all dashboards relating to the committee.
 
 h3. Ethics Monitor
 
-Can submit an application for ethical approval. 
-Can view the progress of the application through the approval process. 
+Can submit an application for ethical review. 
+Can view the progress of the application through the review process. 
 Cannot edit the application after submission unless it is returned to them for changes. 
-Receives and email and task if application is returned to them for changes. 
+Receives an email and task if application is returned to them for changes. 
+Can recall or withdraw an application until it is scheduled for committee discussion. 
 
 *Supervisors*
 
 Can view all applications and application records for PGR, undergraduate and taught graduate students they are supervising.
+
+*Lead Supervisors (Director of Studies)*
 Can return the application to the applicant with comments requesting further information.
 Can progress the application to next level of review.
 Can sign off application as not requiring further review if Class 1.
@@ -134,7 +137,7 @@ Can sign off application as not requiring further review if Class 1.
 
 This role is normally conducted by professional services support staff acting as committee secretary but may be undertaken by an academic performing the role of committee secretary.
 
-Receives notification when applications have been assigned to the committee (first committee represented listed on the committee record where there are more than one.)
+Receives notification when applications have been assigned to the committee (first committee representative listed on the committee record where there are more than one.)
 Can view all applications being considered or that have been considered by the committee. 
 Can delegate tasks to co-representatives.
 Can take over tasks from a co-representative. 
@@ -156,14 +159,14 @@ Can view dashboards relating to the committee.
 
 *Committee chair*
 
-Committee chairs can be assigned as a co-committee representative which grants them all of the permissions of the committee representative (listed above) in addition to the permissions of committee chair.
-
 Can view all applications being considered or that have been considered by the committee. 
-Can delegate tasks to Deputy Chairs.
+Can delegate Chair's action tasks to Deputy Chairs.
 Receives notification when applications have been sent for Chair's review (Chair's action.)
 Can comment on, progress or return applications assigned to them for Chair's review (Chair's action.)
 Can view past and upcoming committee meeting information.
 Can view dashboards relating to the committee.
+
+Committee chairs can be assigned as a co-committee representative which grants them all of the permissions of the committee representative (listed above) in addition to the permissions of committee chair. As co-committee representative they would not receive task notifications (these are only sent to the first committee representative listed) but can take-over a task from the first committee representative. 
 
 *Committee member*
 
