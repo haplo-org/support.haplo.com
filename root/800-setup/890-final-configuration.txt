@@ -1,0 +1,64 @@
+title: Final configuration
+--
+
+After we hand over the final live application, you will need to do some final configuration.
+
+These tasks require you to be in the *IT Support* group.
+
+
+h2. Help and support
+
+When a user clicks "Help" in the top right of the screen, they can be shown some text and optionally, a feedback form which will route message to the appropriate support mailbox.
+
+CLICK_PATH TOOLS > Configure help & feedback
+
+* Edit the introductory help text.
+* Set any Topics and Email address for the feedback form, if required.
+
+If this is not configured, the user will see a generic message asking them to contact their administrator for assistance.
+
+
+h2. User groups
+
+Please check the key user groups contain the right users.
+
+CLICK_PATH TOOLS > Groups
+
+The most important group is *IT Support*, which should contain your IT administration colleagues and Helpdesk staff. Belonging to this group gives extensive permission to read all data, and use the troubleshooting tools.
+
+Refer to the Implementation Plan document for other groups, which will depend on your configuration. These will be the groups of users who work with all the people in your institution, for example, the Registry.
+
+
+h2. User roles
+
+Please check the key roles on the organisational units and committees are correct.
+
+You can navigate the organisational structure from the links on the left hand side.
+
+If your application uses committees, click the *Committees* link on the left hand side.
+
+
+h2. Guidance notes
+
+Authorised users can edit the guidance notes displayed at key points in their process. The *IT Support* group may not necessarily be able to edit them, as permissions are normally set to allow the administration staff to manage the guidance for their area.
+
+On the home page, click the activity button (eg "Doctoral College", "Ethical Governance", etc) and then scroll to the bottom of the menu to the *Customisation* section.
+
+These guidance notes can be updated at any time.
+
+
+h2. User sync email reports
+
+Every time the user sync runs, a report can be sent by email. The recipient addresses are set in the user sync admin UI.
+
+CLICK_PATH TOOLS > User sync administration > Edit configuration...
+
+You can set multiple email addresses by separating them with commas.
+
+Even if you do not intend to use this long term, we advise sending the reports to the IT staff responsible for the feed for a few weeks.
+
+
+h2. Application specific configuration
+
+You may be asked to perform additional configuration. If this is required, you will be given instructions when we hand over your live application.
+
