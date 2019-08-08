@@ -30,12 +30,18 @@ As well as the required information above, students must have:
 
 * Registration/enrolment start date
 
-As it's used to perform regulatory reports, typically the student record system will continue to be the system of record for some key information about the student. Depending on the requirements of your graduate school, you'll probably need to provide:
+h3. Student records system is system of record
+
+As it's used to perform regulatory reports, typically the student record system will continue to be the system of record for some key information about the student. In this case, any workflows which request changes to this information will not actually make the change in PhD Manager. A manual step, or an integration, will update the student records system. The next time the user sync runs, the field will be updated in PhD Manager.
+
+Depending on the requirements of your graduate school, these fields may include:
 
 * Programme of study
 * Mode (full time or part time)
 * Status (active, suspended, etc)
 * Visa type (especially for Tier 4 monitoring)
+
+h3. PhD Manager is system of record
 
 The following data is best managed directly in PhD Manager, and we would recommend a one-off import from the current source upon deployment:
 
@@ -43,8 +49,21 @@ The following data is best managed directly in PhD Manager, and we would recomme
 * Project title
 * Scholarship/studentship information
 
-The Haplo team will provide advice during requirements gathering about the best approach for your institution's individual circumstances.
+Where this data is used for additional processes outside of the scope of your PhD Manager implementation, these fields may be managed in the student records system.
+
+h3. Additional data
+
+This list is not exhaustive. Your institution will probably need additional data to be synchronised to enable implementation of business rules and provide necessary information to your users.
+
+h3. Data design
+
+The Haplo team will provide advice during requirements gathering about the best approach for system of record and integrations for your institution's individual circumstances.
 
 In particular, it is best to avoid syncing dates other than the start date, and use PhD Manager's date rules engine to calculate all project dates.
 
 The data should be provided in one of the "supported file formats":https://docs.haplo.org/import/control/files.
+
+
+h2. Historical data
+
+In addition to the ongoing user sync, some [node:phd-manager/setup/historical-data:historical data] will need to be provided for one-off import.
