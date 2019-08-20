@@ -1,5 +1,16 @@
 title: Testing
 long_title: Ethics Monitor Testing
+class: DocNodeTextileWithTOC
 --
 
 Ethics Monitor is highly configured for each institution. This guidance is provided to assist institutions testing their configuration prior to deployment of their new system or new functionality within their existing system. 
+
+
+h2. Testing checklist
+
+This testing checklist is provided to assist in testing the key areas of your PhD Manager application, covering the data sent to the application in the user feeds, the data you have imported, and the configuration for your rules and regulations.
+
+"Ethics Monitor Testing Checklist":https://www.haplo-services.com/docs/Ethics_Monitor_Testing_Checklist.xlsx
+
+
+h2. Contents
