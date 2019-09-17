@@ -50,7 +50,7 @@ set -e
 API_KEY=NTnA-eldmf4CYi7hvwWj9CuxItAwrjF2wzSkS6MMzuMB
 SERVER=dev7a102.infomanaged.co.uk
 
-curl -X POST -d "token=MSwy8w099" --user haplo:${API_KEY} https://${SERVER}/api/haplo-integration-messages/poll/QUEUE/mark
+curl -X POST --data-urlencode "token=MSwy8w099=" --user haplo:${API_KEY} https://${SERVER}/api/haplo-integration-messages/poll/QUEUE/mark
 </pre>
 
 
