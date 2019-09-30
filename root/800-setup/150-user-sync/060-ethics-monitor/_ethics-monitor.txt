@@ -3,7 +3,7 @@ long_title: Ethics Monitor user sync
 class: DocNodeTextileWithTOC
 --
 
-The user sync provides daily updates of the details of students, supervisors and administrative staff.
+The user sync provides daily updates of the details of the students and staff who will be using Ethics Monitor.
 
 h2. Steps to set up user sync
 

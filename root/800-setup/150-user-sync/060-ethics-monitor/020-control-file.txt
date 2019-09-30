@@ -4,34 +4,5 @@ long_title: User sync control file
 
 Ethics Monitor builds on Haplo Research Manager, so you should read the "notes on setting up user sync":https://docs.haplo.org/app/research/setup/user-sync.
 
+[SNIPPET setup/control-file]
 
-h2. Creating a control file
-
-To set up the user sync, you need to write a "control file":https://docs.haplo.org/import/control to map the data you're providing into the right parts of the Ethics Monitor database.
-
-Depending on your contract, the Haplo team may provide you with an initial version of this control file for you to refine.
-
-To create a new control file, it's best to start with the control file generator.
-
-CLICK_PATH TOOLS > Data import > Models > haplo:user-sync > Generate control file...
-
-Select all the fields for the _User account_ destination (@username@, etc), then select the other fields you're going to sync.
-
-Refer to the model information page for the meaning of these fields.
-
-CLICK_PATH TOOLS > Data import > Models > haplo:user-sync
-
-After you have selected the fields, click _Generate control file_ to produce the initial version. Then, referring to the "user sync documentation":https://docs.haplo.org/import/user-sync, set up the input files and adjust the instructions and mappings.
-
-h2. Managed groups
-
-The user sync uses "Managed groups":https://docs.haplo.org/import/user-sync/user-groups to categorise the users in the sync. The control file will need to include a mapping from the category provided in the input files to the appropriate group code in Haplo. The following groups are available by default:
-
-* @hres:group:researchers@ for academic staff
-* @hres:group:admin-staff@ for non-academic staff
-
-If your Ethics Monitor application will be used by PhD or taught students, the following groups will also be available in your system to categorise the students:
-
-* @phd:group:doctoral-researchers@ for PhD students
-* @hres:group:postgraduate-taught-students@ for postgraduate taught students
-* @hres:group:undergraduate-students@ for undergraduate students

@@ -24,6 +24,9 @@ Additionally, your institution may wish to provide:
 * "ATAS":https://www.gov.uk/guidance/academic-technology-approval-scheme status
 * Disability information
 
+
+[SNIPPET setup/organisational-structure]
+
 h2. Students
 
 As well as the required information above, students must have:
