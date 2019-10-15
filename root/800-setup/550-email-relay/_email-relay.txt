@@ -7,7 +7,7 @@ It is essential that these emails are delivered to users, but anti-spam measures
 
 To ensure good deliverability, we highly recommend that you allow us to relay email through your SMTP servers. This is needed for members of your institution, and to external users who have addresses at other institutions.
 
-We need to configure email relaying towards the end of the setup project, when your live application has been created, but before anyone starts using it. 
+We need to configure email relaying towards the end of the setup project, when your live application has been created, but before anyone starts using it. You can provide the details earlier, and we will test them when we set up the live application.
 
 
 h2. Office 356

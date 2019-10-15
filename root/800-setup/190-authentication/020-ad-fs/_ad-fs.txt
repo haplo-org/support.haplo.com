@@ -38,6 +38,10 @@ In both cases, you will need to:
 
 When we've set up the first service provider in a test environment, we'll give you a testing URL so we can [node:setup/authentication/ad-fs/testing:test the configuration] is providing the right information to our service provider.
 
+h3. Updating IdP certificates and metadata
+
+If you are planning to update your IdP metadata, for example if you change certificates, please contact Haplo support in advance to coordinate updates.
+
 
 h2. Claims
 
