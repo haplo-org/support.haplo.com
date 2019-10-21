@@ -13,6 +13,8 @@ h2. Manual
 
 [node:phd-manager/testing:Testing] guidance on testing new implementations and changes to PhD Manager.
 
+[node:phd-manager/guidance:Guidance] on using Haplo PhD Manager.
+
 h2. Product specification
 
 <p><a href="https://www.haplo-services.com/docs/PhD_Manager_screenshots.pdf">PhD Manager screenshots</a><br />
