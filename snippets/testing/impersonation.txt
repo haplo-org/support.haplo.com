@@ -8,8 +8,8 @@ To impersonate:
 * a red banner will appear at the top of the screen when you are impersonating a user
 * select Finish on the red banner to stop impersonating
 
-After impersonating, the initials of the users you've impersonated appear in circles on the left hand side of the page. Use these to quickly move back and forth between different users during a testing session. 
+After impersonating, the initials of the users you've impersonated appear in circles on the left hand side of the page. Use these to quickly move back and forth between different users during a testing session.
 
 h4. Technical notes
 
-Testers will need to have been added to the ‘Trusted impersonators’ group in System Management to be able to impersonate other users.
+Testers will need to have been added to the 'Trusted impersonators' group in System Management to be able to impersonate other users.
