@@ -1,0 +1,12 @@
+title: Home page
+long_title: PhD Manager Home page
+class: DocNodeTextileWithTOC
+--
+
+Once logged in all users see the same home page, with different levels of access (based on user permissions) to:
+* University structure
+* Committees displays the relevant committees and upcoming meetings
+* Calendar displays upcoming training and development events
+* Guides on how to use your Haplo system
+
+[IMAGE 0004.png Home page]

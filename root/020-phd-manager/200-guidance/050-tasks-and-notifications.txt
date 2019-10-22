@@ -1,0 +1,10 @@
+title: Tasks and notifications
+long_title: Tasks and notifications
+class: DocNodeTextileWithTOC
+--
+
+Users receive an email notification and task when they are required to take action in a workflow.
+
+Tasks are displayed at login on the homepage and disappear when the action is completed.
+
+[IMAGE 0001.png Tasks and notifications]

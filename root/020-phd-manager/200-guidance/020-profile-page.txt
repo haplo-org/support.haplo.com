@@ -1,0 +1,10 @@
+title: Profile page
+long_title: Profile page
+class: DocNodeTextileWithTOC
+--
+
+Every user has a profile page which displays key information.
+
+It includes links to the Haplo products.
+
+[IMAGE 0005.png User profile page]

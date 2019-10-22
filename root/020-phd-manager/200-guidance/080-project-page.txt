@@ -1,0 +1,18 @@
+title: Project page
+long_title: Project page
+class: DocNodeTextileWithTOC
+--
+
+Key information related to the research project and links to applications are on the project page.
+
+[IMAGE 0007.png Project page]
+
+h2. Project history
+
+Displays all activity recorded in the system on one page.
+
+h2. Project dates
+
+Project dates displays key deadlines, when reminders are sent and when actions were completed.
+
+Reminders are sent on specified dates.

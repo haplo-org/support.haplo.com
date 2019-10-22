@@ -1,0 +1,30 @@
+title: Training and development
+long_title: Training and development
+class: DocNodeTextileWithTOC
+--
+
+Training and development activities are recorded by the doctoral researcher in the following ways:
+
+h2. Analysis
+
+Provides a training needs analysis which allows level and priorities to be set, with links to training and development events.
+
+[IMAGE 0009.png Training needs analysis]
+
+h2. Training plan
+
+Depending on the institutional set up, this can be submitted annually and approved by the supervisor, or can be submitted throughout the academic year.
+
+[IMAGE 0010.png Training plan]
+
+h2. Log
+
+Doctoral researchers are invited to institutional events and can respond via the system.
+
+These events are logged and the attendance record displayed.
+
+External events can be added by doctoral researchers.
+
+The log can be downloaded.
+
+[IMAGE 0011.png Development Log]

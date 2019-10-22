@@ -1,0 +1,6 @@
+title: Confirmation of project details
+long_title: Confirmation of project details
+class: DocNodeTextileWithTOC
+--
+
+In PhD Manager applications start with a check that key information on the project is correct.  If it is not, changes can be requested via the institution's doctoral researcher administrative team.
