@@ -1,6 +1,0 @@
-title: Guidance
-long_title: PhD Manager Guidance
-class: DocNodeTextileWithTOC
---
-
-h2. Contents

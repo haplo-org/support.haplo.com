@@ -3,13 +3,13 @@ long_title: Project page
 class: DocNodeTextileWithTOC
 --
 
-Key information related to the research project and links to applications are on the project page.
+Key information related to the research project and links to forms and applications are on the project page.
 
 [IMAGE 0007.png Project page]
 
 h2. Project history
 
-Displays all activity recorded in the system on one page.
+Displays all key activity related to this project.
 
 h2. Project dates
 

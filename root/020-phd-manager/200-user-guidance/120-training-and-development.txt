@@ -3,7 +3,7 @@ long_title: Training and development
 class: DocNodeTextileWithTOC
 --
 
-Training and development activities are recorded by the doctoral researcher in the following ways:
+Training and development activities are recorded by the postgraduate researcher in the following ways:
 
 h2. Analysis
 
@@ -19,11 +19,11 @@ Depending on the institutional set up, this can be submitted annually and approv
 
 h2. Log
 
-Doctoral researchers are invited to institutional events and can respond via the system.
+Postgraduate researchers are invited to institutional events and can respond via the system.
 
 These events are logged and the attendance record displayed.
 
-External events can be added by doctoral researchers.
+External events can be added by postgraduate researchers.
 
 The log can be downloaded.
 

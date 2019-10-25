@@ -1,0 +1,6 @@
+title: Absence
+long_title: Absence
+class: DocNodeTextileWithTOC
+--
+
+Short-term absence, e.g. holiday or fieldwork, can be recorded by postgraduate researchers.  These absences do not change project dates or status.  Longer term absence is submitted via a change request.

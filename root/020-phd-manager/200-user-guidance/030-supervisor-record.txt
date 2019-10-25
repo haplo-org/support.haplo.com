@@ -1,0 +1,10 @@
+title: Supervisor record
+long_title: Supervisor record
+class: DocNodeTextileWithTOC
+--
+
+From a supervisor's profile page, their current and historic supervision and examination experience is displayed, with links to the postgraduate researchers they supervise or have examined.
+
+Supervisors can add external supervision and examination experience.
+
+[IMAGE 0006.png Supervisor record]

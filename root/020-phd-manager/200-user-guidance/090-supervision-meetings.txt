@@ -3,7 +3,7 @@ long_title: Supervision meetings
 class: DocNodeTextileWithTOC
 --
 
-Supervisory meetings can be started by supervisors or doctoral researchers.
+Supervisory meetings can be started by supervisors or postgraduate researchers.
 
 They can be scheduled for the future, which will send an email notification to the participants selected, or recorded after the meeting has taken place.
 
@@ -13,7 +13,7 @@ Meetings can be recorded as:
 * Email
 * Video conference
 
-Meeting notes are then added by the doctoral researcher and supervisor attending the meeting.
+Meeting notes are then added by the postgraduate researcher and supervisor attending the meeting.
 
 The meeting notes are confirmed, or revisions can be requested.
 

@@ -9,4 +9,4 @@ Once logged in all users see the same home page, with different levels of access
 * Calendar displays upcoming training and development events
 * Guides on how to use your Haplo system
 
-[IMAGE 0004.png Home page]
+[IMAGE 0001.png Home page]
