@@ -4,3 +4,5 @@ class: DocNodeTextileWithTOC
 --
 
 In PhD Manager applications start with a check that key information on the project is correct.  If it is not, changes can be requested via the institution's postgraduate researcher administrative team.
+
+[IMAGE 0013.png Confirmation of project details]
