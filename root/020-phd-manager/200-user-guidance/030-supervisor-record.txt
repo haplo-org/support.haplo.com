@@ -7,4 +7,4 @@ From a supervisor's profile page, their current and historic supervision and exa
 
 Supervisors can add external supervision and examination experience.
 
-[IMAGE 0006.png Supervisor record]
+[IMAGE supervisor-record-f.png Supervisor record]

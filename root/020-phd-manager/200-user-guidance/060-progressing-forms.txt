@@ -10,4 +10,4 @@ Red - do not approve
 
 Before submitting a form there is an opportunity to add notes and private notes.  After submission, these notes can be edited by the user who submitted them.
 
-[IMAGE 0002.png Progressing forms]
+[IMAGE progress-form-f.png Progressing forms]

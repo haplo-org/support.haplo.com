@@ -7,4 +7,4 @@ Every user has a profile page which displays key information.
 
 It includes links on the right to relevant functionality for this user. 
 
-[IMAGE 0005.png User profile page]
+[IMAGE profile-page-f.png User profile page]

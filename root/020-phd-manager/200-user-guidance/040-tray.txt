@@ -5,6 +5,6 @@ class: DocNodeTextileWithTOC
 
 Records can be easily accessed by adding them to the Tray.
 
-[IMAGE 0003.png Adding records to Tray]
+[IMAGE tray-f.png Adding records to Tray]
 
-[IMAGE 0012.png Viewing Tray contents ]
+[IMAGE tray-tasks-f.png Viewing Tray contents ]

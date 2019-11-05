@@ -5,7 +5,7 @@ class: DocNodeTextileWithTOC
 
 Key information related to the research project and links to forms and applications are on the project page.
 
-[IMAGE 0007.png Project page]
+[IMAGE project-page-f.png Project page]
 
 h2. Project history
 

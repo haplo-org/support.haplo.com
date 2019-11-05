@@ -7,6 +7,6 @@ Users receive an email notification and task when they are required to take acti
 
 Tasks are displayed to the user in the top right of all pages and disappear when the action is completed.
 
-[IMAGE 0001.png Tasks and notifications]
+[IMAGE tasks-notification-f.png Tasks and notifications]
 
-[IMAGE 0004.png Viewing task list]
+[IMAGE tasks-list-f.png Viewing task list]

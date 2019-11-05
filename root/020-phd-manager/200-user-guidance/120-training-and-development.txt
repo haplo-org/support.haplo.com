@@ -9,13 +9,13 @@ h2. Analysis
 
 Provides a training needs analysis which allows level and priorities to be set, with links to training and development events.
 
-[IMAGE 0009.png Training needs analysis]
+[IMAGE training-needs-f.png Training needs analysis]
 
 h2. Training plan
 
 Depending on the institutional set up, this can be submitted annually and approved by the supervisor, or can be submitted throughout the academic year.
 
-[IMAGE 0010.png Training plan]
+[IMAGE training-plan-f.png Training plan]
 
 h2. Log
 
@@ -27,4 +27,4 @@ External events can be added by postgraduate researchers.
 
 The log can be downloaded.
 
-[IMAGE 0011.png Development Log]
+[IMAGE training-log-f.png Development Log]
