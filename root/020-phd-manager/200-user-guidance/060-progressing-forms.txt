@@ -1,0 +1,13 @@
+title: Progressing forms
+long_title: Progressing forms
+class: DocNodeTextileWithTOC
+--
+
+Options to progress forms are colour coded:
+Green - action, progress or approve
+Orange - return to a previous user in the workflow
+Red - do not approve
+
+Before submitting a form there is an opportunity to add notes and private notes.  After submission, these notes can be edited by the user who submitted them.
+
+[IMAGE progress-form-f.png Progressing forms]

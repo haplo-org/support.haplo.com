@@ -1,0 +1,26 @@
+title: Supervision meetings
+long_title: Supervision meetings
+class: DocNodeTextileWithTOC
+--
+
+Supervisory meetings can be started by supervisors or postgraduate researchers.
+
+They can be scheduled for the future, which will send an email notification to the participants selected, or recorded after the meeting has taken place.
+
+Meetings can be recorded as:
+* In person
+* Telephone
+* Email
+* Video conference
+
+Meeting notes are then added by the postgraduate researcher and supervisor attending the meeting.
+
+The meeting notes are confirmed, or revisions can be requested.
+
+Once the meeting is marked as complete, follow-on notes can be added.
+
+The meeting can also be recorded as not taking place.
+
+Previous supervisory meetings are displayed by academic year and can be downloaded.
+
+[IMAGE supervision-meeting-f.png Supervision meetings]

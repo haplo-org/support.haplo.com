@@ -1,0 +1,10 @@
+title: Profile page
+long_title: Profile page
+class: DocNodeTextileWithTOC
+--
+
+Every user has a profile page which displays key information.
+
+It includes links on the right to relevant functionality for this user. 
+
+[IMAGE profile-page-f.png User profile page]

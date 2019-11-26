@@ -1,0 +1,10 @@
+title: Tray
+long_title: Tray
+class: DocNodeTextileWithTOC
+--
+
+Records can be easily accessed by adding them to the Tray.
+
+[IMAGE tray-f.png Adding records to Tray]
+
+[IMAGE tray-tasks-f.png Viewing Tray contents ]
