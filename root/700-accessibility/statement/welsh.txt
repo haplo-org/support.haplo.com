@@ -1,0 +1,74 @@
+title: Cymraeg / Welsh
+long_title: Accessibility statement (Cymraeg / Welsh)
+--
+
+h2. Datganiad hygyrchedd ar gyfer rhaglenni Haplo
+
+Caiff y wefan hon ei rhedeg gan eich sefydliad, sy'n defnyddio Haplo Services Ltd fel ei darparwr gwasanaethau.
+
+Rydym ni'n awyddus i gymaint &acirc; phosibl o bobl allu defnyddio'r wefan hon. Er enghraifft, golyga hyn mae hyn y dylech chi allu:
+
+* newid lliwiau, lefelau cyferbynnedd a'r ffontiau
+* chwyddo i mewn hyd at 200% heb i'r ysgrifen gael ei gwthio oddi ar ymyl y sgr&icirc;n
+* symud o gwmpas y rhan fwyaf o'r wefan gyda dim ond bysellfwrdd
+* symud o gwmpas o fewn y rhan fwyaf o'r wefan gyda meddalwedd adnabod llais
+* gwrando ar y rhan fwyaf o'r wefan gyda darllenydd sgr&icirc;n
+
+Rydym ni hefyd wedi gwneud iaith y wefan mor syml &acirc; phosibl i'w ddeall.
+
+Mae cyngor ar "AbilityNet":https://mcmw.abilitynet.org.uk/ yngl&#375;n &acirc; gwneud eich dyfais yn haws i'w defnyddio os oes gennych chi anabledd.
+
+h2. Pa mor hygyrch yw'r rhaglen hon
+
+Rydym yn ymwybodol bod rhai rhannau o'r wefan hon nad ydynt yn gwbl hygyrch:
+
+* nid yw rhai swyddogaethau gweinyddol yn cydymffurfio'n llawn &acirc; Chanllawiau WCAG 2.1.
+
+h2. Beth i'w wneud os nad yw rhai rhannau o'r wefan hon yn hygyrch
+
+Cysylltwch &acirc; desg gymorth eich sefydliad, a fydd yn eich cynorthwyo neu drosglwyddo'ch cais i'w darparwr gwasanaeth.
+
+h2. Gweithdrefn orfodi
+
+Y Comisiwn Cydraddoldeb a Hawliau Dynol (EHRC) sy'n gyfrifol am orfodi'r Rheoliadau Hygyrchedd Cyrff y Sector Cyhoeddus (Gwefannau a Rhaglenni Symudol) (Rhif 2) 2018 (y 'rheoliadau hygyrchedd'). Os nad ydych chi'n fodlon &acirc;'r ffordd rydym ni'n ymateb i'ch cwyn, cysylltwch &acirc;'r "Gwasanaeth Cynghori a Chymorth Cydraddoldeb (EASS)":https://www.equalityadvisoryservice.com/.
+
+h2. Gwybodaeth dechnegol yngl&#375;n &acirc; hygyrchedd y wefan hon
+
+Mae Haplo Services Ltd yn ymroddedig i wneud ei wefan yn hygyrch, yn unol &acirc;'r Rheoliadau Hygyrchedd Cyrff y Sector Cyhoeddus (Gwefannau a Rhaglenni Symudol) (Rhif 2) 2018.
+
+Mae'r wefan hon yn cydymffurfio'n rhannol &acirc; safon AA "Canllawiau Hygyrchedd Cynnwys y We fersiwn 2.1":https://www.w3.org/TR/WCAG21/, oherwydd yr elfennau isod nad ydynt yn cydymffurfio.
+
+h2. Cynnwys nad yw'n hygyrch
+
+Nid yw'r cynnwys a restrir isod yn hygyrch am y rhesymau canlynol.
+
+h3. Heb gydymffurfio &acirc;'r rheoliadau hygyrchedd
+
+Nid yw rhai swyddogaethau gweinyddol ar gael i uwch-ddefnyddwyr yn unig wedi eu marcio'n llawn &acirc; rholiau ARIA a labeli. Mae hyn yn methu maen prawf llwyddiant 1.1.1 (cynnwys di-ysgrifen) WCAG 2.1.
+
+Rydym ni'n bwriadu ymestyn marcio hygyrchedd llawn i swyddogaethau gweinyddol erbyn Medi 2020.
+
+h3. Baich anghymesur
+
+Nid yw'n bosibl bob tro newid gogwydd y ddyfais o lorweddol i fertigol heb ei gwneud yn anoddach i weld y cynnwys. Mae hyn yn methu maen prawf llwyddiant 1.3.4 (gogwydd) WCAG 2.1
+
+h3. Cynnwys nad yw o fewn cwmpas y rheoliadau hygyrchedd
+
+h4. Dogfennau PDF a dogfennau eraill
+
+Nid yw'r rheoliadau hygyrchedd yn "ei gwneud yn ofynnol i ni drwsio dogfennau PDF na dogfennau eraill a gyhoeddwyd cyn 23 Medi 2018":http://www.legislation.gov.uk/uksi/952/regulation/4/ os nad ydynt yn hanfodol i ddarpariaeth ein gwasanaethau.
+
+h3. Sut y gwnaethom ni brofi'r wefan hon
+
+Profwyd y wefan hon yn fwyaf diweddar ar 20 Tachwedd 2019. Cynhaliwyd y prawf gan Haplo Services Ltd gan ddefnyddio offer profi hygyrchedd safonol.
+
+Gan fod ein rhaglenni wedi eu haddasu ar gyfer pob sefydliad sy'n eu defnyddio, bu i ni brofi pob elfen i sicrhau eu bod yn cwrdd &acirc;'r safonau hygyrchedd mewn rhaglen wedi ei llawn ffurfweddu.
+
+h2. Beth rydym ni'n ei wneud i wella hygyrchedd
+
+Mae ein map ffordd hygyrchedd yn cynnwys:
+
+* ymestyn cydymffurfio &acirc; WCAG 2.1 i'r swyddogaethau gweinyddol a ddefnyddir yn llai aml
+* gwella cynyddol mewn hygyrchedd mewn ymateb i adborth gan ddefnyddwyr.
+
+Paratowyd a diweddarwyd y datganiad hwn ar 20 Tachwedd 2019. Fe'i diweddarwyd ddiwethaf ar 20 Tachwedd 2019.

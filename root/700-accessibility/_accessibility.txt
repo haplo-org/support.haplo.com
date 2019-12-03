@@ -1,0 +1,6 @@
+title: Accessibility
+--
+
+Haplo applications meet the statutory accessibility requirements for applications provided by public bodies in the UK.
+
+An accessibility statement is provided in [node:accessibility/statement:English] and [node:accessibility/statement:Welsh]. This will need to be adapted slightly for each institution and published within the application.

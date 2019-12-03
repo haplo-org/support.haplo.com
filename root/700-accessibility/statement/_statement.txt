@@ -1,0 +1,84 @@
+title: Accessibility statement
+--
+
+This is a general accessibility statement for Haplo applications, meeting the requirements for public sector users. It will need to be adapted for your institution, in particular, including the institution name.
+
+This statement can be published externally, or within your application after installation of the accessibility notice plugin.
+
+This statement is also available [node:accessibility/statement/welsh:in Welsh].
+
+h2. Accessibility statement for Haplo applications
+
+This website is run by your institution, who use Haplo Services Ltd as their service provider.
+
+We want as many people as possible to be able to use this website. For example, that means you should be able to:
+
+* change colours, contrast levels and fonts
+* zoom in up to 200% without the text spilling off the screen
+* navigate most of the website using just a keyboard
+* navigate most of the website using speech recognition software
+* listen to most of the website using a screen reader
+
+We've also made the text as simple as possible to understand.
+
+"AbilityNet":https://mcmw.abilitynet.org.uk/ has advice on making your device easier to use if you have a disability.
+
+h2. How accessible this application is
+
+We know some parts of this website are not fully accessible:
+
+* some administrative functions do not fully comply with WCAG 2.1
+
+
+h2. What to do if you cannot access parts of this website
+
+Please contact your institution's help desk, who will assist or pass on your request to their service provider.
+
+
+h2. Enforcement procedure
+
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the 'accessibility regulations'). If you're not happy with how we respond to your complaint, "contact the Equality Advisory and Support Service (EASS)":https://www.equalityadvisoryservice.com/.
+
+
+h2. Technical information about this website's accessibility
+
+Haplo Services Ltd is committed to making its service accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+
+This website is partially compliant with the "Web Content Accessibility Guidelines version 2.1":https://www.w3.org/TR/WCAG21/ AA standard, due to the non-compliances listed below.
+
+
+h2. Non accessible content
+
+The content listed below is non-accessible for the following reasons.
+
+h3. Non compliance with the accessibility regulations
+
+Some administrative functions accessible only to super-users have not been fully marked with ARIA roles and labels. This fails WCAG 2.1 success criterion 1.1.1 (non-text content).
+
+We plan to extend full accessibility markup to administrative functions by September 2020.
+
+h3. Disproportionate burden
+
+It's not always possible to change the device orientation from horizontal to vertical without making it more difficult to view the content. This fails WCAG 2.1 success criterion 1.3.4 (orientation).
+
+h3. Content that's not within the scope of the accessibility regulations
+
+h4. PDFs and other documents
+
+The accessibility regulations "do not require us to fix PDFs or other documents published before 23 September 2018":http://www.legislation.gov.uk/uksi/2018/952/regulation/4/made if they're not essential to providing our services.
+
+
+h3. How we tested this website
+
+This website was last tested on 20 November 2019. The test was carried out by Haplo Services Ltd using standard accessibility testing tools.
+
+As our applications are highly customised to each organisation which uses them, we tested all components to ensure they meet the accessibility standards when used in a fully configured application.
+
+h2. What we're doing to improve accessibility
+
+Our accessibility roadmap includes:
+
+ * extending WCAG 2.1 compliance to the less used administrative functions
+ * incremental improvement to accessibility in response to user feedback. 
+
+This statement was prepared on 20 November 2019. It was last updated on 20 November 2019.
