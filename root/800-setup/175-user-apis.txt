@@ -1,0 +1,33 @@
+title: Managing people via APIs
+long_title: How do I manage users via APIs?
+use_long_title_for_toc: yes
+--
+
+Typically, all users are managed via the [node:setup/user-sync]. This page explains how to use APIs to manage users instead.
+
+In Haplo products, there is a separation of a "user":https://docs.haplo.org/plugin/interface/security-principal and a person's "object", which is the profile of the person that users see in the application. For example, it is possible for a person object to exist in the system without a user attached to it in the cases where that person does not require access to the system. Similarly, it is possible to have a user without a profile in the system.
+
+h2. Set up
+
+The following are one-off tasks required to carry out in order to set up your application.
+
+* create a new "data import REST API":https://docs.haplo.org/import/rest-api, uploading the "control file":https://docs.haplo.org/import/control used to read the messages you send to the application
+* generate an API key, used to manage person objects
+* "enable the user API":https://docs.haplo.org/rest-api/users and generate an API key for managing users
+
+h2. Initialising a user and their profile
+
+1. create the person's object via the "data import REST API":https://docs.haplo.org/import/rest-api
+2. "create the user":https://docs.haplo.org/rest-api/users/create-user associated to that person by generating a message and including the "ref":https://docs.haplo.org/plugin/interface/ref returned by the message from step 1
+3. (optional) if the user will be logging in via Haplo's internal authentication system, you may wish to send the welcome link that can be returned by step 2's message to the new user for them to set up their password
+
+h2. Updates
+
+If the user's name, email address, category, and/or status changes, both the user and the profile must be updated. The following steps can be taken in any order.
+
+* update the person's profile via the "data import REST API":https://docs.haplo.org/import/rest-api. You can reuse the same command as in step 1 above.
+* "update the user":https://docs.haplo.org/rest-api/users/update-user or "change their status":https://docs.haplo.org/rest-api/users/enable-user via the user REST API
+
+See the "user REST API":https://docs.haplo.org/rest-api/users documentation for more information on the commands available.
+
+Other details about the person, for example the research institute they belong to, only require updating the person's object, and not the user attached to them.
