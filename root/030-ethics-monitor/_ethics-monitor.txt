@@ -11,8 +11,6 @@ h2. Manual
 
 [node:ethics-monitor/administrators:Administrators] guidance on using Ethics Monitor
 
-[node:ethics-monitor/testing:Testing] guidance on testing new implementations and changes to Ethics Monitor.
-
 h2. Product specification
 
 <a href="https://www.haplo-services.com/docs/Ethics_Monitor_screenshots.pdf">Ethics Monitor screenshots</a><br />

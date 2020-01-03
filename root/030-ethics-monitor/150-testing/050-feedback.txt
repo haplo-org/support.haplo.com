@@ -1,5 +1,0 @@
-title: Feedback
-long_title: Providing feedback
---
-
-[SNIPPET testing/feedback]

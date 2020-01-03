@@ -1,5 +1,0 @@
-title: Email viewer
-long_title: Email viewer
---
-
-[SNIPPET testing/emailviewer]
