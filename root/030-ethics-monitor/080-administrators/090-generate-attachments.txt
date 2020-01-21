@@ -1,0 +1,42 @@
+title: Generate attachments
+long_title: Generate attachments
+--
+
+This feature allows researchers to generate required documents (e.g. participant information sheets) when filling out their ethics application, using the information in the application to pre-fill the document. 
+
+The templates for these documents are setup in advance by the administrator and define what information will be retrieved from the application as well as any additional content.
+
+The documents can be generated multiple times and will extract any relevant information that has been saved on the application. The applicant can edit the document if necessary and then upload them as their own.
+
+This enables all researchers to use the same document, making all submitted attachments more consistent and easier to review. 
+
+h2. Edit templates
+
+[IMAGE generate-attachments1-f.png]
+
+h3. Generate initial template
+
+Use the <b>Generate Word template</b> button to generate the initial template for the current main ethics application in the system.
+
+[IMAGE generate-attachments2-f.png]
+[IMAGE generate-attachments3-f.png]
+
+h3. Editing the Word document
+
+All the questions in the current ethics application will be included in the generated Word document, as well as the path to its corresponding answer. 
+This path will be used to access the applicant's answer to that question. It will also be used in the MERGEFIELD and IF conditions of the template (e.g. MERGEFIELD projectTitle). 
+See more guidance about how to create input documents "here":https://docs.haplo.org/plugin/files/transform/generate-fill-fields.
+
+h3. Uploading the templates
+
+After making the changes to the template and its name it can be uploaded along with a title, instructions on where it's used and its purpose. 
+
+[IMAGE generate-attachments4-f.png]
+
+h2. Using the templates in the main application
+
+Applicants will have the option to generate the files. These will contain any information that was saved on the application until that point. The files can be edited and then uploaded below.
+
+[IMAGE generate-attachments5-f.png]
+[IMAGE generate-attachments6-f.png]
+[IMAGE generate-attachments7-f.png]
