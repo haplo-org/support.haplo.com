@@ -2,6 +2,14 @@ title: Generate attachments
 long_title: Generate attachments
 --
 
+This feature allows researchers to generate required documents (e.g. participant information sheets) when filling out their ethics application, using the information in the application to pre-fill the document. 
+
+The templates for these documents are setup in advance by the administrator and define what information will be retrieved from the application as well as any additional content.
+
+The documents can be generated multiple times and will extract any relevant information that has been saved on the application. The applicant can edit the document if necessary and then upload them as their own.
+
+This enables all researchers to use the same document, making all submitted attachments more consistent and easier to review. 
+
 h2. Edit templates
 
 [IMAGE generate-attachments1-f.png]
