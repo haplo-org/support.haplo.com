@@ -1,0 +1,15 @@
+title: Developer Services
+class: DocNodeTextileWithTOC
+--
+
+Haplo Services provides developer support and tools. These include:
+
+* Hosting of development servers
+* Development of additions to the open source platform
+* Developer support contracts
+
+Please contact us with your requirements to arrange provision of services.
+
+
+h2. Tools
+
