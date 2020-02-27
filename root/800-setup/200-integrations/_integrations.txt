@@ -7,9 +7,9 @@ Data can be pushed in or retrieved on an ad-hoc basis. The available options fal
 
 * Data can be pushed into the Haplo application using our "REST API":https://docs.haplo.org/import/rest-api. This is self service and we will guide you in setting it up.
 
-* Automatic [node:setup/integrations/message-queue:integrations to send messages] from the Haplo application to your systems on changes to data or other events, where:
-** your systems can [node:setup/integrations/message-queue/poll:poll] the Haplo application for messages, or
-** the Haplo application can [node:setup/integrations/message-queue/push:push messages] an HTTPS endpoint implemented by your systems.
+* Automatic "integrations to send messages":https://docs.haplo.org/dev/message-queue from the Haplo application to your systems on changes to data or other events, where:
+** your systems can "poll":https://docs.haplo.org/dev/message-queue/poll the Haplo application for messages, or
+** the Haplo application can "push messages":https://docs.haplo.org/dev/message-queue/push to an HTTPS endpoint implemented by your systems.
 
 * Where changes are low volume and it is not cost effective to implement an automatic integration, the Haplo application can maintain a list of changes for an administrator to apply manually in the institution's system.
 
