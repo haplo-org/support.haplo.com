@@ -1,17 +1,84 @@
 title: Integrations
 --
 
-Data can be pushed in or retrieved on an ad-hoc basis. The available options fall into categories:
+There are several options for integrating Haplo applications within the wider institutional infrastructure.
 
-* User information always uses the [node:setup/user-sync:user sync] mechanism.
+As part of the implementation project, the Haplo team will discuss the required integrations to determine the best methods, using one or more of the strategies below.
 
-* Data can be pushed into the Haplo application using our "REST API":https://docs.haplo.org/import/rest-api. This is self service and we will guide you in setting it up.
 
-* Automatic "integrations to send messages":https://docs.haplo.org/dev/message-queue from the Haplo application to your systems on changes to data or other events, where:
-** your systems can "poll":https://docs.haplo.org/dev/message-queue/poll the Haplo application for messages, or
-** the Haplo application can "push messages":https://docs.haplo.org/dev/message-queue/push to an HTTPS endpoint implemented by your systems.
+h2. User access
 
-* Where changes are low volume and it is not cost effective to implement an automatic integration, the Haplo application can maintain a list of changes for an administrator to apply manually in the institution's system.
+The recommended approach is to use the [node:setup/user-sync:user sync] mechanism to send batch files on a schedule. These files contain all active users, and Haplo works out the users to create and block as users enter and leave the feed.
 
-As part of the implementation project, the Haplo team will discuss the required integrations to determine the best method of integration.
+Alternatively, the "Users REST API":https://docs.haplo.org/rest-api/users and the generic "Data Import REST API":https://docs.haplo.org/import/rest-api can be used together to maintain the active user accounts and associated data. The Users API maintains the underlying user accounts, and the Data Import API syncs the same data as the [node:setup/user-sync].
+
+In all cases, username information must be provided so that users can log on using their [node:setup/authentication:institution credentials].
+
+h3. User roles
+
+Typically the user feed will only contain the broad category of user, for example, Academic Researcher, Professional Services and Doctoral Researcher. More specific user roles are maintained inside the Haplo application by privileged users using the [node:permissions:administrative user interface].
+
+The authority to assign specific roles can be delegated, for example, Committee Representatives can maintain the list of the members of their committee.
+
+
+h2. Updating other systems from Haplo
+
+There is often a requirement to update other institutional systems as information changes in the Haplo application, for example, updating information in the Student Records System.
+
+h3. Automatic feeds from Haplo
+
+The recommended approach is to use the "global observation message queue":https://docs.haplo.org/dev/global-observation, and filter the data change messages to identify the relevant data.
+
+Your systems can "poll":https://docs.haplo.org/dev/message-queue/poll the Haplo application for messages, or the Haplo application can "push messages":https://docs.haplo.org/dev/message-queue/push to an HTTPS endpoint implemented by your systems.
+
+With either option, you should implement a single consumer of the message queue, and forward relevant changes to the other systems.
+
+
+h3. Manual update queue
+
+Where changes are low volume and it is not cost effective to implement an automatic integration, the Haplo application can maintain a list of changes for an administrator to apply manually in the institution's system.
+
+
+h2. Updating Haplo from other systems
+
+To sync data from other systems, for example Research Projects and their status, use the "Data Import REST APIs":https://docs.haplo.org/import/rest-api.
+
+Information about users should generally use a strategy from the _User access_ section above, but this can be augmented with the Data Import REST APIs as long as only one method is used to update each bit of information.
+
+
+h2. Reporting and Business Intelligence
+
+Reporting dashboards for day to day use of the application are configured during the implementation project.
+
+For ad-hoc reporting, users can download data from these dashboards as Excel spreadsheets, or use an OData feed to connect to Business Intelligence tools such as Microsoft Power BI.
+
+
+h2. Data warehouse
+
+To mirror data from Haplo applications in a data warehouse, institutions can:
+
+* use the "global observation message queue":https://docs.haplo.org/dev/global-observation to observe data as it changes,
+* synchronise using the OData feed,
+* implement a custom connector using the Haplo "Reporting REST API":https://docs.haplo.org/standard/reporting/rest-api.
+
+
+h2. Notifications
+
+To record all official notifications, use the "global observation message queue":https://docs.haplo.org/dev/global-observation and record the notification text as workflows progress.
+
+In addition, the [node:setup/email-relay] can be used to archive a copy of all email sent from the application, as well as ensuring deliverability of notifications.
+
+
+h2. Data import
+
+Data can be imported at any time using the "batch import":https://docs.haplo.org/import/batch mechanism.
+
+During the implementation project, Haplo will work with you to import any historical data, such as that needed for [node:phd-manager/setup/historical-data:PhD Manager's data calculations and full project record].
+
+After go-live, test environments are provided to map data models and test data import before it is imported to the live application. Please contact the Haplo support desk for assistance.
+
+
+h2. Custom integration methods
+
+If the standard "out of the box" integrations described above are not a good fit your systems, it is possible for custom APIs and integrations to be provided. This will incur additional costs for development and ongoing support.
 
