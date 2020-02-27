@@ -11,5 +11,5 @@ Haplo Services provides developer support and tools. These include:
 Please contact us with your requirements to arrange provision of services.
 
 
-h2. Tools
+h2. Tools and services
 

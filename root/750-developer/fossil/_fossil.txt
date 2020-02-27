@@ -1,4 +1,4 @@
-title: Fossil Hosting
+title: Fossil source control
 --
 
 Haplo Services provides free source code repositories for Haplo Platform developers who have a hosting contract, using the "Fossil":http://fossil-scm.org open source version control system.
