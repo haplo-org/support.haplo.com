@@ -1,0 +1,107 @@
+title: Audit
+--
+
+The audit feature allows users to generate a random sample of ethics applications to be audited by one or more chosen auditors.
+
+[IMAGE audit0-f.png]
+
+The size of the sample and the filters which will be used to create it are defined when creating the audit. The user who creates the audit will be assigned as its supervisor - only the supervisor can close the audit.
+After the sample has been created, the supervisor can assign auditor(s) to the task. The auditor(s) will review each application and save any relevant comments.
+
+Once the audit is closed, a final report will be available with all the relevant information pertaining to it.
+
+h2. Starting a new audit
+
+Audits must belong to an audit exercise - it's not possible to create an audit outside an exercise. Read more about it - including how to create one - "here":https://support.haplo.com/ethics-monitor/administrators/ethics-auditing/audit-exercise.
+To start a new audit, go to the relevant audit exercise page and click on "Start a new audit".
+
+[IMAGE audit1-f.png]
+[IMAGE audit2-f.png]
+
+h3. Choosing the filters
+
+Start the audit by choosing which filters should be applied. All the filters listed are present by default for ethics' auditing, but new filters can be added to the system if necessary.
+
+[IMAGE audit3-f.png]
+[IMAGE audit4-f.png]
+
+When a filter is chosen, the number of applications that currently fit that criteria will be updated. All filters can be edited and removed before starting the audit.
+
+[IMAGE audit5-f.png]
+
+If we add a few more filters, the number of applications who fit that criteria will change accordingly.
+
+[IMAGE audit6-f.png]
+
+h3. Choosing the sample size
+
+To finalise the sampling criteria, choose the sample size. This percentage will be applied on the total number of ethics applications which currently fit the chosen criteria.
+
+[IMAGE audit7-f.png]
+
+Once the filters and sample size have been chosen the audit can be started.
+
+[IMAGE audit8-f.png]
+
+Click on "Start audit" to save the current sampling criteria and start the audit.
+
+h2. The audit
+
+A random sample of applications will be created according to the chosen sampling criteria. On the audit page, it's possible to see the sampling criteria and the applications to be audited.
+
+[IMAGE audit9-f.png]
+
+h3. Appointing the auditor(s)
+
+To progress the audit, the audit supervisor must appoint the auditor(s) who will be in charge of carrying out the auditing of the applications.
+
+[IMAGE audit10-f.png]
+
+The chosen auditors will be notified of this decision, along with any notes written in this form.
+
+h3. Audit of applications
+
+If there's more than one auditor, they will be able to delegate the task to one another. After reviewing an application, the auditor can click on "Make comments" to add their review.
+
+[IMAGE audit11-f.png]
+
+Clicking on the above link will open the following form. This form is configurable and can be edited as many times as necessary before the audit is progressed to the supervisor for review.
+
+[IMAGE audit12-f.png]
+
+The audit page will make the distinction between applications that have been audited and applications pending audit.
+
+[IMAGE audit0-f.png]
+
+h3. Ending the audit of applications
+
+Once all applications have been audited, the auditor will be able to progress the audit to the supervisor for review.
+
+[IMAGE audit13-f.png]
+
+At this point, the auditor must write an overall assessment of the audited applications.
+
+[IMAGE audit14-f.png]
+
+h3. Reviewing the audit
+
+Once the auditor(s) progress the audit to the supervisor for review, a final report will be available on the right side of the menu. It will remain available even after the audit has been closed.
+
+[IMAGE audit17-f.png]
+
+This final report includes all the details about the audit, a summary of the auditor's decisions and the auditor's review of each audited application. 
+
+[IMAGE audit18-f.png]
+
+h3. Returning or closing the audit
+
+After reviewing the final report, the supervisor will have the option to close the audit or return it to the auditors if there's anything that needs to be amended. 
+
+[IMAGE audit15-f.png]
+
+When closing the audit, the supervisor will be prompted to comment on the audit and the auditor's report.
+
+[IMAGE audit16-f.png]
+
+The supervisor's comments and the auditor's overall assessment of the audited applications will be available on the right side of the menu.
+[IMAGE audit19-f.png]
