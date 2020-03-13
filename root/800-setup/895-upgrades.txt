@@ -1,0 +1,60 @@
+title: Upgrades
+long_title: Planning for upgrades
+--
+
+Your subscription includes upgrades to the products you are using, and as part of the implementation process we will agree the plan to manage these upgrades.
+
+In general,
+
+* You do not have to take all the upgrades, as they tend to offer optional features that don't have to be enabled. We will support the use of the version of your choice for the length of the contract.
+
+* Your change control process will be followed to perform the upgrade at a time that is convenient for your institution.
+
+* Upgrades are zero downtime, with any data migration performed while the application is online and in use.
+
+Please note that a small number of new features may require a implementation project to perform business analysis and configure them to your needs. These projects may be chargeable.
+
+
+h2. Independent versions & change control
+
+All our deployed applications are independently versioned. We can roll out upgrades to an institution without affecting other institutions.
+
+This enables us to follow your change control processes and deploy applications at convenient points in the year and in periods of low usage. During the implementation project, we will document your processes and agree how we will work with you.
+
+To ensure that we can perform upgrades on your preferred date, we will ask you to schedule upgrades with as much notice as possible.
+
+
+h2. Schedule and testing
+
+Our applications are highly customised to your institution, and each institution has different requirements and practises. To support this, we run a rolling programme of upgrades.
+
+Once or twice a year:
+
+* We will provide an upgraded application in a test environment, with a change log describing the new features.
+
+* Your IT and administrators will need to test the upgrade to make it sure it meets your requirements.
+
+* We'll adjust the installed features and configuration as required.
+
+* Working with your change control process, we will upgrade your application.
+
+If specific features have been requested by your institution, we may offer out of schedule upgrades for individual features to enable you to use them more quickly.
+
+
+h2. Platform updates
+
+We host your application on our information management platform. Updates to the platform and infrastructure follow different procedures.
+
+
+h3. Security updates
+
+Security updates will be applied within 24 hours without prior notice or notification. The most common security updates are to Java and our other dependencies.
+
+
+h3. Platform and infrastructure
+
+The underlying platform and our hosting infrastructure are continuously updated as a series of small changes. There are usually two or three updates each month.
+
+These updates will not impact the user facing applications. Platform updates are intended to add additional capabilities to the platform and our infrastructure which are only used if an application requires them.
+
+We ensure that the independently versioned applications running on top of the platform are not affected using a test suite which covers all the APIs that the applications use. In addition, we run proposed updates on our development servers for several days before updating the production servers.
