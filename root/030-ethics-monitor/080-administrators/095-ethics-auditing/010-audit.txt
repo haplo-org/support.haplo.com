@@ -57,11 +57,11 @@ To progress the audit, the audit supervisor must appoint the auditor(s) who will
 
 [IMAGE audit10-f.png]
 
-The chosen auditors will be notified of this decision, along with any notes written in this form.
+The chosen auditor(s) will be notified of this decision, along with any notes written in this form.
 
 h3. Audit of applications
 
-If there's more than one auditor, they will be able to delegate the task to one another. After reviewing an application, the auditor can click on "Make comments" to add their review.
+If there's more than one auditor, they will be able to delegate the task to one another. After reviewing an application, the auditor(s) can click on "Make comments" to add their review.
 
 [IMAGE audit11-f.png]
 
@@ -75,7 +75,7 @@ The audit page will make the distinction between applications that have been aud
 
 h3. Ending the audit of applications
 
-Once all applications have been audited, the auditor will be able to progress the audit to the supervisor for review.
+Once all applications have been audited, the auditor that currently has the task will be able to progress the audit to the supervisor for review.
 
 [IMAGE audit13-f.png]
 
@@ -83,21 +83,16 @@ At this point, the auditor must write an overall assessment of the audited appli
 
 [IMAGE audit14-f.png]
 
-h3. Reviewing the audit
-
-Once the auditor(s) progress the audit to the supervisor for review, a final report will be available on the right side of the menu. It will remain available even after the audit has been closed.
-
-[IMAGE audit17-f.png]
-
-This final report includes all the details about the audit, a summary of the auditor's decisions and the auditor's review of each audited application. 
-
-[IMAGE audit18-f.png]
-
 h3. Returning or closing the audit
 
-After reviewing the final report, the supervisor will have the option to close the audit or return it to the auditors if there's anything that needs to be amended. 
+Once the auditor(s) progress the audit to the supervisor for review, a final report will be available on the right side of the menu. It will remain available even after the audit has been closed. 
+The supervisor will have the option to close the audit or return it to the auditor(s) if there's anything that needs to be amended. 
 
 [IMAGE audit15-f.png]
+
+This final report includes all the details about the audit, a summary of the auditor's decisions and the auditor(s)'s review of each audited application.
+
+[IMAGE audit18-f.png]
 
 When closing the audit, the supervisor will be prompted to comment on the audit and the auditor's report.
 
