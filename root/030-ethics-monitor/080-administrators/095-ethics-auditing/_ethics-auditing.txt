@@ -1,0 +1,8 @@
+title: Ethics auditing
+long_title: Ethics auditing
+class: DocNodeTextileWithTOC
+--
+
+This feature allows users to audit ethics applications in the system. It generates a random sample of ethics applications to be audited by one or more chosen auditors, as well as a workflow to track its progress.
+
+h2. Auditing

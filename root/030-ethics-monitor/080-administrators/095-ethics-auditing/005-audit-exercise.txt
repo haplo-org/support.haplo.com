@@ -1,0 +1,35 @@
+title: Audit exercise
+--
+
+Audit exercises allow users to group audits for better management.
+
+[IMAGE audit-exercise0-f.png]
+
+h2. Start a new audit exercise
+
+To start a new audit exercise, go into the activity page.
+The user who creates the audit exercise will be assigned as its supervisor. This role will be able to add new audits to the audit exercise, appoint auditors and close any audits they start.
+
+[IMAGE audit-exercise1-f.png]
+[IMAGE audit-exercise2-f.png]
+
+This will create an empty exercise where [node:ethics-monitor/administrators/ethics-auditing/audit:new audits] can be added.
+
+[IMAGE audit-exercise3-f.png]
+
+Use "Cancel auditing exercise" to cancel the exercise.
+Note that it's only possible to cancel an exercise while it has no closed audits. If an exercise with ongoing audits is cancelled, those audits will also be cancelled.
+
+h2. Close an audit exercise
+
+Use "Close exercise" to close an audit exercise. Note that an audit exercise can't be re-opened once it has been closed.
+
+[IMAGE audit-exercise4-f.png]
+
+The user closing the exercise will be prompted to comment on the exercise.
+
+[IMAGE audit-exercise5-f.png]
+
+Once the exercise has been closed, any final comments entered in the previous form and a final report of all the audits in it will be available on its page.
+
+[IMAGE audit-exercise6-f.png]

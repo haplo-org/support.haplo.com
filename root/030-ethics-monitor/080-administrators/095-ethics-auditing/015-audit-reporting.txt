@@ -1,0 +1,24 @@
+title: Reporting
+--
+
+The auditing dashboards can be accessed under "Audits", on the Ethics activity page.
+
+[IMAGE audit-reporting0-f.png]
+
+h3. Audits overview
+
+This dashboard lists all audits in the system, along with their status and other relevant information such as the exercise they belong to.
+
+[IMAGE audit-reporting1-f.png]
+
+h3. Audit exercises overview
+
+This dashboard lists all audit exercises in the system, along with their status and other relevant information such as number of audits.
+
+[IMAGE audit-reporting2-f.png]
+
+h3. Audited items overview
+
+This dashboard lists all the items that have been audited so far, for all types of audits.
+
+[IMAGE audit-reporting3-f.png]

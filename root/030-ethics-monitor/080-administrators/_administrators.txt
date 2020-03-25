@@ -1,5 +1,5 @@
 title: Administrators
-long_title: Ethics Monitor Adminstrators
+long_title: Ethics Monitor Administrators
 --
 
 Ethics Monitor provides those with responsibility for ensuring good research governance with an overview of the progress of all applications for ethical approval at their institution. 
