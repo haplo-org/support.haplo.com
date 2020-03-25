@@ -13,7 +13,7 @@ The user who creates the audit exercise will be assigned as its supervisor. This
 [IMAGE audit-exercise1-f.png]
 [IMAGE audit-exercise2-f.png]
 
-This will create an empty exercise where new audits can be added. See how to create new audits "here":https://support.haplo.com/ethics-monitor/administrators/ethics-monitor/administrators/ethics-auditing/audit.
+This will create an empty exercise where [node:ethics-monitor/administrators/ethics-auditing/audit:new audits] can be added.
 
 [IMAGE audit-exercise3-f.png]
 

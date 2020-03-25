@@ -12,8 +12,8 @@ Once the audit is closed, a final report will be available with all the relevant
 
 h2. Starting a new audit
 
-Audits must belong to an audit exercise - it's not possible to create an audit outside an exercise. Read more about it - including how to create one - "here":https://support.haplo.com/ethics-monitor/administrators/ethics-auditing/audit-exercise.
-To start a new audit, go to the relevant audit exercise page and click on "Start a new audit".
+Audits must belong to an [node:ethics-monitor/administrators/ethics-auditing/audit-exercise:audit exercise] - it's not possible to create an audit outside an exercise.
+To start a new audit, select the audit exercise from the "Audit exercises overview" dashboard and click "Start a new audit".
 
 [IMAGE audit1-f.png]
 [IMAGE audit2-f.png]
