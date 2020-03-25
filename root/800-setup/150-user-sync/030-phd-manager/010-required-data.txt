@@ -19,10 +19,9 @@ Refer to our "guidance about usernames and email addresses":https://docs.haplo.o
 
 Additionally, your institution may wish to provide:
 
-* REF Unit of Assessment
-* Nationality: Home, EU, international
-* "ATAS":https://www.gov.uk/guidance/academic-technology-approval-scheme status
+* Nationality: Specific nationality, or wider categories such as _Home_ or _International_
 * Disability information
+* REF Unit of Assessment (for UK institutions only)
 
 
 [SNIPPET setup/organisational-structure]
