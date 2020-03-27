@@ -23,7 +23,9 @@ View the relevant dashboards, such as 'Progression overview' to see the progress
 h3. Frequently asked questions
 
 *A user has accidentally progressed a workflow or has changed their mind about a decision, can I return it to a previous user?*
-Normally tasks can be sent back and forth in a workflow by returning the task to a previous user. Use the STATUS box on the right of the record to see which user currently has the task and ask them to return it to the previous user. Where you require a workflow to be returned to a previous state which is not possible by returning the form, please contact client.support@haplo.com
+Normally tasks can be sent back and forth in a workflow by returning the task to a previous user. Use the STATUS box on the right of the record to see which user currently has the task and ask them to return it to the previous user.
+
+Where this is not possible within the normal course of the workflow, authorised users may [node:phd-manager/administrators/workflows/move-back:move the workflow back].
 
 
 h2. Understanding forms
@@ -45,7 +47,7 @@ Guidance notes display on the confirmation page at the start of each workflow. G
 
 h4. Guidance notes within forms
 
-Guidance notes can display alongside a question indicated by an 'i' in a circle next to the question. Contact client.support@haplo.com to add or edit the text in guidance notes within forms. 
+Guidance notes can display alongside a question indicated by an 'i' in a circle next to the question. Use your Project Room to add or edit the text in guidance notes within forms. 
 
 
 h2. Understanding tasks
