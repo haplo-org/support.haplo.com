@@ -1,0 +1,30 @@
+
+This tool should be used with caution, and is *not intended for day-to-day operation*. If you find you need to use it frequently for the same purpose, please get in touch with Haplo support to discuss a modification to your application.
+
+
+h2. Moving a workflow back
+
+Click the *Move back...* button on the right-hand side of the workflow page.
+
+[IMAGE workflow-move-back-button.png]
+
+You will be asked to confirm the proposed move, and enter the reason why this manual override of the workflow is required.
+
+[IMAGE workflow-move-back-form.png]
+
+After you have confirmed you wish to move the workflow back,
+
+ * The workflow will be *moved back* to the previous step.
+ * An *email notification* will be sent to the affected users to notify them of the change. This email will include the reason you entered in the form.
+ * An entry is added to the *workflow timeline* so that the move back is documented. The reason will be visible to *all users* who can view the workflow page.
+
+
+h2. Warning
+
+This support tool must be used carefully.
+
+Sometimes irreversible actions will have been taken after the previous step was completed, for example, sending notifications or updating other systems at your institution. Use of this feature may have knock-on effects which prevent the correct operation of your application.
+
+In many cases, *but not all*, a message will be displayed if the workflow cannot be moved back safely. This will apply in circumstances such as a completed workflow, or a where final decision has been made.
+
+Please contact Haplo support if you need any assistance.

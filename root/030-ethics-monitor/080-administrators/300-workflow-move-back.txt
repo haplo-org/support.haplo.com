@@ -1,0 +1,13 @@
+title: Moving workflows back
+--
+
+At all stages in the approval workflow, Ethics Monitor applications can be returned to the reviewer or applicant by the user listed in the "currently with" box in the status panel.
+
+However, in exceptional cases, users may perform actions in error that cannot be undone by returning the application. In these rare cases, authorised users can override the workflow by moving it back a step.
+
+
+[SNIPPET administrators/workflow-move-back]
+
+[SNIPPET administrators/workflow-move-back-permission]
+ * Ethics Committee Representatives
+ * Members of the *Ethics Workflow Support* group

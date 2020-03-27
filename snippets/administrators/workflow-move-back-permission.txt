@@ -1,0 +1,7 @@
+
+h2. Authorised users
+
+Use of this tool is limited to privileged users. The exact configuration of your application may vary, but typically authorised users will include:
+
+ * Members of the *Workflow move back* group who are permitted to view the workflow
+ * Members of the *IT Support* group

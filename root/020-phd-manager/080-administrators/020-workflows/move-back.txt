@@ -1,0 +1,12 @@
+title: Moving workflows back
+--
+
+Your workflows will typically include "return" buttons at most steps of your workflow, which can be used by the user shown in the "currently with" box in the status panel.
+
+Where this is not possible, for example, when a user makes an error, authorised users can override the workflow by moving it back a single step.
+ 
+
+[SNIPPET administrators/workflow-move-back]
+
+[SNIPPET administrators/workflow-move-back-permission]
+ * PhD Manager Administrators
