@@ -1,9 +1,7 @@
 title: Staff and student data
 --
 
-Data will typically be sourced from your student records system and HR system.
-
-If any of the below data is provided as a code, the institution will also have to provide Haplo with a mapping that specifies how to interpret the codes. This information can be provided in any format, for example a spreadsheet or a document.
+Data will typically be sourced from your student records system and HR system, and provided as structured data in JSON or XML.
 
 h2. All users
 
@@ -33,6 +31,13 @@ If a record duplicates the @username@ of a previous record, it will be ignored w
 While it's not an enforced constraint, it is advised that email addresses are unique for avoiding ambiguity. This is particularly important for authenticating users through external identity systems that use the email address to identify the authenticated user.
 
 
+h2. Mappings for data provided as a code
+
+Many of the fields will be provided as codes to unambiguously identify things like organisational units, visas and and programmes of study.
+
+You should not include the human readable names within the feed. Instead, please provide Haplo with a mapping that specifies how to interpret the codes. This information can be provided in any format, for example a spreadsheet or a document.
+
+
 h2. Student project data
 
 As well as the required information above, students must have:
@@ -53,15 +58,11 @@ and optionally,
 * Status (active, suspended, etc)
 
 
-h3. Additional data
+h3. Additional data and revisions to user feed
 
-This list is not exhaustive. Your institution will probably need additional data to be synchronised to enable implementation of business rules and provide necessary information to your users.
+The list of data here is not exhaustive. Your institution will probably need additional data to be synchronised to enable implementation of business rules and provide necessary information to your users.
 
-In addition, the [node:setup/architecture] will determine how data is transferred between systems.
+In addition, the [node:setup/architecture:integration architecture] will determine how data is transferred between systems.
 
+Some of these requirements will only be discovered during the design phase of the implementation. If so, you may need to provide a revised data file at later stage of the implementation project.
 
-h2. Historical data
-
-As part of the setup process, some historical data will need to be imported.
-
-It is *vital* that information about [node:setup/user-sync/phd-manager/user-data/suspensions-and-extensions:historical suspensions and extensions] and [node:setup/user-sync/phd-manager/user-data/dates:project end dates] for current Postgraduate Researchers are provided, as without this information, the project date calculations will be incorrect.
