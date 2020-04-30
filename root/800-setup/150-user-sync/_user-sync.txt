@@ -3,6 +3,13 @@ title: User sync
 
 The user sync provides daily updates of the details of researchers and administrative staff. Some applications will also need details of Postgraduate Researchers, and possibly taught students.
 
+The Haplo team will work with you via a secure online Project Room on the implementation of your user sync. 
+
+# We'll ask you to send us an initial data file, your organisational structure, and any mappings via the Project Room.
+# The Haplo team will create your initial control file. 
+# You'll complete the control file.
+# If changes to the feed are identified during the implementation project you may need to repeat the process.
+
 Please refer to the specific documentation for the modules you are using:
 
 [node:setup/user-sync/phd-manager]
@@ -20,6 +27,3 @@ Haplo Research Manager builds on other Haplo modules and the open source Haplo p
 "Haplo generic user sync documentation":https://docs.haplo.org/import/user-sync
 
 "Haplo Research Manager user sync":https://docs.haplo.org/app/research/setup/user-sync (open source documentation)
-
-"Writing a control file":https://docs.haplo.org/import/control
-
