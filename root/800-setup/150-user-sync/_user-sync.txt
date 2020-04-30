@@ -1,7 +1,7 @@
 title: User sync
 --
 
-The user sync provides daily updates of the details of researchers and administrative staff. Some applications will also need details of PhD researchers, and possibly taught students.
+The user sync provides daily updates of the details of researchers and administrative staff. Some applications will also need details of Postgraduate Researchers, and possibly taught students.
 
 Please refer to the specific documentation for the modules you are using:
 

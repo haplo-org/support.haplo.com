@@ -13,7 +13,7 @@ Because of your institution's unique requirements, there will be additions to th
 
 h2. PhD researcher group
 
-The @groups@ Name of the @user@ Destination must include @phd:group:doctoral-researchers@ for PhD researchers.
+The @groups@ Name of the @user@ Destination must include @phd:group:doctoral-researchers@ for Postgraduate Researchers.
 
 
 h2. Project title
