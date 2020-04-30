@@ -12,6 +12,8 @@ Data will typically be sourced from your student records system and HR system. A
 * Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student)
 
 
+h2. Organisational structure
+
 [SNIPPET setup/organisational-structure]
 
 

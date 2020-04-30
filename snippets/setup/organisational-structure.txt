@@ -1,4 +1,3 @@
-h2. Organisational structure
 
 As well as the data about users, we need to know your organisational structure. Please provide this in any format that is convenient, but make sure:
 
