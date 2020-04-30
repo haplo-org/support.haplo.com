@@ -1,0 +1,12 @@
+title: Integration architecture
+--
+
+
+h3. Data design
+
+The Haplo team will provide advice during requirements gathering about the best approach for system of record and integrations for your institution's individual circumstances.
+
+In particular, it is best to avoid syncing dates other than the start date, and use PhD Manager's date rules engine to calculate all project dates.
+
+The data should be provided in one of the "supported file formats":https://docs.haplo.org/import/control/files.
+

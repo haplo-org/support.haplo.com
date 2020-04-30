@@ -1,0 +1,21 @@
+title: PhD Manager
+long_title: Special architectural considerations for PhD Manager
+--
+
+h3. Student records system is system of record
+
+As it's used to perform regulatory reports, typically the student record system will continue to be the system of record for some key information about the student. In this case, any workflows which request changes to this information will not actually make the change in PhD Manager. A manual step, or an integration, will update the student records system. The next time the user sync runs, the field will be updated in PhD Manager.
+
+Depending on the requirements of your graduate school, these fields may include:
+
+
+
+h3. PhD Manager is system of record
+
+The following data is best managed directly in PhD Manager, and we would recommend a one-off import from the current source upon deployment:
+
+* Project supervisors (as usernames)
+* Project title
+* Scholarship/studentship information
+
+Where this data is used for additional processes outside of the scope of your PhD Manager implementation, these fields may be managed in the student records system.
