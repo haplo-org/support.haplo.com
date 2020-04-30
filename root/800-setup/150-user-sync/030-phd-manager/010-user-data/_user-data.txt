@@ -1,4 +1,4 @@
-title: Required data
+title: Staff and student data
 --
 
 Data will typically be sourced from your student records system and HR system.
@@ -67,4 +67,6 @@ The data should be provided in one of the "supported file formats":https://docs.
 
 h2. Historical data
 
-In addition to the ongoing user sync, some [node:phd-manager/setup/historical-data:historical data] will need to be provided for one-off import.
+As part of the setup process, some historical data will need to be imported.
+
+It is *vital* that information about [node:setup/user-sync/phd-manager/user-data/suspensions-and-extensions:historical suspensions and extensions] and [node:setup/user-sync/phd-manager/user-data/dates:project end dates] for current Postgraduate Researchers are provided, as without this information, the project date calculations will be incorrect.
