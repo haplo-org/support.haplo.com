@@ -13,14 +13,22 @@ Data will typically be sourced from your student records system and HR system. A
 * Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student)
 
 
-h2. Providing the data
-
-Please send initial data files via your [node:setup/project-room]. These should be formatted in JSON or XML. Although we don't recommend it, we can also accept TSV files.
-
-After we have the initial data, we will write the first version of the [node:setup/user-sync/technical/control-file:control file], and hand it over to you for fine tuning.
-
-
 h2. Organisational structure
 
 The [node:setup/user-sync/ethics-monitor/organisational-structure:organisational structure] must be supplied along with the initial data files.
+
+
+h2. Providing the data
+
+Upload your files to the [node:setup/project-room:Project Room] using the *User Feed setup* task, which will have been assigned to your technical lead for the project.
+
+Include:
+
+* initial user data file containing details of staff and students
+* organisational structure
+* mappings for any codes used in the data files
+
+The Haplo team will then write your initial control file for you to complete.
+
+After we have the initial data, we will write the first version of the [node:setup/user-sync/technical/control-file:control file], and hand it over to you for fine tuning.
 

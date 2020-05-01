@@ -1,7 +1,7 @@
 title: Sending initial data files
 --
 
-Upload your files to the Project Room using the User sync task, which will have been assigned to your technical lead for the project.
+Upload your files to the [node:setup/project-room:Project Room] using the *User Feed setup* task, which will have been assigned to your technical lead for the project.
 
 Include:
 
