@@ -25,6 +25,8 @@ Additionally, your institution may wish to provide:
 * Disability information
 * REF Unit of Assessment (for UK institutions only)
 
+See the [node:setup/user-data/phd-manager/example:example user feed file].
+
 
 h2. Usernames
 
