@@ -1,3 +1,6 @@
+title: Control file
+long_title: User sync control file
+--
 
 To set up the user sync, you need a "control file":https://docs.haplo.org/import/control to map the data you're providing.
 

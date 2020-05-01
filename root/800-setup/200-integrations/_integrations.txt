@@ -10,7 +10,7 @@ h2. User access
 
 The recommended approach is to use the [node:setup/user-sync:user sync] mechanism to send batch files on a schedule. These files contain all active users, and Haplo works out the users to create and block as users enter and leave the feed.
 
-Alternatively, the "Users REST API":https://docs.haplo.org/rest-api/users and the generic "Data Import REST API":https://docs.haplo.org/import/rest-api can be used together to maintain the active user accounts and associated data. The Users API maintains the underlying user accounts, and the Data Import API syncs the same data as the [node:setup/user-sync].
+Alternatively, the "Users REST API":https://docs.haplo.org/rest-api/users and the generic "Data Import REST API":https://docs.haplo.org/import/rest-api can be used together to [node:setup/user-sync/technical/user-api:maintain the active user accounts and associated data]. The Users API maintains the underlying user accounts, and the Data Import API syncs the same data as the [node:setup/user-sync].
 
 In all cases, username information must be provided so that users can log on using their [node:setup/authentication:institution credentials].
 

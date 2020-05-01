@@ -1,9 +1,25 @@
 title: Ethics Monitor
-long_title: Ethics Monitor user sync
-class: DocNodeTextileWithTOC
 --
 
-The user sync provides daily updates of the details of the students and staff who will be using Ethics Monitor.
+h2. Required data
 
-h2. Steps to set up user sync
+Data will typically be sourced from your student records system and HR system. At the very minimum, you need to provide:
+
+* Name - separated into first, middle, and last name fields
+* Username/ID - must be unique and not change throughout the person's time at the university
+* Email - it is recommended that these are unique for a record
+* Organisational unit
+* Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student)
+
+
+h2. Providing the data
+
+Please send initial data files via your [node:setup/project-room]. These should be formatted in JSON or XML. Although we don't recommend it, we can also accept TSV files.
+
+After we have the initial data, we will write the first version of the [node:setup/user-sync/technical/control-file:control file], and hand it over to you for fine tuning.
+
+
+h2. Organisational structure
+
+The [node:setup/user-sync/ethics-monitor/organisational-structure:organisational structure] must be supplied along with the initial data files.
 

@@ -1,7 +1,0 @@
-title: Upload script
-long_title: User sync upload script
---
-
-Once you have your control file, you should write an "upload script":https://docs.haplo.org/import/user-sync/upload-script to upload the control file and data. This will make it much easier for you to test.
-
-Every time you make a change to your control file or data, run the script to upload the new data to a test application and run the user sync.

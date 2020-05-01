@@ -7,7 +7,7 @@ Note that information on [node:setup/user-sync/phd-manager/user-data/suspensions
 
 Files may be in any reasonable structure in "JSON, XML or TSV":https://docs.haplo.org/import/control/files#File_formats.
 
-It may be easier to [node:setup/user-sync/phd-manager/one-off-import-from-sync-file:re-use the information gathered for the user sync].
+It may be easier to [node:setup/user-sync/technical/one-off-import-from-sync-file:re-use the information gathered for the user sync].
 
 
 h2. End dates

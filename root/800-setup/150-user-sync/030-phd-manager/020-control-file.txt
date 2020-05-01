@@ -1,5 +1,0 @@
-title: Control file
-long_title: User sync control file
---
-
-[SNIPPET setup/control-file]

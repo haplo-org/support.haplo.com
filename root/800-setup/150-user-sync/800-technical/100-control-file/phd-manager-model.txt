@@ -1,5 +1,5 @@
-title: Data model
-long_title: User sync data model
+title: PhD Manager model
+long_title: PhD Manager data model
 --
 
 PhD Manager adds a number of *Destinations* to the @haplo:user-sync@ model to enable syncing of project details.

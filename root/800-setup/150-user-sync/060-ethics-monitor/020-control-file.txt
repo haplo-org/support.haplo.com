@@ -1,8 +1,0 @@
-title: Control file
-long_title: User sync control file
---
-
-Ethics Monitor builds on Haplo Research Manager, so you should read the "notes on setting up user sync":https://docs.haplo.org/app/research/setup/user-sync.
-
-[SNIPPET setup/control-file]
-
