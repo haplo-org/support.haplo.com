@@ -1,6 +1,4 @@
 title: Managing users with APIs
-long_title: How do I manage users via APIs?
-use_long_title_for_toc: yes
 --
 
 Typically, all users are managed via the [node:setup/user-sync]. This page explains how to use APIs to manage users instead.
