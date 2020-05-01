@@ -1,0 +1,16 @@
+title: Submission deadline
+--
+
+Following deployment, PhD Manager will calculate the submission deadline and other key milestone deadlines for all Postgraduate Researchers.
+
+h2. End dates verification data file
+
+Please provide the end dates for all current Postgraduate Researchers so we  can verify they match the submission deadline calculated by PhD Manager.
+
+Upload the following information in a single file via your Project Room:
+
+* username of Postgraduate Researcher (to match the username in the PhD Manager user sync)
+* end date of project
+
+End dates may be provided in any consistent, machine-readable format.
+
