@@ -6,7 +6,7 @@ To set up the user sync, you need a "control file":https://docs.haplo.org/import
 
 The Haplo team will write the initial version of the control file, and hand it over to you for fine turning. To start this process, please send the initial data files and your organisational structure via your [node:setup/project-room] as JSON or XML files. Although we don't recommend it, we can also accept TSV files.
 
-PhD Manager adds [node:setup/user-sync/technical/control-file/phd-manager-model:project and supervisor information] to the data model.
+PhD Manager adds [node:setup/user-data/technical/control-file/phd-manager-model:project and supervisor information] to the data model.
 
 
 h2. Writing a control file
@@ -38,4 +38,4 @@ If your application will be used by PhD or taught students, the following groups
 
 h2. Reference documentation
 
-"Research Manager user sync setup":https://docs.haplo.org/app/research/setup/user-sync.
+"Research Manager user sync setup":https://docs.haplo.org/app/research/setup/user-data.

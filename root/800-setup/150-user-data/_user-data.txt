@@ -25,14 +25,14 @@ The Haplo team will work with you via the secure online [node:setup/project-room
 
 Please refer to the specific documentation for the modules you are using:
 
-[node:setup/user-sync/phd-manager]
-[node:setup/user-sync/ethics-monitor]
+[node:setup/user-data/phd-manager]
+[node:setup/user-data/ethics-monitor]
 
 When you use multiple modules, you will implement a single user feed containing the combined requirements for the modules.
 
 
 h2. Technical reference
 
-Haplo will work with you to manage the data throughout your implementation process. Technical information about the mechanisms used is provided in a [node:setup/user-sync/technical:separate section] for reference.
+Haplo will work with you to manage the data throughout your implementation process. Technical information about the mechanisms used is provided in a [node:setup/user-data/technical:separate section] for reference.
 
 The Haplo team will refer you to the relevant documentation during the process.

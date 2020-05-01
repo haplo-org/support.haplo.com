@@ -15,7 +15,7 @@ Data will typically be sourced from your student records system and HR system. A
 
 h2. Organisational structure
 
-The [node:setup/user-sync/ethics-monitor/organisational-structure:organisational structure] must be supplied along with the initial data files.
+The [node:setup/user-data/ethics-monitor/organisational-structure:organisational structure] must be supplied along with the initial data files.
 
 
 h2. Providing the data
@@ -30,5 +30,5 @@ Include:
 
 The Haplo team will then write your initial control file for you to complete.
 
-After we have the initial data, we will write the first version of the [node:setup/user-sync/technical/control-file:control file], and hand it over to you for fine tuning.
+After we have the initial data, we will write the first version of the [node:setup/user-data/technical/control-file:control file], and hand it over to you for fine tuning.
 

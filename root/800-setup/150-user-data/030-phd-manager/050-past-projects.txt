@@ -3,7 +3,7 @@ title: Past projects
 
 While not essential, you may wish to import details of past postgraduate researchers to provide a complete history of a supervisor's supervision experience.
 
-When providing a file of previous postgraduate researchers do not include any details of current postgraduate researchers that appear in the [node:setup/user-sync/phd-manager:user feed].
+When providing a file of previous postgraduate researchers do not include any details of current postgraduate researchers that appear in the [node:setup/user-data/phd-manager:user feed].
 
 Upload the following information to your Project Room:
 
@@ -13,7 +13,7 @@ Upload the following information to your Project Room:
 * Project type (PhD, MRes, etc)
 * Outcome (completed, withdrawn)
 * Project end date
-* Organisational unit, as a code matching the provided [node:setup/user-sync/phd-manager/organisational-structure:organisational structure]
+* Organisational unit, as a code matching the provided [node:setup/user-data/phd-manager/organisational-structure:organisational structure]
 * Supervisor information, as a list of supervisors
 
 For each of the supervisors, provide:

@@ -7,7 +7,7 @@ PhD Manager requires more data than other Haplo Research Manager modules, becaus
 
 Postgraduate Researchers should be included in the feed once they have enrolled. All other users can be included whether or not they are involved in a Postgraduate Research project.
 
-Data will typically be sourced from your student records system and HR system, and [node:setup/user-sync/phd-manager/send-files:provided as structured data] in JSON or XML.
+Data will typically be sourced from your student records system and HR system, and [node:setup/user-data/phd-manager/send-files:provided as structured data] in JSON or XML.
 
 h2. All users
 

@@ -1,12 +1,22 @@
 title: Integration architecture
 --
 
+Haplo applications are integrated into the institution's system and information architecture. They provide a large degree of flexibility in how they can be configured to work effectively within the wider infrastructure.
 
-h3. Data design
+The Haplo team will provide advice during requirements gathering about the best approach for your institution's individual circumstances.
 
-The Haplo team will provide advice during requirements gathering about the best approach for system of record and integrations for your institution's individual circumstances.
 
-In particular, it is best to avoid syncing dates other than the start date, and use PhD Manager's date rules engine to calculate all project dates.
+h3. 1) System of record
 
-The data should be provided in one of the "supported file formats":https://docs.haplo.org/import/control/files.
+For each field within the overall records about people and projects, a system of record must be chosen, so that each piece of information is maintained within a single system.
+
+
+h3. 2) Integrations
+
+Once the system of record has been determined, [node:setup/integrations:integrations] must be designed to ensure data flows accurately between systems.
+
+
+h2. Special considerations
+
+[node:setup/architecture/phd-manager:Considerations for PhD Manager deployments]
 
