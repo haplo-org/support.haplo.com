@@ -1,3 +1,5 @@
 While the [node:setup/user-data/technical/control-file:control file] mechanism allows considerable flexibility in structuring the user feed files, a structure similar to this example will be most effective.
 
 Where data is provided in a very different format, additional charges may apply to implement custom data transformations.
+
+User feed files should be structured as JSON or XML with a top level list element containing one record per user.

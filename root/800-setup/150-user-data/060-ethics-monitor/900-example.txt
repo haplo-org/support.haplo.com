@@ -1,4 +1,4 @@
-title: Example
+title: Example user feed file
 long_title: Example Ethics Monitor user feed file
 --
 

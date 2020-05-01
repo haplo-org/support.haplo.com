@@ -1,0 +1,44 @@
+title: Example user feed file
+long_title: Example PhD Manager user feed file
+--
+
+[SNIPPET setup/example-intro]
+
+<pre>language=json
+[
+    {
+        "username": "js991",
+        "nameFirst": "Jane",
+        "nameLast": "Smith",
+        "email": "jsmith@example.org",
+        "orgUnit": "W38222",
+        "category": "pgr",
+        "nationality": "GB",
+        "enrolled": "2018-04-02",
+        "mode": "full",
+        "status": "active",
+        "visa": "T4",
+        "programme": "phd",
+        "thesisTitle": "Customs in medieval ...",
+        "supervisors": [
+            "jb124",
+            "mw281",
+            "is829"
+        ]
+    },
+    {
+        "username": "jb124",
+        "nameFirst": "Joe",
+        "nameMiddle": "X",
+        "nameLast": "Bloggs",
+        "email": "jb@example.org",
+        "orgUnit": "E8217",
+        "category": "researcher"
+    }
+]
+</pre>
+
+Organisational unit and category should use the codes in your systems, and we'll map them using the mappings and [node:setup/user-data/phd-manager/organisational-structure:organisational structure] you provide.
+
+You can name the fields to match the names in your systems, which may assist you in working with the feed.
+

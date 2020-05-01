@@ -60,8 +60,6 @@ and optionally,
 * Project title
 * Scholarship/studentship information
 * Programme of study
-* Mode (full time or part time)
-* Status (active, suspended, etc)
 
 
 h3. Additional data and revisions to user feed
