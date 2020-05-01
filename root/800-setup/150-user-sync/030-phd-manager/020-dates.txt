@@ -3,7 +3,7 @@ title: Other dates
 
 You will need to provide information about key dates for current Postgraduate Researchers. The only required date, which is vital for correct calculations, is the project end. Other dates are optional, except in cases where date calculations use previous milestones as an input.
 
-Note that information on [node:setup/user-sync/phd-manager/user-data/suspensions-and-extensions] is required for all current Postgraduate Researchers.
+Note that information on [node:setup/user-sync/phd-manager/suspensions-and-extensions] is required for all current Postgraduate Researchers.
 
 Files may be in any reasonable structure in "JSON, XML or TSV":https://docs.haplo.org/import/control/files#File_formats.
 

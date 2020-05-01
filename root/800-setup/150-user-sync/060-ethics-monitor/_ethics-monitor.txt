@@ -1,4 +1,5 @@
 title: Ethics Monitor
+long_title: Ethics Monitor user data
 --
 
 h2. Required data
