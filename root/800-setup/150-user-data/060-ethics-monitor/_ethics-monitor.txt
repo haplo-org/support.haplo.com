@@ -12,6 +12,15 @@ Data will typically be sourced from your student records system and HR system. A
 * Organisational unit
 * Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student)
 
+See the [node:setup/user-data/ethics-monitor/example:example user feed file].
+
+
+h2. Categories of user
+
+You should include administrative staff and academic researchers in the feed. If Postgraduate Researchers will submit ethics applications, they should all be included in the feed.
+
+Where taught students submit ethics applications, you must either filter the users to just the students who will submit applications, or configure Ethics Monitor to create their accounts when they first log in.
+
 
 h2. Organisational structure
 

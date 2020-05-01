@@ -1,0 +1,51 @@
+title: Example
+long_title: Example Ethics Monitor user feed file
+--
+
+[SNIPPET setup/example-intro]
+
+<pre>language=json
+[
+    {
+        "username": "jb124",
+        "nameFirst": "Joe",
+        "nameMiddle": "X",
+        "nameLast": "Bloggs",
+        "email": "jb@example.org",
+        "orgUnit": "E8217",
+        "category": "researcher"
+    },
+    {
+        "username": "js991",
+        "nameFirst": "Jane",
+        "nameLast": "Smith",
+        "email": "jsmith@example.org",
+        "orgUnit": "W38222",
+        "category": "pgr",
+        "thesisTitle": "Customs in medieval ...",
+        "supervisors": [
+            "jb124",
+            "mw281",
+            "is829"
+        ]
+    }
+]
+</pre>
+
+Organisational unit and category should use the codes in your systems, and we'll map them using the mappings and [node:setup/user-data/ethics-monitor/organisational-structure:organisational structure] you provide.
+
+You can name the fields to match the names in your systems, which may assist you in working with the feed.
+
+
+h3. Postgraduate Researchers
+
+If Postgraduate Researchers will submit ethics applications, you will typically need to include details of their supervisors and thesis title in the feed.
+
+The search record in the example below is for a Postgraduate Researcher. Supervisors are specified by username.
+
+
+h3. Taught students
+
+If taught students will submit ethics applications, you must either filter the users to just the students who will submit applications, or configure Ethics Monitor to create their accounts when they first log in.
+
+Generally information about taught student supervisors is not easily available, and students include the name of their supervisor in their ethics application.
