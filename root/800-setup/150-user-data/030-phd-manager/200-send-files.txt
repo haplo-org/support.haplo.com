@@ -10,7 +10,7 @@ Include:
 * mappings for any codes used in the data files
 * verification file (submission deadline)
 * one-off historic import  of suspensions, extensions, changes of mode
-* one-off historic import of past postgraduate researchers
+* one-off historic import of past Postgraduate Researchers
 
 The Haplo team will then write your initial control file for you to complete.
 

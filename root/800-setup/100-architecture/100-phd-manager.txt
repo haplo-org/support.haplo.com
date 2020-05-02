@@ -2,7 +2,7 @@ title: PhD Manager
 long_title: Special architectural considerations for PhD Manager
 --
 
-Unlike student records systems, PhD Manager is capable of managing highly individual student journeys during Postgraduate Research projects. As such, it is important that the integration architecture is set up in such a way that PhD Manager's full capabilities are available to the institution, while ensuring that the student records system continues to provide key reporting functionality.
+Unlike student records systems, PhD Manager is capable of managing highly individual student journeys during postgraduate research projects. As such, it is important that the integration architecture is set up in such a way that PhD Manager's full capabilities are available to the institution, while ensuring that the student records system continues to provide key reporting functionality.
 
 
 h3. Student records system is system of record
@@ -16,7 +16,6 @@ The following data is best managed directly in PhD Manager, and we would recomme
 
 * Project supervisors (as usernames)
 * Project title
-* Scholarship/studentship information
 
 Where this data is used for additional processes outside of the scope of your PhD Manager implementation, these fields may be managed in the student records system.
 

@@ -10,7 +10,7 @@ Details of historical suspensions and extensions for current Postgraduate Resear
 
 Upload the following information via your Project Room:
 
-* username of PhD researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
 * type of record, either @suspension@ or @extension@
 * start date of suspension period
 * end date of suspension period

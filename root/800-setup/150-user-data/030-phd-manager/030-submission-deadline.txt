@@ -10,7 +10,7 @@ Please provide the end dates for all current Postgraduate Researchers so we  can
 Upload the following information in a single file via your Project Room:
 
 * username of Postgraduate Researcher (to match the username in the PhD Manager user sync)
-* end date of project
+* end date of project.
 
 End dates may be provided in any consistent, machine-readable format.
 

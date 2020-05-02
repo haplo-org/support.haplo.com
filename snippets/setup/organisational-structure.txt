@@ -1,7 +1,7 @@
 
 As well as the data about users, we need to know your organisational structure. Please provide this in any format that is convenient, but make sure:
 
-* The hierarchy is clear, and
+* the hierarchy is clear, and
 
 * it includes the codes used to identify the organisational units in the data files.
 

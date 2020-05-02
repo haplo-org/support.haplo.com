@@ -10,7 +10,7 @@ Data will typically be sourced from your student records system and HR system. A
 * Username/ID - must be unique and not change throughout the person's time at the university
 * Email - it is recommended that these are unique for a record
 * Organisational unit
-* Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student)
+* Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student.)
 
 See the [node:setup/user-data/ethics-monitor/example:example user feed file].
 
