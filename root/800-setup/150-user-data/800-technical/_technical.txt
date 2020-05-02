@@ -1,0 +1,9 @@
+title: Technical details
+class: DocNodeTextileWithTOC
+--
+
+This is the reference documentation for working with user data in Haplo applications.
+
+The Haplo team will send you links to the relevant documentation when you need it during the implementation project.
+
+In addition, you may find the [node:setup/integrations:integration strategies] overview useful.

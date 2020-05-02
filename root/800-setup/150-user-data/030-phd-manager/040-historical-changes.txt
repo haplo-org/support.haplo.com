@@ -1,0 +1,53 @@
+title: Historical changes
+--
+
+Information about suspensions and extensions for *current* Postgraduate Researchers is essential for the correct functioning of the date calculations. This information is not required for Postgraduate Researchers who have completed or withdrawn.
+
+
+h2. Previous suspensions and extensions
+
+Details of historical suspensions and extensions for current Postgraduate Researchers must be provided, as without this information, the submission deadline will be incorrect.
+
+Upload the following information via your Project Room:
+
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
+* type of record, either @suspension@ or @extension@
+* start date of suspension period
+* end date of suspension period
+
+For extensions, send either:
+
+* the initial submission date and revised submission date; or 
+* initial/revised submission date together with the length of the extension.
+
+
+h2. Changes of mode
+
+While it is not essential, it is recommended that you provide data on the previous changes of mode of current Postgraduate Researchers. This helps with validating the calculation of project dates for these students.
+
+Please provide a file with records containing the following fields:
+
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
+* date of change
+* mode before change
+* mode after change
+
+
+h2. Historical milestone
+
+If milestones, such as previous annual progress reviews, are available and relevant, they can be provided in a single file with the following fields:
+
+* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
+* kind of milestone
+* date of milestone
+
+The milestone 'kind' can be any reasonable description of the milestone, either a code or a human readable name.
+
+
+h2. Data files
+
+These files may be in any reasonable structure in "JSON, XML or TSV":https://docs.haplo.org/import/control/files#File_formats.
+
+Date fields may be provided in any consistent, machine-readable format.
+
+

@@ -1,0 +1,5 @@
+title: Organisational structure
+--
+
+[SNIPPET setup/organisational-structure]
+

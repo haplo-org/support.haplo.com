@@ -1,0 +1,22 @@
+title: Integration architecture
+--
+
+Haplo applications are integrated into the institution's system and information architecture. They provide a large degree of flexibility in how they can be configured to work effectively within the wider infrastructure.
+
+The Haplo team will provide advice during requirements gathering about the best approach for your institution's individual circumstances.
+
+
+h3. 1) System of record
+
+For each field within the overall records about people and projects, a system of record must be chosen, so that each piece of information is maintained within a single system.
+
+
+h3. 2) Integrations
+
+Once the system of record has been determined, [node:setup/integrations:integrations] must be designed to ensure data flows accurately between systems.
+
+
+h2. Special considerations
+
+[node:setup/architecture/phd-manager:Considerations for PhD Manager deployments]
+

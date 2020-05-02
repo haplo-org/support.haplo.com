@@ -1,9 +1,7 @@
 title: Managing users with APIs
-long_title: How do I manage users via APIs?
-use_long_title_for_toc: yes
 --
 
-Typically, all users are managed via the [node:setup/user-sync]. This page explains how to use APIs to manage users instead.
+Typically, all users are managed via the [node:setup/user-data]. This page explains how to use APIs to manage users instead.
 
 In Haplo products, there is a separation of a "user":https://docs.haplo.org/plugin/interface/security-principal and a person's "object", which is the profile of the person that users see in the application. For example, it is possible for a person object to exist in the system without a user attached to it in the cases where that person does not require access to the system. Similarly, it is possible to have a user without a profile in the system.
 

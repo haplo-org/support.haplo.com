@@ -1,9 +1,0 @@
-title: Automating
-long_title: Automating the sync
---
-
-You will need to write an automated process to upload data files. Usually this will run once a day, and will need to create a scheduled job to generate the data files and run the upload script. The data files should include all the information, and the Haplo applications automatically works out the changes when applying the user sync.
-
-Ideally we would like to test this in a test environment before going live.
-
-The live environment will use a separate hostname and API key to the test environment, so your deployment method should make these configurable.

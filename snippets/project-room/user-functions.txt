@@ -8,14 +8,14 @@ Please *do not* send files by email.
 
 h2. Documents
 
-All documentation, specifications and requirements will be uploaded to the Project room. Click _All documents_ on the left to view the document library.
+All documentation, specifications and requirements will be uploaded to the Project room. Click _All documents_ on the left to view the document library, then the project name on the left to see documentation for a specific project.
 
 
 h2. Form builder
 
 Most of your processes will ask users to complete forms.
 
-We'll set up the forms you need in the Project Room, and then you'll use the Form Builder in the Project Room to create and edit your forms. Click the _Forms..._ button on the home page.
+We'll set up the forms you need in the Project Room, and then you'll use the Form Builder in the Project Room to create and edit your forms. Select the relevant project on the left, then a configuration option to view the forms for that function.
 
 After you have edited the forms, Haplo will transfer them to your test or live applications after a quick technical check.
 

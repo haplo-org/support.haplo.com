@@ -1,7 +1,46 @@
-h2. Organisational structure
 
 As well as the data about users, we need to know your organisational structure. Please provide this in any format that is convenient, but make sure:
 
-* The hierarchy is clear, and
+* the hierarchy is clear, and
 
-* it includes codes used to identify the organisational units in the data files.
+* it includes the codes used to identify the organisational units in the data files.
+
+Each academic user should be a member of one of the organisational units described in this structure. In most cases, administrative staff do not need an organisational unit.
+
+h3. Example
+
+An organisation structure could be supplied as a spreadsheet such as: 
+
+|*Code*|*Parent*|*Name*|
+|U000||University of Example|
+|S000|U000|Science and Technology|
+|S100|S000|Computer Science|
+|S102|S100|Engineering|
+|S923|S100|Civil Engineering|
+|S650|S100|Architecture|
+|L002|S000|Life Sciences|
+|L006|L002|Medical|
+|H002|U000|Humanities|
+|H200|H002|English|
+|H205|H200|Literature|
+|H304|H002|Law|
+|H302|H002|Politics|
+
+The *Code* is the value which appears in the user feed file. *Parent* is the code of the parent organisational unit in the hierarchy. *Name* is the name which should be displayed to the user.
+
+The above example represents the following structure:
+
+* University of Example
+** Science and Technology
+*** Computer Science
+*** Engineering
+**** Civil Engineering
+**** Architecture
+*** Life Sciences
+*** Medical
+** Humanities
+*** English
+**** Literature
+*** Law
+*** Politics
+

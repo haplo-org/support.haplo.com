@@ -1,0 +1,43 @@
+title: Ethics Monitor
+long_title: Ethics Monitor user data
+--
+
+h2. Required data
+
+Data will typically be sourced from your student records system and HR system. At the very minimum, you need to provide:
+
+* Name - separated into first, middle, and last name fields
+* Username/ID - must be unique and not change throughout the person's time at the university
+* Email - it is recommended that these are unique for a record
+* Organisational unit
+* Category of user: Academic staff, Non-academic staff, Postgraduate Researcher (student), (and if taught students are submitting ethics applications via Ethics Monitor also include Postgraduate Taught Student, and Undergraduate Student.)
+
+See the [node:setup/user-data/ethics-monitor/example:example user feed file].
+
+
+h2. Categories of user
+
+You should include administrative staff and academic researchers in the feed. If Postgraduate Researchers will submit ethics applications, they should all be included in the feed.
+
+Where taught students submit ethics applications, you must either filter the users to just the students who will submit applications, or configure Ethics Monitor to create their accounts when they first log in.
+
+
+h2. Organisational structure
+
+The [node:setup/user-data/ethics-monitor/organisational-structure:organisational structure] must be supplied along with the initial data files.
+
+
+h2. Providing the data
+
+Upload your files to the [node:setup/project-room:Project Room] using the *User Feed setup* task, which will have been assigned to your technical lead for the project.
+
+Include:
+
+* initial user data file containing details of staff and students
+* organisational structure
+* mappings for any codes used in the data files
+
+The Haplo team will then write your initial control file for you to complete.
+
+After we have the initial data, we will write the first version of the [node:setup/user-data/technical/control-file:control file], and hand it over to you for fine tuning.
+
