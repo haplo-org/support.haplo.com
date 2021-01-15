@@ -21,6 +21,8 @@ h2. Log
 
 Postgraduate researchers are invited to institutional events and can respond via the system.
 
+[IMAGE training-event-f.png RSVP event]
+
 These events are logged and the attendance record displayed.
 
 External events can be added by postgraduate researchers.
@@ -28,3 +30,9 @@ External events can be added by postgraduate researchers.
 The log can be downloaded.
 
 [IMAGE training-log-f.png Development Log]
+
+h2. Calendar
+
+Future events are visible via the calendar.
+
+[IMAGE training-calendar-f.png Calendar]
