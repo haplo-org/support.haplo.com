@@ -9,6 +9,12 @@ Haplo supports the current and previous versions of the following web browsers:
 * Google Chrome
 * Microsoft Edge
 
+These browsers are supported on the following platforms:
+
+* Windows (PC)
+* macOS (Apple)
+* Another other platform supported by the browser vendor
+
 In addition, there is support for:
 
 * Microsoft Internet Explorer 11
