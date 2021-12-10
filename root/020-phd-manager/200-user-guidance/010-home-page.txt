@@ -1,5 +1,5 @@
 title: Home page
-long_title: PhD Manager Home page
+long_title: Graduate Education Manager Home page
 class: DocNodeTextileWithTOC
 --
 

@@ -1,8 +1,8 @@
 title: Getting started
-long_title: PhD Manager Administrators Getting started
+long_title: Graduate Education Manager Administrators Getting started
 --
 
-h2. Finding your way around PhD Manager
+h2. Finding your way around Graduate Education Manager
 
 h3. Along the top
 
@@ -36,7 +36,7 @@ h3. Down the left side
 
 h3. How to access dashboards
 
-PhD Manager's dashboards will be your primary way to access information on Postgraduate Researchers in your instituiton. Access the dashboards via the 'Doctoral College' link on the right or centre of your home page (depending on your institution's configuration of the homepage.)
+Graduate Education Manager's dashboards will be your primary way to access information on Postgraduate Researchers in your instituiton. Access the dashboards via the 'Doctoral College' link on the right or centre of your home page (depending on your institution's configuration of the homepage.)
 
 
 

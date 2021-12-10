@@ -1,4 +1,4 @@
-The Haplo Form Builder enables you to design create your online forms for inclusion in PhD Manager, Ethics Monitor and other Haplo products.
+The Haplo Form Builder enables you to design create your online forms for inclusion in Graduate Education Manager, Ethics Monitor and other Haplo products.
 
 The Form Builder is accessed via your Haplo Project Room, select 'Forms' on the right of your Project Room homepage.
 
@@ -19,7 +19,7 @@ h3. Fields on a new form
 Where you know the names for tabs you can add them when initially creating the main form page if you wish. These can be changed later.
 * Confirm statements - statements that must be confirmed before the form / application can be submitted
 e.g. I have included all relevant information in your application and uploaded all supporting files.
-* Project - which system should these forms be linked to e.g. Ethics Monitor or PhD Manager Implementation
+* Project - which system should these forms be linked to e.g. Ethics Monitor or Graduate Education Manager Implementation
 * Guidance note - information presented to the user before they start completing the form. This could include links to training materials, regulations to be followed, information to consider while completing the form, etc.
 * Notes - leave notes for the Haplo developer here e.g.  - Only show Tab X when Question Y is answered yes, This form is sent to the supervisor only following a resubmission.
 

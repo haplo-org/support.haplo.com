@@ -2,7 +2,7 @@ title: Platform & Integration
 class: DocNodeTextileWithTOC
 --
 
-The Haplo team will work with your institutional IT team to setup and integrate the Haplo platform prior to implementing Haplo Research Manager, PhD Manager, or Ethics Monitor. 
+The Haplo team will work with your institutional IT team to setup and integrate the Haplo platform prior to implementing Haplo Research Manager, Graduate Education Manager, or Ethics Monitor. 
 
 During the setup process, Haplo will provide you with a Project Room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:setup/project-room].
 

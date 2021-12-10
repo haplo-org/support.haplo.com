@@ -1,5 +1,5 @@
 title: User Guidance
-long_title: PhD Manager User Guidance
+long_title: Graduate Education Manager User Guidance
 class: DocNodeTextileWithTOC
 --
 

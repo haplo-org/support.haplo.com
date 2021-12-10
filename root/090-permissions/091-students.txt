@@ -6,7 +6,7 @@ h2. Permissions applied to common roles
 
 The roles used in Haplo vary between institutions and the permissions applied to those roles can also vary between institutions. The descriptions below are the common roles and common permissions used by most institutions. 
 
-Access to PhD Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
+Access to Graduate Education Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
 
 
 h3. Postgraduate researcher
@@ -14,7 +14,7 @@ h3. Postgraduate researcher
 Can access data directly related to their own project. 
 Can view basic information (name, email, department) on staff and student profiles.
 
-h4. PhD Manager
+h4. Graduate Education Manager
 
 Can view data on their project record except any fields which are restricted because they are only visible to the Graduate Office or other staff and not shown to the student.
 

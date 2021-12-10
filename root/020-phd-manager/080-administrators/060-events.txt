@@ -2,7 +2,7 @@ title: Events
 long_title: Managing training and development events
 --
 
-PhD Manager supports training and development for Postgraduate Researchers by streamlining *organising training and development events* and providing Postgraduate Researchers with a *training needs analysis* and *training plan* tool. 
+Graduate Education Manager supports training and development for Postgraduate Researchers by streamlining *organising training and development events* and providing Postgraduate Researchers with a *training needs analysis* and *training plan* tool. 
 
 h2. Managing training and development events
 

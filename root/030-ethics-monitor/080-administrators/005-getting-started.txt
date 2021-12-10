@@ -28,7 +28,7 @@ h3. Down the left side
 
 *Directories of Faculties/Departments/Schools* are automatically created based on the Faculties/Departments/Schools which are sent to Haplo via your data feed.
 
-*Calendar* lists upcoming events for Postgraduate Researchers (if your institution subscribes to PhD Manager.) 
+*Calendar* lists upcoming events for Postgraduate Researchers (if your institution subscribes to Graduate Education Manager.) 
 
 *Committees* lists all committees. 
 

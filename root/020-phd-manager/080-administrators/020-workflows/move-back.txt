@@ -9,4 +9,4 @@ Where this is not possible, for example, when a user makes an error, authorised 
 [SNIPPET administrators/workflow-move-back]
 
 [SNIPPET administrators/workflow-move-back-permission]
- * PhD Manager Administrators
+ * Graduate Education Manager Administrators

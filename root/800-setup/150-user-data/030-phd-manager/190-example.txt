@@ -1,5 +1,5 @@
 title: Example user feed file
-long_title: Example PhD Manager user feed file
+long_title: Example Graduate Education Manager user feed file
 --
 
 [SNIPPET setup/example-intro]
