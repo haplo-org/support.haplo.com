@@ -2,7 +2,7 @@ title: External users
 long_title: Managing access for external supervisors and external examiners
 --
 
-External supervisors and external examiners can be given access to PhD Manager. 
+External supervisors and external examiners can be given access to Graduate Education Manager. 
 
 The appointment of an external supervisor or external examiner is normally confirmed during a workflow. Upon confirmation, a task is sent to members of the Doctoral College Office prompting them to arrange access for the external user. 
 

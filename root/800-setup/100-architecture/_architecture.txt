@@ -18,5 +18,5 @@ Once the system of record has been determined, [node:setup/integrations:integrat
 
 h2. Special considerations
 
-[node:setup/architecture/phd-manager:Considerations for PhD Manager deployments]
+[node:setup/architecture/phd-manager:Considerations for Graduate Education Manager deployments]
 

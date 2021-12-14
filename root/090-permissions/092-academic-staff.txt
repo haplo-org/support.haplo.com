@@ -4,7 +4,7 @@ long_title: Common roles for academic staff
 
 The roles used in Haplo vary between institutions and the permissions applied to those roles can also vary between institutions. The descriptions below are the common roles and common permissions used by most institutions. 
 
-Access to PhD Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
+Access to Graduate Education Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
 
 
 h2. Academic staff
@@ -15,7 +15,7 @@ Receives notifications when required to take an action.
 Receives a weekly reminder of outstanding tasks.
 
 
-h3. PhD Manager
+h3. Graduate Education Manager
 
 *Supervisor*
 

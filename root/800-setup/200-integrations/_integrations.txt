@@ -73,7 +73,7 @@ h2. Data import
 
 Data can be imported at any time using the "batch import":https://docs.haplo.org/import/batch mechanism.
 
-During the implementation project, Haplo will work with you to import any historical data, such as that needed for [node:setup/user-data/phd-manager:PhD Manager's data calculations and full project record].
+During the implementation project, Haplo will work with you to import any historical data, such as that needed for [node:setup/user-data/phd-manager:Graduate Education Manager's data calculations and full project record].
 
 After go-live, test environments are provided to map data models and test data import before it is imported to the live application. Please contact the Haplo support desk for assistance.
 

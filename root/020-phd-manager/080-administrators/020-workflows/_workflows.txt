@@ -1,10 +1,10 @@
 title: Workflows
-long_title: PhD Manager Workflows
+long_title: Graduate Education Manager Workflows
 --
 
 h2. Understanding workflows
 
-Workflows streamline the approval process for online forms. Within PhD Manager, workflows are often used for progression reviews, applications to transfer from MPhil to PhD registration, requests to change registration status (change of mode, suspension, extension), and for the various forms and approvals required during an examination process. 
+Workflows streamline the approval process for online forms. Within Graduate Education Manager, workflows are often used for progression reviews, applications to transfer from MPhil to PhD registration, requests to change registration status (change of mode, suspension, extension), and for the various forms and approvals required during an examination process. 
 
 h3. Designing workflows
 
@@ -12,7 +12,7 @@ The Haplo team will work with you to design the forms, workflows and outcome not
 
 h3. Starting a workflow
 
-Usually the Postgraduate Researcher starts a workflow by submitting an online form. For some workflows, such as change of supervisory team, the supervisor initiaties the workflow. The relevant user can be reminded before deadlines to start a workflow via PhD Manager's Project dates and alerts engine. 
+Usually the Postgraduate Researcher starts a workflow by submitting an online form. For some workflows, such as change of supervisory team, the supervisor initiaties the workflow. The relevant user can be reminded before deadlines to start a workflow via Graduate Education Manager's Project dates and alerts engine. 
 
 h3. Viewing the status of workflows
 
@@ -61,7 +61,7 @@ Usually emails are not sent to members of the Doctoral College Office to notify 
 h3. Frequently asked questions
 
 *The task is stuck with a user who is absent, can I move it to another user?*
-Tasks can be redirected by changing the user associated with the role which is currently responsible for completing the task for the workflow. For example, in PhD Manager, if an Assessor can no longer perform the role, Edit the Assessment record to remove the current Assessor and Add a new Assessor. Upon saving, any tasks that were assigned to the previous Assessor will automatically move to the new Assessor.  
+Tasks can be redirected by changing the user associated with the role which is currently responsible for completing the task for the workflow. For example, in Graduate Education Manager, if an Assessor can no longer perform the role, Edit the Assessment record to remove the current Assessor and Add a new Assessor. Upon saving, any tasks that were assigned to the previous Assessor will automatically move to the new Assessor.  
 
 *A new colleague is taking over in a role, will they automatically inherit all tasks sent to the user previously responsible for the role?*
 Yes, when a user performing a role is replaced by another user, any outstanding tasks automatically move to the new user. For instance, if a lead supervisor is replaced on a supervisory team, the new lead supervisor will automatically see all outstanding tasks in their task list and can action them as normal. 

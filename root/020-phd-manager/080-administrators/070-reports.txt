@@ -8,7 +8,7 @@ For users with responsibility specific to a faculty or school, only details of P
 
 Information can be downloaded from each dashboard in excel format.
 
-In addition to PhD Manager standard dashboards (detailed below), instituitons can request custom dashboards and reports by contacting client.support@haplo.com 
+In addition to Graduate Education Manager standard dashboards (detailed below), instituitons can request custom dashboards and reports by contacting client.support@haplo.com 
 
 h3. Directories
 
