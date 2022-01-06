@@ -8,55 +8,31 @@ View the data model for your specific application here:
 
 CLICK_PATH TOOLS > Data import > Models > haplo:user-sync
 
-Because of your institution's unique requirements, there will be additions to the generic data model.
-
-
-h2. PhD researcher group
-
-The @groups@ Name of the @user@ Destination must include @phd:group:doctoral-researchers@ for Postgraduate Researchers.
-
-
 h2. Project title
 
-The project will need a title. The user sync must either sync it from the student records system, or provide a default. The following instructions, when placed at the end of the control file, will set a project title, but not modify anything that's been set in Graduate Education Manager.
-
-<pre>language=json
-{
-    "action": "if-has-value",
-    "destination": "phd:project",
-    "name": "dc:attribute:title",
-    "else": [
-        {
-            "action": "set-value",
-            "destination": "phd:project",
-            "name": "dc:attribute:title",
-            "value": "Doctoral Research Project"
-        }
-    ]
-}
-</pre>
+The project will need a title. The user sync must either sync it from the student information system, or provide a default value. 
 
 
 h2. Status, mode and programme
 
-The @phd:project@ Destination is the project record. If the student records system is the system of record for this data, you will set:
+The @phd:project@ Destination is the project record. If the student information system is the system of record for this data, you will set:
 
 @phd:attribute:doctoral-research-project-status@ to say whether the project is Active, Suspended, etc.
 
 @phd:attribute:project-mode@ for whether the project is full or part time.
 
-@phd:attribute:doctoral-research-project-type@ for the kind of project, eg PhD, MPhil, etc.
+@phd:attribute:doctoral-research-project-type@ for the award type, eg PhD, MPhil, etc.
 
 Each of these is likely to have been customised with options specific to your institution.
 
-You need to "map the codes":https://docs.haplo.org/import/control/mapping to Graduate Education Manager's codes. If you've selected these fields in the control file generator, a starting point for your mappings will be in your control file. Or you can click the _Map_ link in the Data Model page to generate a mapping and see the options available.
+Once the initial control file is provided by Haplo, you will need to "map the codes":https://docs.haplo.org/import/control/mapping to Graduate Education Manager's codes.
 
 
 h2. Supervisors
 
-In the @phd:project:supervisors@, @phd:project:advisors@ and @phd:project:chairs@ Destinations, there are fields for the various people supervising the PhD researcher.
+In the @phd:project:supervisors@, @phd:project:advisors@ and @phd:project:chairs@ Destinations, there are fields for the various people supervising the student.
 
-@supervisor0@ to @supervisor3@ are the supervisory roles who are directly involved in the supervision of the PhD researcher, and will participate in approval workflows.
+@supervisor0@ to @supervisor3@ are the supervisory roles who are directly involved in the supervision of the student, and will participate in approval workflows.
 
 @supervisor0@ is a traditional primary supervisor or "director of studies", and the other supervisors are secondary supervisors. It's important that you have a supervisor in the @supervisor0@ role, and rename the supervisor roles in the user interface to match your institution's terminology.
 
@@ -66,17 +42,19 @@ In the @phd:project:supervisors@, @phd:project:advisors@ and @phd:project:chairs
 
 Supervisors are set with the _username_ of the supervisor, which the user sync will turn into a link to the supervisor's profile.
 
-Each of these *Names* is multi-value. If multiple supervisors are set in a Name, they will be sorted by username so each run is consistent. Remember to use @"multivalue":true@ in the instruction when using multi-value supervisors.
+Each of these *Names* is multi-value. If multiple supervisors are set in a Name, they will be sorted by username so each run is consistent.
 
 A reasonable strategy is to set the primary supervisor in @supervisor0@, and all the other supervisors in a multi-value @supervisor1@.
 
-If any supervisors are mentioned in the feed, all the supervisors on the record are removed and replaced. If you're managing supervisors entirely within Graduate Education Manager, you *should not* use the @phd:project:supervisors@ Destination to avoid wiping important data.
+If any supervisors are mentioned in the sync, all the supervisors on the record are removed and replaced.
+
+If supervisors are managed entirely within Graduate Education Manager, the @phd:project:supervisors@ Destination *should not* be used to avoid wiping important data.
 
 
 h2. Project dates
 
 The @phd:project:dates@ Destination allows you to set the project dates for the project. You should always set the <tt>project-start@actual</tt> date so Graduate Education Manager knows the starting date of the project.
 
-Generally Graduate Education Manager will calculate all the other dates based on this start date and the properties of the project, such as mode and programme. In this case you should avoid using any other dates, as they will prevent the dates rules engine being able to properly recalculate dates.
+Graduate Education Manager will calculate all the other dates based on this start date and the properties of the project, such as mode and programme. In this case you should avoid using any other dates, as they will prevent the dates rules engine being able to properly recalculate dates.
 
 Please talk to the Haplo team if you need to set other dates so we can advise on the best way to configure your application.

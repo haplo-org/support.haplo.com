@@ -12,7 +12,7 @@ The Haplo team will work with you to design the forms, workflows and outcome not
 
 h3. Starting a workflow
 
-Usually the Postgraduate Researcher starts a workflow by submitting an online form. For some workflows, such as change of supervisory team, the supervisor initiaties the workflow. The relevant user can be reminded before deadlines to start a workflow via Graduate Education Manager's Project dates and alerts engine. 
+Usually the student starts a workflow by submitting an online form. For some workflows, such as change of supervisory team, the supervisor initiates the workflow. The relevant user can be reminded before deadlines to start a workflow via Graduate Education Manager's Project dates and alerts engine. 
 
 h3. Viewing the status of workflows
 
@@ -52,11 +52,11 @@ Guidance notes can display alongside a question indicated by an 'i' in a circle 
 
 h2. Understanding tasks
 
-As workflows in Haplo progress, they require actions from users. Users are alerted to take action via an email notificaiton and a task appearing in their Tasks list within Haplo. 
+As workflows in Haplo progress, they require actions from users. Users are alerted to take action via an email notification and a task appearing in their Tasks list within the system. 
 
-h3. Tasks to the Doctoral College Office
+h3. Tasks to the Graduate School
 
-Usually emails are not sent to members of the Doctoral College Office to notify them of tasks due to the high level of emails this would create, these users would still see the task in their task list. Normally tasks are sent to one user at a time. However, where users work as part of a team, such as the Doctoral College Office, every member of the team can view and action the same list of tasks. 
+Usually emails are not sent to members of the Graduate School to notify them of tasks due to the high level of emails this would create, these users would still see the task in their task list. Normally tasks are sent to one user at a time. However, where users work as part of a team, such as the Graduate School, every member of the team can view and action the same list of tasks. 
 
 h3. Frequently asked questions
 

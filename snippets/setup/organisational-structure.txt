@@ -1,5 +1,5 @@
 
-As well as the data about users, we need to know your organisational structure. Please provide this in any format that is convenient, but make sure:
+As well as the data about users, we need to know your organisational structure. Please provide this via the [node:setup/project-room] using the *Institutional structure* task, which will have been assigned to your technical lead for the project. This can be provided in any convenient format, but make sure:
 
 * the hierarchy is clear, and
 

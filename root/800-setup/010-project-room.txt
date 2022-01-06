@@ -1,12 +1,12 @@
 title: Project Room
 --
 
-When the implementation project begins, Haplo will create a Project Room to help us work together with document management, secure file transfers, and access to test environments.
+When the implementation project begins, our team will create a Project Room to help us work together with document management, secure file transfers, and access to test environments.
 
 
 h2. Security
 
-This Project Room is hosted on the same infrastructure as the live environment, using the same ISO27001 certified information security management system, making it suitable for transferring any data that will be managed by your live Haplo application.
+This Project Room is hosted on the same infrastructure as the live environment, using the same ISO27001 certified information security management system, making it suitable for transferring any data that will be managed by your live application.
 
 
 h2. Managing access
@@ -25,7 +25,7 @@ h2. Sending secrets
 
 You may need to send us secret information, for example passwords and API keys to other institutional system, and a test user in your identity management system.
 
-On the home page, click the _Send secrets..._ button, and fill in the form. After you have saved the secret, the account details (eg username) will be visible to anyone, but the secret (eg password) will only be visible to technical members of the Haplo team. All access to the secret information is audited.
+On the home page, click the _Send secrets..._ button, and fill in the form. After you have saved the secret, the account details (e.g. username) will be visible to anyone, but the secret (e.g. password) will only be visible to technical members of the Haplo team. All access to the secret information is audited.
 
 
 [SNIPPET project-room/user-functions]

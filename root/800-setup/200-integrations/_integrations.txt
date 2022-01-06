@@ -1,4 +1,4 @@
-title: Integrations
+title: Data integrations
 --
 
 There are several options for integrating Haplo applications within the wider institutional infrastructure.
@@ -8,7 +8,7 @@ As part of the implementation project, the Haplo team will discuss the required 
 
 h2. User access
 
-The recommended approach is to use the [node:setup/user-data:user sync] mechanism to send batch files on a schedule. These files contain all active users, and Haplo works out the users to create and block as users enter and leave the feed.
+The recommended approach is to use the [node:setup/user-data:user sync] mechanism to send batch files on a schedule. These files contain all active users and information about their project.
 
 Alternatively, the "Users REST API":https://docs.haplo.org/rest-api/users and the generic "Data Import REST API":https://docs.haplo.org/import/rest-api can be used together to [node:setup/user-data/technical/user-api:maintain the active user accounts and associated data]. The Users API maintains the underlying user accounts, and the Data Import API syncs the same data as the [node:setup/user-data].
 
@@ -16,14 +16,14 @@ In all cases, username information must be provided so that users can log on usi
 
 h3. User roles
 
-Typically the user feed will only contain the broad category of user, for example, Academic Researcher, Professional Services and Doctoral Researcher. More specific user roles are maintained inside the Haplo application by privileged users using the [node:permissions:administrative user interface].
+Typically the user sync will only contain the broad category of user, for example, Academic Researcher, Professional Services and Doctoral Researcher. More specific user roles are maintained inside the Haplo application by privileged users using the [node:permissions:administrative user interface].
 
 The authority to assign specific roles can be delegated, for example, Committee Representatives can maintain the list of the members of their committee.
 
 
 h2. Updating other systems from Haplo
 
-There is often a requirement to update other institutional systems as information changes in the Haplo application, for example, updating information in the Student Records System.
+There is often a requirement to update other institutional systems as information changes in the Haplo application, for example, updating data stored in the Student Information System.
 
 h3. Automatic feeds from Haplo
 
@@ -44,6 +44,14 @@ h2. Updating Haplo from other systems
 To sync data from other systems, for example Research Projects and their status, use the "Data Import REST APIs":https://docs.haplo.org/import/rest-api.
 
 Information about users should generally use a strategy from the _User access_ section above, but this can be augmented with the Data Import REST APIs as long as only one method is used to update each bit of information.
+
+h2. Data import
+
+Data can be imported at any time using the "batch import":https://docs.haplo.org/import/batch mechanism.
+
+During the implementation project, Haplo will work with you to import required historical data, such as data needed for [node:setup/user-data/phd-manager:Graduate Education Manager's setup].
+
+After go-live, test environments are provided to map data models and test data import before it is imported to the live application. Please contact the client support for assistance.
 
 
 h2. Reporting and Business Intelligence
@@ -67,15 +75,6 @@ h2. Notifications
 To record all official notifications, use the "global observation message queue":https://docs.haplo.org/dev/global-observation and record the notification text as workflows progress.
 
 In addition, the [node:setup/email-relay] can be used to archive a copy of all email sent from the application, as well as ensuring deliverability of notifications.
-
-
-h2. Data import
-
-Data can be imported at any time using the "batch import":https://docs.haplo.org/import/batch mechanism.
-
-During the implementation project, Haplo will work with you to import any historical data, such as that needed for [node:setup/user-data/phd-manager:Graduate Education Manager's data calculations and full project record].
-
-After go-live, test environments are provided to map data models and test data import before it is imported to the live application. Please contact the Haplo support desk for assistance.
 
 
 h2. Custom integration methods

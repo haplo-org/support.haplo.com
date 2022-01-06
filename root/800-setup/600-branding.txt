@@ -1,7 +1,7 @@
 title: Branding and colours
 --
 
-The application will be configured to apply the institution's branding and colours. We can pick the logo and colours from your corporate web site, or you can specify the branding you require.
+The application will be configured to apply the institution's branding and colours. You will be asked to specify the branding you require via a dedicated task within your Project Room.
 
 
 h2. Page header

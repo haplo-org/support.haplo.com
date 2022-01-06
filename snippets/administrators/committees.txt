@@ -5,11 +5,11 @@ h2. Understanding committees
 
 h3. Committee Representative role
 
-The Committee Representative performs a key role in administering committees  within Haplo. The Committee Representative receives automatic notifications of any items sent for review to the committee. They can return the item to the applicant for changes, schedule the item for discussion in an in-person committee meeting or for discussion via an online discussion, send the item for review to individual committee members and other reviewers, forward the item to the Chair to action, and send notifications of the outcome to the applicant. The role is often performed by the Committee Secretary, but can be undertaken by the Chair or other committee member.
+The Committee Representative performs a key role in administering committees within Haplo. The Committee Representative receives automatic notifications of any items sent for review to the committee. They can return the item to the applicant for changes, schedule the item for discussion in an in-person committee meeting or for discussion via an online discussion, send the item for review to individual committee members and other reviewers, forward the item to the Chair to action, and send notifications of the outcome to the applicant. The role is often performed by the Committee Secretary, but can be undertaken by the Chair or other committee member.
 
 To assign the Committee Representative, select 'Edit' in the top right of the Committee record. Add a new Committee Representative by selecting '+' to the left of the Committee representative field. Enter the name of the user and select their name from the list of users which appears. To remove Committee Representatives, select '-' on the right of the Committee Representative field. 
 
-Where more than one person supports the committe, multiple users can be added as Committee Representatives. Only the first Committee Representative listed will receive notification tasks. The other Committee Representatives listed will have the same visibility of applications and are able to 'take over' tasks from the first Committee Representative listed. 
+Where more than one person supports the committee, multiple users can be added as Committee Representatives. Only the first Committee Representative listed will receive notification tasks. The other Committee Representatives listed will have the same visibility of applications and are able to 'take over' tasks from the first Committee Representative listed. 
 
 h3. Managing committee membership
 

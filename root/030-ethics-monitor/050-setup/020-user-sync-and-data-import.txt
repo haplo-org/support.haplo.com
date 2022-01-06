@@ -1,5 +1,5 @@
-title: User sync and data import
-long_title: User sync and data import
+title: User sync and data integration
+long_title: User sync and data integration
 --
 
 Haplo commonly integrates with your institutional identity management system. 

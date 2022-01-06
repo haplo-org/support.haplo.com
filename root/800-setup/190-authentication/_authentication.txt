@@ -4,7 +4,7 @@ class: DocNodeTextileWithTOC
 
 Users are authenticated using the institution's identity management system. During setup, we need to configure both sides to delegate authentication in the hosted Haplo service to the institution.
 
-There are several options. We recommend the use of SAML2 based methods such as Shibboleth and AD FS, but also offer LDAP for legacy authentication.
+There are several options we can support (see below), but we recommend the use of SAML2 based methods such as Shibboleth and AD FS.
 
 In all cases, provision of a test account will speed up testing and deployment. This test account only needs to be able to successfully authenticate, and does not need access to any resources or services.
 

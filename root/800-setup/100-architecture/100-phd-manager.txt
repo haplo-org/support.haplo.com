@@ -5,9 +5,9 @@ long_title: Special architectural considerations for Graduate Education Manager
 Unlike student records systems, Graduate Education Manager is capable of managing highly individual student journeys during postgraduate research projects. As such, it is important that the integration architecture is set up in such a way that Graduate Education Manager's full capabilities are available to the institution, while ensuring that the student records system continues to provide key reporting functionality.
 
 
-h3. Student records system is system of record
+h3. Student information system is system of record
 
-As it's used to perform regulatory reports, typically the student record system will continue to be the system of record for some key information about the student. In this case, any workflows which request changes to this information will not actually make the change in Graduate Education Manager. A manual step, or an integration, will update the student records system. The next time the user sync runs, the field will be updated in Graduate Education Manager.
+As it's used to perform regulatory reports, typically the student information system will continue to be the system of record for some key information about the student. In this case, any workflows which request changes to this information will not actually make the change in Graduate Education Manager. A manual step, or an integration, will update the student records system. The next time the user sync runs, the field will be updated in Graduate Education Manager.
 
 
 h3. Graduate Education Manager is system of record

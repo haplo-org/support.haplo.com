@@ -1,53 +1,80 @@
-title: Historical changes
+title: Historical data import
 --
 
-Information about suspensions and extensions for *current* Postgraduate Researchers is essential for the correct functioning of the date calculations. This information is not required for Postgraduate Researchers who have completed or withdrawn.
+Information about suspensions and extensions for *current* students is essential for the correct functioning of the project dates calculations. This information is not required for students who have completed or withdrawn.
 
 
 h2. Previous suspensions and extensions
 
-Details of historical suspensions and extensions for current Postgraduate Researchers must be provided, as without this information, the submission deadline will be incorrect.
+Details of historical suspensions and extensions for current students must be provided, as without this information, the submission deadline will be incorrect.
 
-Upload the following information via your Project Room:
+Upload the following information via a dedicated task in your Project Room:
 
-* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
-* type of record, either @suspension@ or @extension@
-* start date of suspension period
-* end date of suspension period
-
-For extensions, send either:
-
-* the initial submission date and revised submission date; or 
-* initial/revised submission date together with the length of the extension.
-
+* username of student (to match the username in the [node:setup/user-data/phd-manager:user sync])
+* type of record, either @suspension@ or @extension@ (not required if provided in separate files)
+* start date of suspension/extension period
+* end date of suspension/extension period
 
 h2. Changes of mode
 
-While it is not essential, it is recommended that you provide data on the previous changes of mode of current Postgraduate Researchers. This helps with validating the calculation of project dates for these students.
+Details of previous changes of mode for current students must be provided. This helps with validating the calculation of project dates for these students.
 
 Please provide a file with records containing the following fields:
 
-* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
+* username of student (to match the username in the [node:setup/user-data/phd-manager:user sync])
 * date of change
-* mode before change
-* mode after change
+* type of change (@FT-PT@ for a change from FT to PT and @PT-FT@ for a change from PT to FT)
 
 
 h2. Historical milestone
 
 If milestones, such as previous annual progress reviews, are available and relevant, they can be provided in a single file with the following fields:
 
-* username of Postgraduate Researcher (to match the username in the [node:setup/user-data/phd-manager:user feed])
-* kind of milestone
-* date of milestone
+* username of student (to match the username in the [node:setup/user-data/phd-manager:user sync])
+* kind/name of milestone
+* completed date
 
-The milestone 'kind' can be any reasonable description of the milestone, either a code or a human readable name.
+The milestone 'kind' can be any reasonable description of the milestone, it's recommended to use a code representation instead of a human readable value.
 
+h2. End dates
+
+End dates should be provided for all current students, either within the [node:setup/user-data/phd-manager:user sync file] or in a single file, so that they can be used for project dates calculation verification.
+
+The following fields should be included:
+* username of student (to match the username in the [node:setup/user-data/phd-manager:user sync])
+* kind/name of milestone
+* current deadline
+
+h2. Past projects
+
+While not essential, you may wish to import details of past postgraduate researchers to provide a complete history of a supervisory or examination experience.
+
+When providing a file of previous students do not include any details of current students that appear in the [node:setup/user-data/phd-manager:user sync].
+
+Upload the information listed below via a dedicated task in your Project Room.
+
+For supervisory experience:
+
+* username of supervisor (to match the username in the [node:setup/user-data/phd-manager:user sync])
+* Student name
+* Project/Thesis title (optional)
+* Project type (optional)
+* Mode (optional)
+* Supervisor role (e.g. Main supervisor, Co-supervisor) (optional)
+* Project start date (optional)
+* Project end date (optional)
+
+For examination experience:
+* username of examiner (to match the username in the [node:setup/user-data/phd-manager:user sync])
+* Student name
+* Project/Thesis title (optional)
+* Project type (optional)
+* Role (e.g. Internal examiner, External examiner, Chair) (optional)
+* Viva date (optional)
 
 h2. Data files
 
-These files may be in any reasonable structure in "JSON, XML or TSV":https://docs.haplo.org/import/control/files#File_formats.
-
-Date fields may be provided in any consistent, machine-readable format.
+This information should to be provided in a "structured format":https://docs.haplo.org/import/control/files#File_formats in a single file.
+Preferred file format is JSON.
 
 

@@ -4,16 +4,17 @@ long_title: Managing access for external supervisors and external examiners
 
 External supervisors and external examiners can be given access to Graduate Education Manager. 
 
-The appointment of an external supervisor or external examiner is normally confirmed during a workflow. Upon confirmation, a task is sent to members of the Doctoral College Office prompting them to arrange access for the external user. 
+The appointment of an external supervisor or external examiner is normally confirmed during a workflow. Upon confirmation, if a new account creation is required, a task is sent to members of the Graduate School prompting them to arrange access for the external user. 
 
 h2. Providing access via an institutional account
 
-If the institution will provide an institutional account for the external user, this should be requested and setup outside of Haplo. Once created, the external's institutional user account will appear in the data feed to Haplo. 
+If the institution will provide an institutional account for the external user, this should be requested and setup outside of Haplo. Once created, the external's institutional user account will appear in the User Sync.
 
-Upon confirmation from the IT team that the account has been created, the Doctoral College Office should merge the newly created profile for the external with the temporary profile created during approval of the nomination of examiners or approval of supervisor appointment. This will then link the external to the correct Postgraduate Researcher enabling them to view the relevant records of the Postgraduate Researcher they will be examining or supervising.  
+Upon confirmation from the IT team that the account has been created, the Graduate School member should link the newly created profile for the external to the nomination of examiners or approval of supervisor appointment workflow.
+This will then link the external to the correct application enabling them to view the relevant records of the student they will be examining or supervising.
 
 h2. Providing access via a Haplo account
 
 Where the institution does not provide institutional accounts for externals, a Haplo account can be created. 
 
-Upon approval of the appointment of the examiner or supervisor, the Doctoral College Office should go to the external's profile and 'Request external access.' An email with a link to set a password will be sent to the external. 
+Upon approval of the appointment of the examiner or supervisor, an external profile is automatically created. An email with a link to set a password will be sent to the external. 

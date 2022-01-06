@@ -1,6 +1,6 @@
-title: Change requests
-long_title: Change requests
+title: Candidature Management
+long_title: Candidature Management
 class: DocNodeTextileWithTOC
 --
 
-Change requests are typically submitted by the postgraduate researcher or supervisor to request a change to registration, e.g. suspension, extension and change of mode of attendance.  On approval project dates and status are updated.
+Candidature Management processes are typically started by the student or supervisor to request a change to registration, e.g. suspension, extension and change of mode of attendance.  On approval project dates and status are updated.

@@ -3,11 +3,11 @@ long_title: Graduate Education Manager user data
 class: DocNodeTextileWithTOC
 --
 
-Graduate Education Manager requires more data than other Haplo Research Manager modules, because it needs details of postgraduate research projects as well as academic researchers and staff.
+Graduate Education Manager requires more data than other Haplo Research Manager modules, because it needs details of research projects as well as academic researchers and staff.
 
-Postgraduate Researchers should be included in the feed once they have enrolled (unless Graduate Education Manager is managing your Recruitment and Admissions process.) All other users can be included whether or not they are involved in a postgraduate research project.
+Students should be included in the user sync once they have enrolled (unless Graduate Education Manager is managing your Recruitment and Admissions process.) All other users can be included whether or not they are involved in a research project.
 
-Data will typically be sourced from your student records system and HR system, and [node:setup/user-data/phd-manager/send-files:provided as structured data] in JSON or XML.
+Data will typically be sourced from your Student Information System and HR system, and [node:setup/user-data/phd-manager/send-files:provided as structured data] in JSON or XML (recommended).
 
 h2. All users
 
@@ -21,7 +21,8 @@ All users must have:
 
 Additionally, your institution may wish to provide:
 
-* Nationality: Specific nationality, or wider categories such as _Home_ or _International_
+* Telephone number
+* Address
 * Disability information
 * REF Unit of Assessment (for UK institutions only)
 
@@ -34,14 +35,14 @@ The @username@ of a user must be unique within the data files, so that users can
 
 Usernames are opaque to the user sync, and can be any string or identifier. Note that usernames are _case insensitive_, and internally are converted to lower case. The identifiers used as the username must not differ only in case, eg @JSmith@ and @jsmith@ must refer to the same user.
 
-If a record duplicates the @username@ of a previous record, it will be ignored with an error in the logs.
+If a record duplicates the @username@ of a previous record, it will be ignored with an error in the user sync logs.
 
 While it's not an enforced constraint, it is advised that email addresses are unique for avoiding ambiguity. This is particularly important for authenticating users through external identity systems that use the email address to identify the authenticated user.
 
 
 h2. Mappings for data provided as a code
 
-Many of the fields will be provided as codes to unambiguously identify things like organisational units, visas and and programmes of study.
+Many of the fields will be provided as codes to unambiguously identify things like organisational units, visas and project types.
 
 You should not include the human readable names within the feed. Instead, please provide Haplo with a mapping that specifies how to interpret the codes. This information can be provided in any format, for example a spreadsheet or a document.
 
@@ -50,23 +51,25 @@ h2. Student project data
 
 As well as the required information above, students must have:
 
-* Registration/enrolment start date
-* Programme of study
+* Project title
+* Supervisors (as usernames and roles)
 * Mode (full time or part time)
-* Status (active, suspended, etc)
+* Project type
+* Start date
+* Enrolment status (e.g. active, suspended)
+* Current stage (e.g. submitted, examined) 
 
 and optionally,
 
+* Fee status
 * Visa type (especially for Tier 4 monitoring for UK institutions)
-* Supervisors (as usernames)
-* Project title
+* ATAS (for UK institutions)
 * Scholarship/studentship information
-* Programme of study
 
 
 h3. Additional data and revisions to user feed
 
-The list of data here is not exhaustive. Your institution will probably need additional data to be synchronised to enable implementation of business rules and provide necessary information to your users.
+Your institution may require additional data to be synchronised to enable implementation of business rules and provide necessary information to your users. Addition of custom fields will be chargeable.
 
 In addition, the [node:setup/architecture:integration architecture] will determine how data is transferred between systems.
 

@@ -1,19 +1,36 @@
-title: Project dates
-long_title: Postgraduate Researcher project dates and alerts
+title: Milestones
+long_title: Milestones: Project dates, objectives and goals
 --
 
-Graduate Education Manager calculates submission deadlines and all key milestones for Postgraudate Researchers. Project dates for each Postgraduate Researcher can be seen under the 'Project dates' option on the right of the Postgraduate Researcher project record. 
+Graduate Education Manager's standard Milestones functionality provides 'out-of-the-box' functionality for the management of student key dates/deadlines, objectives and goals.
 
-h2. Project dates calculation engine
+The Graduate Education Manager Milestones engine calculates student submission deadlines and other key dates/deadlines for students. Project dates, objectives and goals for each student can be seen under the 'Milestones and goals' option on the right of the student project record.
 
-The Project dates calculation engine uses the Postgraduate Researcher's start date, mode, and intended award to calcuate dates. The engine takes into account any suspensions, extensions, or changes to mode which affect the submission deadline and any milestones not yet completed. 
+h2. Project dates and alerts
 
-Historical suspensions, extensions and changes of mode (those that were approved prior to deploying Graduate Education Manager) can be taken into account if the data is provided during the implementation of Graduate Education Manager.  
+As part of the design of your system Haplo work with institutions to define student key project dates and related alerts. These are typically taken from institutional regulations, policies and processes and relate to deadlines during a project that are supported by workflows within the Graduate Education Manager system, e.g. exams, annual progression. Dates or deadlines unrelated to workflows are managed via Objectives.
 
-Project date rules are implemented for each institution by Haplo. 
+h3. Project dates calculation engine
 
-Administrators can override upcoming project dates for individual Postgraduate Researchers by selecting the set/edit buttons next to each date on a Postgraduate Researcher's Project dates table. 
+The Project dates calculation engine uses the student's start date, mode, and intended award to calculate specified dates. Deadlines are automatically recalculated upon approval of changes to mode, extensions or suspensions.
+
+Historical suspensions, extensions and changes of mode (those that were approved prior to deploying Graduate Education Manager) can be taken into account if the data is provided during the implementation of Graduate Education Manager.
+
+Administrators can override upcoming project dates for individual students by selecting the set/edit buttons next to each date on a student's Project dates table.
+
+<b> Note: </b> Manual override of upcoming project dates will prevent from future automatic project dates calculation.
 
 h3. Alerts
 
-Graduate Education Manager sends an automatic reminder email to the Postgraduate Researcher (or where relevant the supervisor) an agreed number of days or weeks prior to each deadline. The date of the alert is recorded on the Postgraduate Researcher's project dates table. 
+Graduate Education Manager sends an automatic reminder email to the student (or where relevant the supervisor) an agreed number of days or weeks prior to each deadline. The date of the alert is recorded on the student's project dates table. 
+
+h2. Objectives
+
+Milestones applied to groups of students based on a defined applicability criteria, such as Research Institute, Project mode or award type.
+
+Objectives functionality is not required, if all key dates are covered by Project Dates and alerts.
+
+
+h2. Goals
+
+A goal is a milestone that is applied to only one project. These can be defined by the student, supervisors, or other privileged roles at the institution. These can be defined ad-hoc or as part of a workflow, like an Annual Progression Review.

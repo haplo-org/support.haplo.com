@@ -1,13 +1,13 @@
-title: User sync and data import
-long_title: User sync and data import
+title: User sync and data integration
+long_title: User sync and data integration
 --
 
-Haplo commonly integrates with your institutional identity management system and (for Graduate Education Manager) your Student Record System. 
+Haplo commonly integrates with your institutional identity management system and (for Graduate Education Manager) your Student Information System. 
 
-Your IT team will be provided with tools to setup and maintain the user sync and data feed integration.
+Your IT team will be provided with tools to setup and maintain the user sync and data integration.
 
 h3. Preparing data
 
-The successful deployment of your Haplo solution relies on the provision of good quality data from institutional IT systems during initial imports and through the ongoing data feed.
+The successful deployment of your Haplo solution relies on the provision of good quality data from institutional IT systems during initial imports and through the ongoing User Sync runs.
 
 Institutions often undertake data quality improvement work when preparing for a change of system which increases the successful deployment of their new system.

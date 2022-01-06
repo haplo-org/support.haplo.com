@@ -1,4 +1,4 @@
-title: Organisational structure
+title: Institutional structure
 --
 
 [SNIPPET setup/organisational-structure]

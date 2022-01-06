@@ -8,12 +8,12 @@ The Haplo team will provide advice during requirements gathering about the best 
 
 h3. 1) System of record
 
-For each field within the overall records about people and projects, a system of record must be chosen, so that each piece of information is maintained within a single system.
+For each field within the overall records about people and projects, a system of record must be chosen, so that each piece of information is maintained within a single system. This can be e.g. Student Information System, HR system, Graduate Education Manager or other.
 
 
 h3. 2) Integrations
 
-Once the system of record has been determined, [node:setup/integrations:integrations] must be designed to ensure data flows accurately between systems.
+Once the system of record has been determined, [node:setup/integrations:data integrations] must be designed to ensure data flows accurately between systems.
 
 
 h2. Special considerations

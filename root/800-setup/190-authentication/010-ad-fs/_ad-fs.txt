@@ -4,10 +4,11 @@ long_title: AD FS authentication
 
 AD FS comes in two flavours, the service built into Windows Server and hosted Azure AD. The overall principles are the same, but there are different setup instructions.
 
+Authentication via AD FS is our preferred method of authentication. 
 
 h2. Multiple environments
 
-During development and testing of your Haplo Research Manager application, we will need to run several environments. Because each environment has its own hostname and separate Service Provider, you will need to set up multiple SPs.
+During development and testing of your application. Separate SPs can be configured against each environment if required. Access to the test environment is usually obtained via your Project Room. 
 
 The production environment can only be configured towards the end of the development process, once the hostname under the institution's domain is delegated to the Haplo hosted service and an application is created.
 
@@ -32,7 +33,7 @@ Please follow the instructions for the flavour of AD FS you are using:
 
 In both cases, you will need to:
 
-* set up *claims*, so your IdP will send an identifier for your user. The identifier required is the unique identifier for each person in the user feed, and is most likely the username, but sometimes institutions use an email address.
+* set up *claims*, so your IdP will send an identifier for your user. The identifier required is the unique identifier for each person in the user sync, and is most likely the username, but sometimes institutions use an email address.
 
 * send us the *App Federation Metadata Url* so we can complete our configuration.
 

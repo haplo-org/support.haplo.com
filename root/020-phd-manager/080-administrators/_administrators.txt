@@ -2,4 +2,4 @@ title: Administrators
 long_title: Graduate Education Manager Administrators
 --
 
-Graduate Education Manager provides administrative and professional support staff with an overview of progress of all Postgraduate Researchers at their institution. 
+Graduate Education Manager provides administrative and professional support staff with an overview of progress of all students at their institution. 

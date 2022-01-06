@@ -4,24 +4,9 @@ long_title: User sync control file
 
 To set up the user sync, you need a "control file":https://docs.haplo.org/import/control to map the data you're providing.
 
-The Haplo team will write the initial version of the control file, and hand it over to you for fine turning. To start this process, please send the initial data files and your organisational structure via your [node:setup/project-room] as JSON or XML files. Although we don't recommend it, we can also accept TSV files.
+The Haplo team will write the initial version of the control file, and hand it over to you for review and final changes. To start this process, please send the initial data files and your institutional structure via your [node:setup/project-room] using a dedicated setup tasks. A recommended format of data files is JSON.
 
 Graduate Education Manager adds [node:setup/user-data/technical/control-file/phd-manager-model:project and supervisor information] to the data model.
-
-
-h2. Writing a control file
-
-If you prefer to create the initial control file yourself, it's best to start with the control file generator.
-
-CLICK_PATH TOOLS > Data import > Models > haplo:user-sync > Generate control file...
-
-Select all the fields for the _User account_ destination (@username@, etc), then select the other fields you're going to sync.
-
-Refer to the model information page for the meaning of these fields.
-
-CLICK_PATH TOOLS > Data import > Models > haplo:user-sync
-
-After you have selected the fields, click _Generate control file_ to produce the initial version. Then, referring to the "user sync documentation":https://docs.haplo.org/import/user-sync, set up the input files and adjust the instructions and mappings.
 
 h2. Managed groups
 
@@ -30,11 +15,10 @@ The user sync uses "Managed groups":https://docs.haplo.org/import/user-sync/user
 * @hres:group:researchers@ for academic staff
 * @hres:group:admin-staff@ for non-academic staff
 
-If your application will be used by PhD or taught students, the following groups will also be available in your system to categorise the students:
+If your application will be used by students or taught students, the following groups will also be available in your system to categorise the students:
 
-* @phd:group:doctoral-researchers@ for PhD students
-* @hres:group:postgraduate-taught-students@ for postgraduate taught students
-* @hres:group:undergraduate-students@ for undergraduate students
+* @phd:group:doctoral-researchers@ for students
+* @hres:group:postgraduate-taught-students@ for taught students
 
 h2. Reference documentation
 

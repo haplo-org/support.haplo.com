@@ -2,6 +2,6 @@ title: Setup
 long_title: Graduate Education Manager setup
 --
 
-The Haplo team work with you to understand the requirements for your Graduate Education Manager application. Then, they'll configure and deploy the application, and work with you to support the application once it goes live.
+Our team will work with you to understand the requirements for your Graduate Education Manager application. Then, they'll configure and deploy the application, and work with you to support the application once it goes live.
 
-During the setup process, Haplo will provide you with a project room. Documents that need to be provided can be transferred securely to Haplo by uploading them to the [node:phd-manager/setup/project-room].
+During the setup process, Haplo will provide you with a project room. Documents that need to be provided can be transferred securely by uploading them to the [node:phd-manager/setup/project-room].

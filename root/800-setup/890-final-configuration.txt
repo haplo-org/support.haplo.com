@@ -26,7 +26,7 @@ CLICK_PATH TOOLS > Groups
 
 The most important group is *IT Support*, which should contain your IT administration colleagues and Helpdesk staff. Belonging to this group gives extensive permission to read all data, and use the troubleshooting tools.
 
-Refer to the Implementation Plan document for other groups, which will depend on your configuration. These will be the groups of users who work with all the people in your institution, for example, the Registry.
+Refer to the requirements defined within the Project Room for other groups, which will depend on your configuration. These will be the groups of users who work with all the people in your institution, for example, the Registry.
 
 
 h2. User roles
@@ -42,7 +42,7 @@ h2. Guidance notes
 
 Authorised users can edit the guidance notes displayed at key points in their process. The *IT Support* group may not necessarily be able to edit them, as permissions are normally set to allow the administration staff to manage the guidance for their area.
 
-On the home page, click the activity button (eg "Doctoral College", "Ethical Governance", etc) and then scroll to the bottom of the menu to the *Customisation* section.
+On the home page, click the activity button (e.g. "Doctoral College", "Ethical Governance", etc.) and then scroll to the bottom of the menu to the *Customisation* section.
 
 These guidance notes can be updated at any time.
 

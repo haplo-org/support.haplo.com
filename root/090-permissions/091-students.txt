@@ -9,53 +9,48 @@ The roles used in Haplo vary between institutions and the permissions applied to
 Access to Graduate Education Manager, Ethics Monitor, Funding, Repository and Profile functionality only applies where the institution has subscribed to use this module. 
 
 
-h3. Postgraduate researcher
+h3. Student
 
-Can access data directly related to their own project. 
-Can view basic information (name, email, department) on staff and student profiles.
+* Can access data directly related to their own project. 
+* Can view basic information (name, email, department) on staff and student profiles.
 
 h4. Graduate Education Manager
 
-Can view data on their project record except any fields which are restricted because they are only visible to the Graduate Office or other staff and not shown to the student.
+* Can view data on their project record except any fields which are restricted because they are only visible to the Graduate School or other staff and not shown to the student.
 
-Can view and use:
-
-* Supervision meetings
-* Annual progress reviews, Application to transfer
-* Change requests (requests to change mode, suspend etc)
-* Examinations
+* Can view and use implemented workflows, e.g.: Supervision meetings, Annual progress reviews, Candidature management, Examination, etc.
 
 Some parts of each process will be restricted, for instance the supervisor only will be able to nominate examiners. Some parts of each process may be restricted from view at specific times during the process, for instance examiner reports may not be visible until after confirmation by a committee or Director of Graduate School. 
 
 h4. Ethics Monitor
 
-Can submit an application for ethical review. 
-Can view the progress of the application through the review process. 
-Cannot edit the application after submission unless it is returned to them for changes. 
-Receives and email and task if application is returned to them for changes. 
-Cannot view comments submitted by individual committee members during a committee online decision process. 
-Receives notification of the final outcome and can view edited feedback from the committee.
-Can recall or withdraw their application until it is scheduled for a committee discussion. 
+* Can submit an application for ethical review. 
+* Can view the progress of the application through the review process. 
+* Cannot edit the application after submission unless it is returned to them for changes. 
+* Receives and email and task if application is returned to them for changes. 
+* Cannot view comments submitted by individual committee members during a committee online decision process. 
+* Receives notification of the final outcome and can view edited feedback from the committee.
+* Can recall or withdraw their application until it is scheduled for a committee discussion. 
 
 h4. Repository
 
-Can submit research outputs to the institutional repository. Outputs are reviewed by the repository team prior to publication on the public repository. 
+* Can submit research outputs to the institutional repository. Outputs are reviewed by the repository team prior to publication on the public repository. 
 
 h4. Profile
 
-Can edit their public profile. Commonly this includes uploading a photo to their profile, adding and editing social media links and biographical text. 
+* Can edit their public profile. Commonly this includes uploading a photo to their profile, adding and editing social media links and biographical text.
 
 h3. Taught students
 
-Can access data directly related to their own project. Can view basic information (name, email, department) on staff and student profiles.
+* Can access data directly related to their own project.
+* Can view basic information (name, email, department) on staff and student profiles.
 
 h4. Ethics Monitor
 
-Can submit an application for ethical approval. 
-Can view the progress of the application through the approval process. 
-Cannot edit the application after submission unless it is returned to them for changes. Receives and email and task if application is returned to them for changes. 
-
-Cannot view comments submitted by individual committee members during a committee online decision process. 
-Receives notification of the final outcome and can view edited feedback from the committee.
+* Can submit an application for ethical approval. 
+* Can view the progress of the application through the approval process. 
+* Cannot edit the application after submission unless it is returned to them for changes. Receives and email and task if application is returned to them for changes. 
+* Cannot view comments submitted by individual committee members during a committee online decision process. 
+* Receives notification of the final outcome and can view edited feedback from the committee.
 
 

@@ -2,7 +2,7 @@ title: Shibboleth
 long_title: Shibboleth
 --
 
-Haplo is a member of a number of Shibboleth federations, and authentication via Shibboleth is our preferred method of authentication. The details of our Service Provider (SP) in each federation are listed below.
+Haplo is a member of a number of Shibboleth federations. The details of our Service Provider (SP) in each federation are listed below.
 
 To allow us to authenticate your users, you may need to configure your Identity Provider (IdP) to release appropriate claims to the Haplo SP. See the instructions for your federation below.
 

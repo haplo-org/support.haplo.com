@@ -1,14 +1,14 @@
-title: User data and feed
+title: User sync
 --
 
 Information about your users and their projects needs to be provided as part of the setup. This falls into two main categories:
 
-* The *ongoing* feed of information about current users,
+* The *ongoing* feed of information about *current* users,
 * *Migrated* data, where the system of record is changed to Haplo, either,
 ** as an import of legacy data,
 ** or at a particular point in the user's involvement with the institution, such as enrolment.
 
-The *user sync* manages the ongoing feed of user information for researchers and administrative staff. Some applications will also need details of Postgraduate Researchers, and possibly taught students.
+The *user sync* manages the ongoing feed of user information for researchers and administrative staff. Some applications will also need details of students, and possibly taught students.
 
 Migration of data uses *batch import* for legacy data, and the *user sync* where migration happens on an ongoing basis.
 
@@ -28,7 +28,7 @@ Please refer to the specific documentation for the modules you are using:
 [node:setup/user-data/phd-manager]
 [node:setup/user-data/ethics-monitor]
 
-When you use multiple modules, you will implement a single user feed containing the combined requirements for the modules.
+When you use multiple modules, you will implement a single user sync containing the combined requirements for the modules.
 
 
 h2. Technical reference
