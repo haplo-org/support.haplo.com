@@ -44,7 +44,7 @@ h3. Ethics Monitor
 
 *Committee representative (secretary)*
 
-* Receives notification when applications have been assigned to the committee (first committee represented listed on the committee record where there are more than one.)
+* Receives notification when applications have been assigned to the committee (first committee represented listed on the committee record where there are more than one).
 * Can view all applications being considered or that have been considered by the committee. 
 * Can delegate tasks to co-representatives.
 * Can take over tasks from a co-representative. 

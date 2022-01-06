@@ -4,7 +4,7 @@ long_title: Committee members
 
 Haplo provides comprehensive support for committees to streamline the review and approval of applications.
 
-Committee members will be asked to review applications via Ethics Monitor and sometimes leave comments and recommendations. As a committee member you have access to view all applications sent to the committee (except where conflict of interest rules apply.)
+Committee members will be asked to review applications via Ethics Monitor and sometimes leave comments and recommendations. As a committee member you have access to view all applications sent to the committee (except where conflict of interest rules apply).
 
 Your Committee Representative (normally Secretary or Chair depending on your institution's configuration) will receive notification when an application is submitted to the committee. They can schedule the application for discussion at an upcoming in-person meeting, or submit it for an Online decision by the committee, or send it to the Committee Chair to action.
 

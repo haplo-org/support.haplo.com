@@ -2,7 +2,7 @@ title: External ethics approval
 long_title: Managing ethics approvals involving external bodies
 --
 
-Some ethics applications may require approval from ethics committees or boards which are external to the institution (most commonly in the UK are applications requiring approval from the NHS.) 
+Some ethics applications may require approval from ethics committees or boards which are external to the institution (most commonly in the UK are applications requiring approval from the NHS). 
 
 How external approval is handled depends on the preferred process for each institution. 
 

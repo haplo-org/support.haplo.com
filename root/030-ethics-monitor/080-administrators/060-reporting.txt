@@ -8,4 +8,4 @@ For users with responsibility specific to a faculty or school, only details of e
 
 Information can be downloaded from each dashboard in excel format.
 
-In addition to standard dashboards, instituitons can request custom dashboards and reports by contacting Haplo Client Support via your Haplo Project Room. 
+In addition to standard dashboards, institutions can request custom dashboards and reports by contacting Haplo Client Support via your Haplo Project Room. 

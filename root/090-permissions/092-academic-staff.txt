@@ -43,7 +43,7 @@ On an individual student record they can:
 
 * view if a student has submitted an ethics application, read the application, and view the current status and outcome of an application. 
 
-* view the submission deadline for each student, the status of examination arrangements, and the status of the submission and examination of the thesis (or equivalent.) (PGR coordinators cannot read the examiner preliminary reports or post-viva reports until these are shared with the student.)
+* view the submission deadline for each student, the status of examination arrangements, and the status of the submission and examination of the thesis (or equivalent). (PGR coordinators cannot read the examiner preliminary reports or post-viva reports until these are shared with the student.)
 
 * view the student's training and development needs analysis, training plan, log of development undertaken. 
 
@@ -73,8 +73,8 @@ PGR coordinators can view dashboards/reports showing the status of various funct
 
 * Can view all submissions being considered or that have been considered by the committee. 
 * Can delegate tasks to Deputy Chairs.
-* Receives notification when submissions have been sent for Chair's review (Chair's action.)
-* Can comment on, progress or return submissions assigned to them for Chair's review (Chair's action.)
+* Receives notification when submissions have been sent for Chair's review (Chair's action).
+* Can comment on, progress or return submissions assigned to them for Chair's review (Chair's action).
 * Can view past and upcoming committee meeting information.
 * Can view dashboards relating to the committee.
 
@@ -109,7 +109,7 @@ h3. Ethics Monitor
 
 This role is normally conducted by professional services support staff acting as committee secretary but may be undertaken by an academic performing the role of committee secretary.
 
-* Receives notification when applications have been assigned to the committee (first committee representative listed on the committee record where there are more than one.)
+* Receives notification when applications have been assigned to the committee (first committee representative listed on the committee record where there are more than one).
 * Can view all applications being considered or that have been considered by the committee. 
 * Can delegate tasks to co-representatives.
 * Can take over tasks from a co-representative. 
@@ -133,8 +133,8 @@ This role is normally conducted by professional services support staff acting as
 
 * Can view all applications being considered or that have been considered by the committee. 
 * Can delegate Chair's action tasks to Deputy Chairs.
-* Receives notification when applications have been sent for Chair's review (Chair's action.)
-* Can comment on, progress or return applications assigned to them for Chair's review (Chair's action.)
+* Receives notification when applications have been sent for Chair's review (Chair's action).
+* Can comment on, progress or return applications assigned to them for Chair's review (Chair's action).
 * Can view past and upcoming committee meeting information.
 * Can view dashboards relating to the committee.
 
@@ -151,7 +151,7 @@ Committee chairs can be assigned as a co-committee representative which grants t
 
 *Reviewers*
 
-Any academic staff may be nominated as a reviewer (commonly used to review an ethics or funding application.)
+Any academic staff may be nominated as a reviewer (commonly used to review an ethics or funding application).
 
 * Receives notification when nominated to review an application.
 * Can view the application and associated files.

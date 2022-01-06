@@ -10,7 +10,7 @@ After reading any introductory notes provided by the institution, the applicant 
 
 h3. Navigating the application form
 
-The application is split into tabs. Mandatory questions are highlighted with a red asterix. 
+The application is split into tabs. Mandatory questions are highlighted with a red asterisk. 
 
 h3. Guidance notes
 

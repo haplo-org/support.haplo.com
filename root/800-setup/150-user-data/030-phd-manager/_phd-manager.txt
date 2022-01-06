@@ -5,7 +5,7 @@ class: DocNodeTextileWithTOC
 
 Graduate Education Manager requires more data than other Haplo Research Manager modules, because it needs details of research projects as well as academic researchers and staff.
 
-Students should be included in the user sync once they have enrolled (unless Graduate Education Manager is managing your Recruitment and Admissions process.) All other users can be included whether or not they are involved in a research project.
+Students should be included in the user sync once they have enrolled (unless Graduate Education Manager is managing your Recruitment and Admissions process). All other users can be included whether or not they are involved in a research project.
 
 Data will typically be sourced from your Student Information System and HR system, and [node:setup/user-data/phd-manager/send-files:provided as structured data] in JSON or XML (recommended).
 

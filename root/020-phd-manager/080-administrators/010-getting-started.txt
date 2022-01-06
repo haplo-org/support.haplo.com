@@ -36,7 +36,7 @@ h3. Down the left side
 
 h3. How to access dashboards
 
-Graduate Education Manager's dashboards will be your primary way to access information on students and their projects in your institution. Access the dashboards via the 'Doctoral College' link on the right or centre of your home page (depending on your institution's configuration of the homepage.)
+Graduate Education Manager's dashboards will be your primary way to access information on students and their projects in your institution. Access the dashboards via the 'Doctoral College' link on the right or centre of your home page (depending on your institution's configuration of the homepage).
 
 
 

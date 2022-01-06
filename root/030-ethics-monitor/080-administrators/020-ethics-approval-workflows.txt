@@ -22,4 +22,4 @@ Once the application form has been submitted, the status of the workflow shows i
 
 h3. Viewing the status of all applications via dashboards
 
-View the dashboards for current ethics applications to see the progress of all ethics applicaitons.  
+View the dashboards for current ethics applications to see the progress of all ethics applications.  

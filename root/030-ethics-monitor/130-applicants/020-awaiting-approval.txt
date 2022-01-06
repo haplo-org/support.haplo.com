@@ -4,9 +4,9 @@ long_title: Awaiting approval
 
 h2. Viewing the status of approval
 
-Applicants can view the status of their applicaiton at all times via the STATUS panel in the top right of the application. 
+Applicants can view the status of their application at all times via the STATUS panel in the top right of the application. 
 
-They can view who is currently reviewing the application (unless this is confidential, for instance individual committee members.)
+They can view who is currently reviewing the application (unless this is confidential, for instance individual committee members).
 
 h3. Likely approval routing
 

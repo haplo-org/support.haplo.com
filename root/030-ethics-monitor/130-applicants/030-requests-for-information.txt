@@ -8,7 +8,7 @@ Reviewers and approvers may return an application to an applicant if they requir
 
 h3. Viewing comments
 
-The reviewer or approver may have left comments in line against questions on the application form, or in a cover note which is included in the email to the applicant and visibile in the timeline history at the bottom of the application record. 
+The reviewer or approver may have left comments in line against questions on the application form, or in a cover note which is included in the email to the applicant and visible in the timeline history at the bottom of the application record. 
 
 h3. Editing the application form
 
