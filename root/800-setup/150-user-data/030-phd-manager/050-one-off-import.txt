@@ -1,2 +1,8 @@
 title: One-off import
 --
+
+Data not managed via the User Sync that require one time import for current students will have to be provided in a separate JSON file.
+
+This information should to be provided in a "structured format":https://docs.haplo.org/import/control/files#File_formats in a single file using the *User sync and data migration* task in your project room.
+
+Preferred file format is JSON.

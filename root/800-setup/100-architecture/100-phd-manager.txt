@@ -24,4 +24,4 @@ h3. Dates
 
 It is best to avoid syncing dates other than the start date, and use Graduate Education Manager's date rules engine to calculate all project dates.
 
-The project end date should be verified using a [node:setup/user-data/phd-manager/submission-deadline:data extract] during the implementation process.
+The project end date should be verified using a [node:setup/user-data/phd-manager/historical-changes:data import] during the implementation process.

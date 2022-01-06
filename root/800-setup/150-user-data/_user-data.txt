@@ -1,4 +1,4 @@
-title: User sync
+title: User sync and data migration
 --
 
 Information about your users and their projects needs to be provided as part of the setup. This falls into two main categories:
