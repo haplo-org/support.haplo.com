@@ -34,7 +34,7 @@ It's also a good idea to run the @check@ command to perform final checks before 
 
 h2. Source control
 
-You should be developing your plugin using a source control system, and provide us access so we can take a copy of each version you'd like to deploy. We provide free [node:developer/fossil:Fossil source code repositories], but are happy to work with other source control systems if you host the repository.
+You should be developing your plugin using a source control system, and provide us access so we can take a copy of each version you'd like to deploy.
 
 You can develop more than one plugin in a repository. Plugins should be in a directory, named after that plugin, at the root of the repository.
 
