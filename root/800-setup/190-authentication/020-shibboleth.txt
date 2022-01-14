@@ -29,6 +29,16 @@ By default, the UK Federation does not send any identifying claims to Service Pr
 Note that the UK Federation uses @http:@ URLs for entityIds, but the service is only available over @https:@.
 
 
+h2. SURFconext (The Netherlands)
+
+"SURFconext":https://dashboard.surfconext.nl/ offers Single Sign On access for educational and research institutions in The Netherlands
+
+|*ID*|"Haplo":https://dashboard.surfconext.nl/apps/8428/saml20_sp/about|
+|*entityId*|@http://shib2.haplo-services.net/shibboleth@|
+
+With SURFconext, all claims are explicit and need to be authorised. By default, we request *email*, *principalname*, and *epsa*.
+
+
 h2. Tuakiri (New Zealand)
 
 "Tuakiri":https://reannz.co.nz/services/network-cloud-services/tuakiri/ is New Zealand's federated identity management service.
