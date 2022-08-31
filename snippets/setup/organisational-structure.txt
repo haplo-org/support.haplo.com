@@ -15,7 +15,7 @@ An organisation structure could be supplied as a spreadsheet such as:
 |U000||University of Example|
 |S000|U000|Science and Technology|
 |S100|S000|Computer Science|
-|S102|S100|Engineering|
+|S102|S000|Engineering|
 |S923|S100|Civil Engineering|
 |S650|S000|Architecture|
 |L002|S000|Life Sciences|
@@ -33,7 +33,7 @@ The above example represents the following structure:
 * University of Example
 ** Science and Technology
 *** Computer Science
-**** Engineering
+*** Engineering
 **** Civil Engineering
 *** Architecture
 *** Life Sciences
