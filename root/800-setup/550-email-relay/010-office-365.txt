@@ -61,3 +61,14 @@ h3. 7) Ask Haplo to check configuration
 
 After you've set this up, please ask your Haplo contact to confirm the configuration is working.
 
+h3. 8) Troubleshooting
+
+There are a number of issues that can prevent email delivery via Office 365. The following constraints are necessary on the configuration of the account used, or the tenant.
+
+ * The account must be a fully licensed account, it must exist, and the password we have should be correct
+
+ * The account used must not require modern authentication; the relay uses BASIC AUTH
+
+ * Security defaults must not be enabled for the tenant
+
+ * There must not be a conditional access policy blocking smtp
